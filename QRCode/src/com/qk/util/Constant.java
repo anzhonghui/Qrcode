@@ -19,15 +19,15 @@ public interface Constant {
 	int MAX_IMG_CON = 5;
 	//设置每条消息的最大处理长度
 	int MAX_MSG_LEGTH = 400;
-	//图片前半部分路径：/usr/java/image/img
-	String IMG_PATH = "./image/img";
+	//图片前半部分路径：/usr/java/image/img  ./image/img
+	String IMG_PATH = "/home/pi/Desktop/image/img";
 	//netty绑定的端口号
 	int PORT = 8010;
-	//连接sqlite的URL：jdbc:sqlite:///usr/java/sqlite/tim.db
-	String URL = "jdbc:sqlite://d:/DevRepository/sqlite/tim.db";
+	//连接sqlite的URL：jdbc:sqlite:///usr/java/sqlite/tim.db jdbc:sqlite://d:/DevRepository/sqlite/tim.db
+	String URL = "jdbc:sqlite:///home/pi/Desktop/sqlite/tim.db";
 	String DRIVER = "org.sqlite.JDBC";
 	//设置netty接受的最大字节数
 	int MAX_NETTY_LEGTH = 1024;
 	//Excel文件的名称./11.xls  /home/pi/Desktop/port.xls
-	String EXCEL_NAME = "E:/port.xls";
+	String EXCEL_NAME = "/home/pi/Desktop/port.xls";
 }
