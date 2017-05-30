@@ -1,0 +1,1371 @@
+2017-05-09 08:05:37 [ main:0 ] - [ INFO ] 开始显示二维码:2017-05-09 08:05
+2017-05-09 08:05:38 [ nioEventLoopGroup-3-1:526 ] - [ INFO ] [id: 0x23fc40b2] REGISTERED
+2017-05-09 08:05:38 [ nioEventLoopGroup-2-1:526 ] - [ INFO ] [id: 0x2e7e1d54] REGISTERED
+2017-05-09 08:05:38 [ nioEventLoopGroup-3-1:542 ] - [ INFO ] [id: 0x23fc40b2] BIND(0.0.0.0/0.0.0.0:8020)
+2017-05-09 08:05:38 [ nioEventLoopGroup-2-1:542 ] - [ INFO ] [id: 0x2e7e1d54] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 08:05:38 [ nioEventLoopGroup-2-1:542 ] - [ INFO ] [id: 0x2e7e1d54, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 08:05:38 [ nioEventLoopGroup-3-1:542 ] - [ INFO ] [id: 0x23fc40b2, L:/0:0:0:0:0:0:0:0:8020] ACTIVE
+2017-05-09 08:05:39 [ AWT-EventQueue-0:2276 ] - [ INFO ] 从库中库消息-msgCount:1Message [id=1, meg=1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111122222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222233333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333344444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555]
+2017-05-09 08:05:39 [ AWT-EventQueue-0:2279 ] - [ INFO ] 处理后的消息为：[10011111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111, 10021111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111, 10031111111111111112222222222222222222222222222222222222222222222222222222222222222222222222222222222222, 10042222222222222222222222222222222222222222222233333333333333333333333333333333333333333333333333333333, 10053333333333333333333333333333333333333333333333333333333333333333333333333333333333333444444444444444, 10064444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444455555555, 10175555555555555555555555555555555555555555555555555555555555555555555555555555555555555]
+2017-05-09 08:05:40 [ AWT-EventQueue-0:2655 ] - [ INFO ] 显示消息1的第1张二维码
+2017-05-09 08:05:41 [ AWT-EventQueue-0:4236 ] - [ INFO ] 显示消息1的第2张二维码
+2017-05-09 08:05:43 [ AWT-EventQueue-0:6257 ] - [ INFO ] 显示消息1的第3张二维码
+2017-05-09 08:05:45 [ AWT-EventQueue-0:8247 ] - [ INFO ] 显示消息1的第4张二维码
+2017-05-09 08:05:47 [ AWT-EventQueue-0:10255 ] - [ INFO ] 显示消息1的第5张二维码
+2017-05-09 08:05:49 [ AWT-EventQueue-0:12256 ] - [ INFO ] 显示消息1的第6张二维码
+2017-05-09 08:05:51 [ AWT-EventQueue-0:14276 ] - [ INFO ] 显示消息1的第7张二维码
+2017-05-09 08:05:53 [ AWT-EventQueue-0:16284 ] - [ INFO ] 从库中库消息-msgCount:2Message [id=2, meg=1234567891]
+2017-05-09 08:05:53 [ AWT-EventQueue-0:16284 ] - [ INFO ] 处理后的消息为：21001234567891
+2017-05-09 08:05:53 [ AWT-EventQueue-0:16371 ] - [ INFO ] 显示消息2的二维码
+2017-05-09 08:07:29 [ nioEventLoopGroup-2-1:112251 ] - [ INFO ] [id: 0x2e7e1d54, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x20bfbcd3, L:/127.0.0.1:8010 - R:/127.0.0.1:12149]
+2017-05-09 08:07:31 [ nioEventLoopGroup-3-1:113863 ] - [ INFO ] [id: 0x23fc40b2, L:/0:0:0:0:0:0:0:0:8020] RECEIVED: [id: 0xc8eabf35, L:/127.0.0.1:8020 - R:/127.0.0.1:12151]
+2017-05-09 08:07:42 [ nioEventLoopGroup-5-1:125060 ] - [ INFO ] 12149:127.0.0.1--发送的第1消息：aa
+2017-05-09 08:07:50 [ nioEventLoopGroup-4-1:132674 ] - [ INFO ] 12151:127.0.0.1--发送的第2消息：bb
+2017-05-09 08:08:14 [ nioEventLoopGroup-5-1:157165 ] - [ INFO ] 12149:127.0.0.1--发送的第3消息：aa
+2017-05-09 08:08:14 [ nioEventLoopGroup-5-1:157411 ] - [ INFO ] 12149:127.0.0.1--发送的第4消息：aa
+2017-05-09 08:08:15 [ nioEventLoopGroup-5-1:157621 ] - [ INFO ] 12149:127.0.0.1--发送的第5消息：aa
+2017-05-09 08:08:15 [ nioEventLoopGroup-5-1:157833 ] - [ INFO ] 12149:127.0.0.1--发送的第6消息：aa
+2017-05-09 08:08:15 [ nioEventLoopGroup-5-1:158022 ] - [ INFO ] 12149:127.0.0.1--发送的第7消息：aa
+2017-05-09 08:08:15 [ AWT-EventQueue-0:158387 ] - [ INFO ] 从库中库消息-msgCount:3Message [id=3, meg=aa]
+2017-05-09 08:08:15 [ AWT-EventQueue-0:158387 ] - [ INFO ] 处理后的消息为：3100aa
+2017-05-09 08:08:16 [ AWT-EventQueue-0:158422 ] - [ INFO ] 显示消息3的二维码
+2017-05-09 08:08:16 [ nioEventLoopGroup-5-1:158708 ] - [ INFO ] 12149:127.0.0.1--发送的第8消息：aa
+2017-05-09 08:08:17 [ AWT-EventQueue-0:160391 ] - [ INFO ] 从库中库消息-msgCount:4Message [id=4, meg=aa]
+2017-05-09 08:08:17 [ AWT-EventQueue-0:160391 ] - [ INFO ] 处理后的消息为：4100aa
+2017-05-09 08:08:18 [ AWT-EventQueue-0:160424 ] - [ INFO ] 显示消息4的二维码
+2017-05-09 08:08:19 [ nioEventLoopGroup-4-1:162295 ] - [ INFO ] 12151:127.0.0.1--发送的第9消息：bb
+2017-05-09 08:08:20 [ nioEventLoopGroup-4-1:162538 ] - [ INFO ] 12151:127.0.0.1--发送的第10消息：bb
+2017-05-09 08:08:20 [ nioEventLoopGroup-4-1:162747 ] - [ INFO ] 12151:127.0.0.1--发送的第11消息：bb
+2017-05-09 08:08:20 [ AWT-EventQueue-0:162775 ] - [ INFO ] 从库中库消息-msgCount:5Message [id=5, meg=aa]
+2017-05-09 08:08:20 [ AWT-EventQueue-0:162775 ] - [ INFO ] 处理后的消息为：5100aa
+2017-05-09 08:08:20 [ AWT-EventQueue-0:162846 ] - [ INFO ] 显示消息5的二维码
+2017-05-09 08:08:20 [ nioEventLoopGroup-4-1:162979 ] - [ INFO ] 12151:127.0.0.1--发送的第12消息：bb
+2017-05-09 08:08:21 [ AWT-EventQueue-0:164402 ] - [ INFO ] 从库中库消息-msgCount:6Message [id=6, meg=aa]
+2017-05-09 08:08:21 [ AWT-EventQueue-0:164402 ] - [ INFO ] 处理后的消息为：6100aa
+2017-05-09 08:08:22 [ AWT-EventQueue-0:164431 ] - [ INFO ] 显示消息6的二维码
+2017-05-09 08:08:23 [ AWT-EventQueue-0:166392 ] - [ INFO ] 从库中库消息-msgCount:7Message [id=7, meg=aa]
+2017-05-09 08:08:23 [ AWT-EventQueue-0:166392 ] - [ INFO ] 处理后的消息为：7100aa
+2017-05-09 08:08:24 [ AWT-EventQueue-0:166427 ] - [ INFO ] 显示消息7的二维码
+2017-05-09 08:08:26 [ AWT-EventQueue-0:168422 ] - [ INFO ] 从库中库消息-msgCount:8Message [id=8, meg=aa]
+2017-05-09 08:08:26 [ AWT-EventQueue-0:168423 ] - [ INFO ] 处理后的消息为：8100aa
+2017-05-09 08:08:26 [ AWT-EventQueue-0:168456 ] - [ INFO ] 显示消息8的二维码
+2017-05-09 08:08:26 [ nioEventLoopGroup-5-1:168741 ] - [ INFO ] 12149:127.0.0.1--发送的第13消息：aa
+2017-05-09 08:08:27 [ AWT-EventQueue-0:170397 ] - [ INFO ] 从库中库消息-msgCount:9Message [id=9, meg=bb]
+2017-05-09 08:08:27 [ AWT-EventQueue-0:170398 ] - [ INFO ] 处理后的消息为：9100bb
+2017-05-09 08:08:28 [ AWT-EventQueue-0:170439 ] - [ INFO ] 显示消息9的二维码
+2017-05-09 08:08:29 [ AWT-EventQueue-0:172406 ] - [ INFO ] 从库中库消息-msgCount:10Message [id=10, meg=bb]
+2017-05-09 08:08:29 [ AWT-EventQueue-0:172407 ] - [ INFO ] 处理后的消息为：10100bb
+2017-05-09 08:08:30 [ AWT-EventQueue-0:172443 ] - [ INFO ] 显示消息10的二维码
+2017-05-09 08:08:30 [ nioEventLoopGroup-4-1:172716 ] - [ INFO ] 12151:127.0.0.1--发送的第14消息：bb
+2017-05-09 08:08:31 [ AWT-EventQueue-0:174371 ] - [ INFO ] 从库中库消息-msgCount:11Message [id=11, meg=bb]
+2017-05-09 08:08:31 [ AWT-EventQueue-0:174371 ] - [ INFO ] 处理后的消息为：11100bb
+2017-05-09 08:08:31 [ AWT-EventQueue-0:174401 ] - [ INFO ] 显示消息11的二维码
+2017-05-09 08:08:32 [ nioEventLoopGroup-5-1:175193 ] - [ INFO ] 12149:127.0.0.1--发送的第15消息：aa
+2017-05-09 08:08:33 [ nioEventLoopGroup-5-1:175430 ] - [ INFO ] 12149:127.0.0.1--发送的第16消息：aa
+2017-05-09 08:08:33 [ nioEventLoopGroup-5-1:175606 ] - [ INFO ] 12149:127.0.0.1--发送的第17消息：aa
+2017-05-09 08:08:33 [ nioEventLoopGroup-5-1:175762 ] - [ INFO ] 12149:127.0.0.1--发送的第18消息：aa
+2017-05-09 08:08:33 [ nioEventLoopGroup-5-1:175928 ] - [ INFO ] 12149:127.0.0.1--发送的第19消息：aa
+2017-05-09 08:08:33 [ nioEventLoopGroup-5-1:176137 ] - [ INFO ] 12149:127.0.0.1--发送的第20消息：aa
+2017-05-09 08:08:33 [ AWT-EventQueue-0:176405 ] - [ INFO ] 从库中库消息-msgCount:12Message [id=12, meg=bb]
+2017-05-09 08:08:33 [ AWT-EventQueue-0:176405 ] - [ INFO ] 处理后的消息为：12100bb
+2017-05-09 08:08:34 [ AWT-EventQueue-0:176439 ] - [ INFO ] 显示消息12的二维码
+2017-05-09 08:08:35 [ AWT-EventQueue-0:178387 ] - [ INFO ] 从库中库消息-msgCount:13Message [id=13, meg=aa]
+2017-05-09 08:08:35 [ AWT-EventQueue-0:178387 ] - [ INFO ] 处理后的消息为：13100aa
+2017-05-09 08:08:35 [ AWT-EventQueue-0:178408 ] - [ INFO ] 显示消息13的二维码
+2017-05-09 08:08:37 [ AWT-EventQueue-0:180382 ] - [ INFO ] 从库中库消息-msgCount:14Message [id=14, meg=bb]
+2017-05-09 08:08:37 [ AWT-EventQueue-0:180383 ] - [ INFO ] 处理后的消息为：14100bb
+2017-05-09 08:08:37 [ AWT-EventQueue-0:180406 ] - [ INFO ] 显示消息14的二维码
+2017-05-09 08:08:38 [ nioEventLoopGroup-5-1:180448 ] - [ INFO ] 12149:127.0.0.1--发送的第21消息：aa
+2017-05-09 08:08:39 [ AWT-EventQueue-0:182398 ] - [ INFO ] 从库中库消息-msgCount:15Message [id=15, meg=aa]
+2017-05-09 08:08:39 [ AWT-EventQueue-0:182398 ] - [ INFO ] 处理后的消息为：15100aa
+2017-05-09 08:08:40 [ AWT-EventQueue-0:182423 ] - [ INFO ] 显示消息15的二维码
+2017-05-09 08:08:41 [ nioEventLoopGroup-4-1:183610 ] - [ INFO ] 12151:127.0.0.1--发送的第22消息：bb
+2017-05-09 08:08:41 [ AWT-EventQueue-0:184402 ] - [ INFO ] 从库中库消息-msgCount:16Message [id=16, meg=aa]
+2017-05-09 08:08:41 [ AWT-EventQueue-0:184403 ] - [ INFO ] 处理后的消息为：16100aa
+2017-05-09 08:08:42 [ AWT-EventQueue-0:184469 ] - [ INFO ] 显示消息16的二维码
+2017-05-09 08:08:43 [ nioEventLoopGroup-5-1:185469 ] - [ INFO ] 12149:127.0.0.1--发送的第23消息：aa
+2017-05-09 08:08:43 [ AWT-EventQueue-0:186411 ] - [ INFO ] 从库中库消息-msgCount:17Message [id=17, meg=aa]
+2017-05-09 08:08:43 [ AWT-EventQueue-0:186412 ] - [ INFO ] 处理后的消息为：17100aa
+2017-05-09 08:08:44 [ AWT-EventQueue-0:186446 ] - [ INFO ] 显示消息17的二维码
+2017-05-09 08:08:45 [ AWT-EventQueue-0:188398 ] - [ INFO ] 从库中库消息-msgCount:18Message [id=18, meg=aa]
+2017-05-09 08:08:45 [ AWT-EventQueue-0:188399 ] - [ INFO ] 处理后的消息为：18100aa
+2017-05-09 08:08:46 [ AWT-EventQueue-0:188419 ] - [ INFO ] 显示消息18的二维码
+2017-05-09 08:08:46 [ nioEventLoopGroup-4-1:188634 ] - [ INFO ] 12151:127.0.0.1--发送的第24消息：bb
+2017-05-09 08:08:47 [ AWT-EventQueue-0:190410 ] - [ INFO ] 从库中库消息-msgCount:19Message [id=19, meg=aa]
+2017-05-09 08:08:47 [ AWT-EventQueue-0:190411 ] - [ INFO ] 处理后的消息为：19100aa
+2017-05-09 08:08:48 [ AWT-EventQueue-0:190445 ] - [ INFO ] 显示消息19的二维码
+2017-05-09 08:08:48 [ nioEventLoopGroup-5-1:190485 ] - [ INFO ] 12149:127.0.0.1--发送的第25消息：aa
+2017-05-09 08:08:49 [ AWT-EventQueue-0:192395 ] - [ INFO ] 从库中库消息-msgCount:20Message [id=20, meg=aa]
+2017-05-09 08:08:49 [ AWT-EventQueue-0:192395 ] - [ INFO ] 处理后的消息为：20100aa
+2017-05-09 08:08:50 [ AWT-EventQueue-0:192424 ] - [ INFO ] 显示消息20的二维码
+2017-05-09 08:08:51 [ nioEventLoopGroup-4-1:193638 ] - [ INFO ] 12151:127.0.0.1--发送的第26消息：bb
+2017-05-09 08:08:51 [ AWT-EventQueue-0:194400 ] - [ INFO ] 从库中库消息-msgCount:21Message [id=21, meg=aa]
+2017-05-09 08:08:51 [ AWT-EventQueue-0:194400 ] - [ INFO ] 处理后的消息为：21100aa
+2017-05-09 08:08:52 [ AWT-EventQueue-0:194425 ] - [ INFO ] 显示消息21的二维码
+2017-05-09 08:08:53 [ nioEventLoopGroup-5-1:195524 ] - [ INFO ] 12149:127.0.0.1--发送的第27消息：aa
+2017-05-09 08:08:53 [ AWT-EventQueue-0:196403 ] - [ INFO ] 从库中库消息-msgCount:22Message [id=22, meg=bb]
+2017-05-09 08:08:53 [ AWT-EventQueue-0:196404 ] - [ INFO ] 处理后的消息为：22100bb
+2017-05-09 08:08:54 [ AWT-EventQueue-0:196430 ] - [ INFO ] 显示消息22的二维码
+2017-05-09 08:08:56 [ AWT-EventQueue-0:198426 ] - [ INFO ] 从库中库消息-msgCount:23Message [id=23, meg=aa]
+2017-05-09 08:08:56 [ AWT-EventQueue-0:198426 ] - [ INFO ] 处理后的消息为：23100aa
+2017-05-09 08:08:56 [ AWT-EventQueue-0:198454 ] - [ INFO ] 显示消息23的二维码
+2017-05-09 08:08:56 [ nioEventLoopGroup-4-1:198644 ] - [ INFO ] 12151:127.0.0.1--发送的第28消息：bb
+2017-05-09 08:08:57 [ AWT-EventQueue-0:200411 ] - [ INFO ] 从库中库消息-msgCount:24Message [id=24, meg=bb]
+2017-05-09 08:08:57 [ AWT-EventQueue-0:200411 ] - [ INFO ] 处理后的消息为：24100bb
+2017-05-09 08:08:58 [ AWT-EventQueue-0:200463 ] - [ INFO ] 显示消息24的二维码
+2017-05-09 08:08:58 [ nioEventLoopGroup-5-1:200533 ] - [ INFO ] 12149:127.0.0.1--发送的第29消息：aa
+2017-05-09 08:08:59 [ AWT-EventQueue-0:202412 ] - [ INFO ] 从库中库消息-msgCount:25Message [id=25, meg=aa]
+2017-05-09 08:08:59 [ AWT-EventQueue-0:202412 ] - [ INFO ] 处理后的消息为：25100aa
+2017-05-09 08:09:00 [ AWT-EventQueue-0:202440 ] - [ INFO ] 显示消息25的二维码
+2017-05-09 08:09:01 [ nioEventLoopGroup-4-1:203645 ] - [ INFO ] 12151:127.0.0.1--发送的第30消息：bb
+2017-05-09 08:09:01 [ AWT-EventQueue-0:204403 ] - [ INFO ] 从库中库消息-msgCount:26Message [id=26, meg=bb]
+2017-05-09 08:09:01 [ AWT-EventQueue-0:204403 ] - [ INFO ] 处理后的消息为：26100bb
+2017-05-09 08:09:02 [ AWT-EventQueue-0:204421 ] - [ INFO ] 显示消息26的二维码
+2017-05-09 08:09:03 [ nioEventLoopGroup-5-1:205538 ] - [ INFO ] 12149:127.0.0.1--发送的第31消息：aa
+2017-05-09 08:09:03 [ AWT-EventQueue-0:206406 ] - [ INFO ] 从库中库消息-msgCount:27Message [id=27, meg=aa]
+2017-05-09 08:09:03 [ AWT-EventQueue-0:206406 ] - [ INFO ] 处理后的消息为：27100aa
+2017-05-09 08:09:04 [ AWT-EventQueue-0:206430 ] - [ INFO ] 显示消息27的二维码
+2017-05-09 08:09:05 [ AWT-EventQueue-0:208406 ] - [ INFO ] 从库中库消息-msgCount:28Message [id=28, meg=bb]
+2017-05-09 08:09:05 [ AWT-EventQueue-0:208406 ] - [ INFO ] 处理后的消息为：28100bb
+2017-05-09 08:09:06 [ AWT-EventQueue-0:208437 ] - [ INFO ] 显示消息28的二维码
+2017-05-09 08:09:06 [ nioEventLoopGroup-4-1:208675 ] - [ INFO ] 12151:127.0.0.1--发送的第32消息：bb
+2017-05-09 08:09:07 [ AWT-EventQueue-0:210401 ] - [ INFO ] 从库中库消息-msgCount:29Message [id=29, meg=aa]
+2017-05-09 08:09:07 [ AWT-EventQueue-0:210402 ] - [ INFO ] 处理后的消息为：29100aa
+2017-05-09 08:09:08 [ AWT-EventQueue-0:210421 ] - [ INFO ] 显示消息29的二维码
+2017-05-09 08:09:08 [ nioEventLoopGroup-5-1:210568 ] - [ INFO ] 12149:127.0.0.1--发送的第33消息：aa
+2017-05-09 08:09:09 [ AWT-EventQueue-0:212403 ] - [ INFO ] 从库中库消息-msgCount:30Message [id=30, meg=bb]
+2017-05-09 08:09:09 [ AWT-EventQueue-0:212404 ] - [ INFO ] 处理后的消息为：30100bb
+2017-05-09 08:09:10 [ AWT-EventQueue-0:212420 ] - [ INFO ] 显示消息30的二维码
+2017-05-09 08:09:11 [ nioEventLoopGroup-4-1:213677 ] - [ INFO ] 12151:127.0.0.1--发送的第34消息：bb
+2017-05-09 08:09:11 [ AWT-EventQueue-0:214413 ] - [ INFO ] 从库中库消息-msgCount:31Message [id=31, meg=aa]
+2017-05-09 08:09:11 [ AWT-EventQueue-0:214414 ] - [ INFO ] 处理后的消息为：31100aa
+2017-05-09 08:09:12 [ AWT-EventQueue-0:214450 ] - [ INFO ] 显示消息31的二维码
+2017-05-09 08:09:13 [ nioEventLoopGroup-5-1:215608 ] - [ INFO ] 12149:127.0.0.1--发送的第35消息：aa
+2017-05-09 08:09:13 [ AWT-EventQueue-0:216409 ] - [ INFO ] 从库中库消息-msgCount:32Message [id=32, meg=bb]
+2017-05-09 08:09:13 [ AWT-EventQueue-0:216409 ] - [ INFO ] 处理后的消息为：32100bb
+2017-05-09 08:09:14 [ AWT-EventQueue-0:216429 ] - [ INFO ] 显示消息32的二维码
+2017-05-09 08:09:15 [ AWT-EventQueue-0:218407 ] - [ INFO ] 从库中库消息-msgCount:33Message [id=33, meg=aa]
+2017-05-09 08:09:15 [ AWT-EventQueue-0:218408 ] - [ INFO ] 处理后的消息为：33100aa
+2017-05-09 08:09:16 [ AWT-EventQueue-0:218429 ] - [ INFO ] 显示消息33的二维码
+2017-05-09 08:09:16 [ nioEventLoopGroup-4-1:218679 ] - [ INFO ] 12151:127.0.0.1--发送的第36消息：bb
+2017-05-09 08:09:17 [ AWT-EventQueue-0:220410 ] - [ INFO ] 从库中库消息-msgCount:34Message [id=34, meg=bb]
+2017-05-09 08:09:17 [ AWT-EventQueue-0:220410 ] - [ INFO ] 处理后的消息为：34100bb
+2017-05-09 08:09:18 [ AWT-EventQueue-0:220443 ] - [ INFO ] 显示消息34的二维码
+2017-05-09 08:09:18 [ nioEventLoopGroup-5-1:220615 ] - [ INFO ] 12149:127.0.0.1--发送的第37消息：aa
+2017-05-09 08:09:20 [ AWT-EventQueue-0:222426 ] - [ INFO ] 从库中库消息-msgCount:35Message [id=35, meg=aa]
+2017-05-09 08:09:20 [ AWT-EventQueue-0:222426 ] - [ INFO ] 处理后的消息为：35100aa
+2017-05-09 08:09:20 [ AWT-EventQueue-0:222498 ] - [ INFO ] 显示消息35的二维码
+2017-05-09 08:09:21 [ nioEventLoopGroup-4-1:223686 ] - [ INFO ] 12151:127.0.0.1--发送的第38消息：bb
+2017-05-09 08:09:21 [ AWT-EventQueue-0:224408 ] - [ INFO ] 从库中库消息-msgCount:36Message [id=36, meg=bb]
+2017-05-09 08:09:21 [ AWT-EventQueue-0:224408 ] - [ INFO ] 处理后的消息为：36100bb
+2017-05-09 08:09:22 [ AWT-EventQueue-0:224429 ] - [ INFO ] 显示消息36的二维码
+2017-05-09 08:09:23 [ nioEventLoopGroup-5-1:225627 ] - [ INFO ] 12149:127.0.0.1--发送的第39消息：aa
+2017-05-09 08:09:23 [ AWT-EventQueue-0:226410 ] - [ INFO ] 从库中库消息-msgCount:37Message [id=37, meg=aa]
+2017-05-09 08:09:23 [ AWT-EventQueue-0:226410 ] - [ INFO ] 处理后的消息为：37100aa
+2017-05-09 08:09:24 [ AWT-EventQueue-0:226428 ] - [ INFO ] 显示消息37的二维码
+2017-05-09 08:09:25 [ AWT-EventQueue-0:228414 ] - [ INFO ] 从库中库消息-msgCount:38Message [id=38, meg=bb]
+2017-05-09 08:09:25 [ AWT-EventQueue-0:228415 ] - [ INFO ] 处理后的消息为：38100bb
+2017-05-09 08:09:26 [ AWT-EventQueue-0:228435 ] - [ INFO ] 显示消息38的二维码
+2017-05-09 08:09:26 [ nioEventLoopGroup-4-1:228707 ] - [ INFO ] 12151:127.0.0.1--发送的第40消息：bb
+2017-05-09 08:09:27 [ AWT-EventQueue-0:230407 ] - [ INFO ] 从库中库消息-msgCount:39Message [id=39, meg=aa]
+2017-05-09 08:09:27 [ AWT-EventQueue-0:230408 ] - [ INFO ] 处理后的消息为：39100aa
+2017-05-09 08:09:28 [ AWT-EventQueue-0:230431 ] - [ INFO ] 显示消息39的二维码
+2017-05-09 08:09:28 [ nioEventLoopGroup-5-1:230647 ] - [ INFO ] 12149:127.0.0.1--发送的第41消息：aa
+2017-05-09 08:09:29 [ AWT-EventQueue-0:232412 ] - [ INFO ] 从库中库消息-msgCount:40Message [id=40, meg=bb]
+2017-05-09 08:09:29 [ AWT-EventQueue-0:232413 ] - [ INFO ] 处理后的消息为：40100bb
+2017-05-09 08:09:30 [ AWT-EventQueue-0:232428 ] - [ INFO ] 显示消息40的二维码
+2017-05-09 08:09:31 [ nioEventLoopGroup-4-1:233715 ] - [ INFO ] 12151:127.0.0.1--发送的第42消息：bb
+2017-05-09 08:09:31 [ AWT-EventQueue-0:234414 ] - [ INFO ] 从库中库消息-msgCount:41Message [id=41, meg=aa]
+2017-05-09 08:09:31 [ AWT-EventQueue-0:234415 ] - [ INFO ] 处理后的消息为：41100aa
+2017-05-09 08:09:32 [ AWT-EventQueue-0:234446 ] - [ INFO ] 显示消息41的二维码
+2017-05-09 08:09:33 [ nioEventLoopGroup-5-1:235684 ] - [ INFO ] 12149:127.0.0.1--发送的第43消息：aa
+2017-05-09 08:09:33 [ AWT-EventQueue-0:236416 ] - [ INFO ] 从库中库消息-msgCount:42Message [id=42, meg=bb]
+2017-05-09 08:09:33 [ AWT-EventQueue-0:236416 ] - [ INFO ] 处理后的消息为：42100bb
+2017-05-09 08:09:34 [ AWT-EventQueue-0:236445 ] - [ INFO ] 显示消息42的二维码
+2017-05-09 08:09:35 [ AWT-EventQueue-0:238414 ] - [ INFO ] 从库中库消息-msgCount:43Message [id=43, meg=aa]
+2017-05-09 08:09:35 [ AWT-EventQueue-0:238414 ] - [ INFO ] 处理后的消息为：43100aa
+2017-05-09 08:09:36 [ AWT-EventQueue-0:238435 ] - [ INFO ] 显示消息43的二维码
+2017-05-09 08:09:36 [ nioEventLoopGroup-4-1:238715 ] - [ INFO ] 12151:127.0.0.1--发送的第44消息：bb
+2017-05-09 08:09:37 [ AWT-EventQueue-0:240416 ] - [ INFO ] 从库中库消息-msgCount:44Message [id=44, meg=bb]
+2017-05-09 08:09:38 [ AWT-EventQueue-0:240417 ] - [ INFO ] 处理后的消息为：44100bb
+2017-05-09 08:09:38 [ AWT-EventQueue-0:240437 ] - [ INFO ] 显示消息44的二维码
+2017-05-09 08:09:38 [ nioEventLoopGroup-5-1:240723 ] - [ INFO ] 12149:127.0.0.1--发送的第45消息：aa
+2017-05-09 08:09:40 [ AWT-EventQueue-0:242419 ] - [ INFO ] 从库中库消息-msgCount:45Message [id=45, meg=aa]
+2017-05-09 08:09:40 [ AWT-EventQueue-0:242419 ] - [ INFO ] 处理后的消息为：45100aa
+2017-05-09 08:09:40 [ AWT-EventQueue-0:242451 ] - [ INFO ] 显示消息45的二维码
+2017-05-09 08:09:41 [ nioEventLoopGroup-4-1:243757 ] - [ INFO ] 12151:127.0.0.1--发送的第46消息：bb
+2017-05-09 08:09:42 [ AWT-EventQueue-0:244418 ] - [ INFO ] 从库中库消息-msgCount:46Message [id=46, meg=bb]
+2017-05-09 08:09:42 [ AWT-EventQueue-0:244418 ] - [ INFO ] 处理后的消息为：46100bb
+2017-05-09 08:09:42 [ AWT-EventQueue-0:244442 ] - [ INFO ] 显示消息46的二维码
+2017-05-09 08:09:43 [ nioEventLoopGroup-5-1:245726 ] - [ INFO ] 12149:127.0.0.1--发送的第47消息：aa
+2017-05-09 08:09:44 [ AWT-EventQueue-0:246426 ] - [ INFO ] 从库中库消息-msgCount:47Message [id=47, meg=aa]
+2017-05-09 08:09:44 [ AWT-EventQueue-0:246426 ] - [ INFO ] 处理后的消息为：47100aa
+2017-05-09 08:09:44 [ AWT-EventQueue-0:246446 ] - [ INFO ] 显示消息47的二维码
+2017-05-09 08:09:46 [ nioEventLoopGroup-4-1:248765 ] - [ INFO ] 12151:127.0.0.1--发送的第48消息：bb
+2017-05-09 08:09:47 [ AWT-EventQueue-0:250416 ] - [ INFO ] 从库中库消息-msgCount:48Message [id=48, meg=bb]
+2017-05-09 08:09:48 [ AWT-EventQueue-0:250417 ] - [ INFO ] 处理后的消息为：48100bb
+2017-05-09 08:09:48 [ AWT-EventQueue-0:250438 ] - [ INFO ] 显示消息48的二维码
+2017-05-09 08:09:48 [ nioEventLoopGroup-5-1:250737 ] - [ INFO ] 12149:127.0.0.1--发送的第49消息：aa
+2017-05-09 08:09:50 [ AWT-EventQueue-0:252419 ] - [ INFO ] 从库中库消息-msgCount:49Message [id=49, meg=aa]
+2017-05-09 08:09:50 [ AWT-EventQueue-0:252419 ] - [ INFO ] 处理后的消息为：49100aa
+2017-05-09 08:09:50 [ AWT-EventQueue-0:252438 ] - [ INFO ] 显示消息49的二维码
+2017-05-09 08:09:51 [ nioEventLoopGroup-4-1:253802 ] - [ INFO ] 12151:127.0.0.1--发送的第50消息：bb
+2017-05-09 08:09:52 [ AWT-EventQueue-0:254421 ] - [ INFO ] 从库中库消息-msgCount:50Message [id=50, meg=bb]
+2017-05-09 08:09:52 [ AWT-EventQueue-0:254421 ] - [ INFO ] 处理后的消息为：50100bb
+2017-05-09 08:09:52 [ AWT-EventQueue-0:254443 ] - [ INFO ] 显示消息50的二维码
+2017-05-09 08:09:53 [ nioEventLoopGroup-5-1:255777 ] - [ INFO ] 12149:127.0.0.1--发送的第51消息：aa
+2017-05-09 08:09:54 [ AWT-EventQueue-0:256417 ] - [ INFO ] 从库中库消息-msgCount:51Message [id=51, meg=aa]
+2017-05-09 08:09:54 [ AWT-EventQueue-0:256417 ] - [ INFO ] 处理后的消息为：51100aa
+2017-05-09 08:09:54 [ AWT-EventQueue-0:256438 ] - [ INFO ] 显示消息51的二维码
+2017-05-09 08:09:56 [ nioEventLoopGroup-4-1:258843 ] - [ INFO ] 12151:127.0.0.1--发送的第52消息：bb
+2017-05-09 08:09:58 [ AWT-EventQueue-0:260427 ] - [ INFO ] 从库中库消息-msgCount:52Message [id=52, meg=bb]
+2017-05-09 08:09:58 [ AWT-EventQueue-0:260427 ] - [ INFO ] 处理后的消息为：52100bb
+2017-05-09 08:09:58 [ AWT-EventQueue-0:260447 ] - [ INFO ] 显示消息52的二维码
+2017-05-09 08:09:58 [ nioEventLoopGroup-5-1:260818 ] - [ INFO ] 12149:127.0.0.1--发送的第53消息：aa
+2017-05-09 08:10:00 [ AWT-EventQueue-0:262425 ] - [ INFO ] 从库中库消息-msgCount:53Message [id=53, meg=aa]
+2017-05-09 08:10:00 [ AWT-EventQueue-0:262426 ] - [ INFO ] 处理后的消息为：53100aa
+2017-05-09 08:10:00 [ AWT-EventQueue-0:262458 ] - [ INFO ] 显示消息53的二维码
+2017-05-09 08:10:01 [ nioEventLoopGroup-4-1:263882 ] - [ INFO ] 12151:127.0.0.1--发送的第54消息：bb
+2017-05-09 08:10:02 [ AWT-EventQueue-0:264427 ] - [ INFO ] 从库中库消息-msgCount:54Message [id=54, meg=bb]
+2017-05-09 08:10:02 [ AWT-EventQueue-0:264428 ] - [ INFO ] 处理后的消息为：54100bb
+2017-05-09 08:10:02 [ AWT-EventQueue-0:264460 ] - [ INFO ] 显示消息54的二维码
+2017-05-09 08:10:03 [ nioEventLoopGroup-5-1:265845 ] - [ INFO ] 12149:127.0.0.1--发送的第55消息：aa
+2017-05-09 08:10:04 [ AWT-EventQueue-0:266434 ] - [ INFO ] 从库中库消息-msgCount:55Message [id=55, meg=aa]
+2017-05-09 08:10:04 [ AWT-EventQueue-0:266434 ] - [ INFO ] 处理后的消息为：55100aa
+2017-05-09 08:10:04 [ AWT-EventQueue-0:266465 ] - [ INFO ] 显示消息55的二维码
+2017-05-09 08:10:06 [ nioEventLoopGroup-4-1:268907 ] - [ INFO ] 12151:127.0.0.1--发送的第56消息：bb
+2017-05-09 08:10:08 [ AWT-EventQueue-0:270429 ] - [ INFO ] 从库中库消息-msgCount:56Message [id=56, meg=bb]
+2017-05-09 08:10:08 [ AWT-EventQueue-0:270429 ] - [ INFO ] 处理后的消息为：56100bb
+2017-05-09 08:10:08 [ AWT-EventQueue-0:270462 ] - [ INFO ] 显示消息56的二维码
+2017-05-09 08:10:08 [ nioEventLoopGroup-5-1:270885 ] - [ INFO ] 12149:127.0.0.1--发送的第57消息：aa
+2017-05-09 08:10:10 [ AWT-EventQueue-0:272435 ] - [ INFO ] 从库中库消息-msgCount:57Message [id=57, meg=aa]
+2017-05-09 08:10:10 [ AWT-EventQueue-0:272436 ] - [ INFO ] 处理后的消息为：57100aa
+2017-05-09 08:10:10 [ AWT-EventQueue-0:272465 ] - [ INFO ] 显示消息57的二维码
+2017-05-09 08:10:11 [ nioEventLoopGroup-4-1:273908 ] - [ INFO ] 12151:127.0.0.1--发送的第58消息：bb
+2017-05-09 08:10:12 [ AWT-EventQueue-0:274428 ] - [ INFO ] 从库中库消息-msgCount:58Message [id=58, meg=bb]
+2017-05-09 08:10:12 [ AWT-EventQueue-0:274429 ] - [ INFO ] 处理后的消息为：58100bb
+2017-05-09 08:10:12 [ AWT-EventQueue-0:274461 ] - [ INFO ] 显示消息58的二维码
+2017-05-09 08:10:13 [ nioEventLoopGroup-5-1:275922 ] - [ INFO ] 12149:127.0.0.1--发送的第59消息：aa
+2017-05-09 08:10:14 [ AWT-EventQueue-0:276438 ] - [ INFO ] 从库中库消息-msgCount:59Message [id=59, meg=aa]
+2017-05-09 08:10:14 [ AWT-EventQueue-0:276438 ] - [ INFO ] 处理后的消息为：59100aa
+2017-05-09 08:10:14 [ AWT-EventQueue-0:276468 ] - [ INFO ] 显示消息59的二维码
+2017-05-09 08:10:16 [ nioEventLoopGroup-4-1:278926 ] - [ INFO ] 12151:127.0.0.1--发送的第60消息：bb
+2017-05-09 08:10:18 [ AWT-EventQueue-0:280432 ] - [ INFO ] 从库中库消息-msgCount:60Message [id=60, meg=bb]
+2017-05-09 08:10:18 [ AWT-EventQueue-0:280433 ] - [ INFO ] 处理后的消息为：60100bb
+2017-05-09 08:10:18 [ AWT-EventQueue-0:280467 ] - [ INFO ] 显示消息60的二维码
+2017-05-09 08:10:18 [ nioEventLoopGroup-5-1:280948 ] - [ INFO ] 12149:127.0.0.1--发送的第61消息：aa
+2017-05-09 08:10:20 [ AWT-EventQueue-0:282433 ] - [ INFO ] 从库中库消息-msgCount:61Message [id=61, meg=aa]
+2017-05-09 08:10:20 [ AWT-EventQueue-0:282433 ] - [ INFO ] 处理后的消息为：61100aa
+2017-05-09 08:10:20 [ AWT-EventQueue-0:282461 ] - [ INFO ] 显示消息61的二维码
+2017-05-09 08:10:21 [ nioEventLoopGroup-4-1:283934 ] - [ INFO ] 12151:127.0.0.1--发送的第62消息：bb
+2017-05-09 08:10:22 [ AWT-EventQueue-0:284431 ] - [ INFO ] 从库中库消息-msgCount:62Message [id=62, meg=bb]
+2017-05-09 08:10:22 [ AWT-EventQueue-0:284432 ] - [ INFO ] 处理后的消息为：62100bb
+2017-05-09 08:10:22 [ AWT-EventQueue-0:284447 ] - [ INFO ] 显示消息62的二维码
+2017-05-09 08:10:23 [ nioEventLoopGroup-5-1:285987 ] - [ INFO ] 12149:127.0.0.1--发送的第63消息：aa
+2017-05-09 08:10:24 [ AWT-EventQueue-0:286434 ] - [ INFO ] 从库中库消息-msgCount:63Message [id=63, meg=aa]
+2017-05-09 08:10:24 [ AWT-EventQueue-0:286434 ] - [ INFO ] 处理后的消息为：63100aa
+2017-05-09 08:10:24 [ AWT-EventQueue-0:286452 ] - [ INFO ] 显示消息63的二维码
+2017-05-09 08:10:26 [ nioEventLoopGroup-4-1:288939 ] - [ INFO ] 12151:127.0.0.1--发送的第64消息：bb
+2017-05-09 08:10:28 [ AWT-EventQueue-0:290433 ] - [ INFO ] 从库中库消息-msgCount:64Message [id=64, meg=bb]
+2017-05-09 08:10:28 [ AWT-EventQueue-0:290434 ] - [ INFO ] 处理后的消息为：64100bb
+2017-05-09 08:10:28 [ AWT-EventQueue-0:290452 ] - [ INFO ] 显示消息64的二维码
+2017-05-09 08:10:28 [ nioEventLoopGroup-5-1:291000 ] - [ INFO ] 12149:127.0.0.1--发送的第65消息：aa
+2017-05-09 08:10:30 [ AWT-EventQueue-0:292438 ] - [ INFO ] 从库中库消息-msgCount:65Message [id=65, meg=aa]
+2017-05-09 08:10:30 [ AWT-EventQueue-0:292439 ] - [ INFO ] 处理后的消息为：65100aa
+2017-05-09 08:10:30 [ AWT-EventQueue-0:292454 ] - [ INFO ] 显示消息65的二维码
+2017-05-09 08:10:31 [ nioEventLoopGroup-4-1:293977 ] - [ INFO ] 12151:127.0.0.1--发送的第66消息：bb
+2017-05-09 08:10:32 [ AWT-EventQueue-0:294439 ] - [ INFO ] 从库中库消息-msgCount:66Message [id=66, meg=bb]
+2017-05-09 08:10:32 [ AWT-EventQueue-0:294440 ] - [ INFO ] 处理后的消息为：66100bb
+2017-05-09 08:10:32 [ AWT-EventQueue-0:294524 ] - [ INFO ] 显示消息66的二维码
+2017-05-09 08:10:33 [ nioEventLoopGroup-5-1:296032 ] - [ INFO ] 12149:127.0.0.1--发送的第67消息：aa
+2017-05-09 08:12:15 [ main:0 ] - [ INFO ] 开始显示二维码:2017-05-09 08:12
+2017-05-09 08:12:16 [ nioEventLoopGroup-2-1:441 ] - [ INFO ] [id: 0x20fb0114] REGISTERED
+2017-05-09 08:12:16 [ nioEventLoopGroup-4-1:441 ] - [ INFO ] [id: 0xe5bae277] REGISTERED
+2017-05-09 08:12:16 [ nioEventLoopGroup-3-1:441 ] - [ INFO ] [id: 0x3cf0f0a2] REGISTERED
+2017-05-09 08:12:16 [ nioEventLoopGroup-4-1:446 ] - [ INFO ] [id: 0xe5bae277] BIND(0.0.0.0/0.0.0.0:8020)
+2017-05-09 08:12:16 [ nioEventLoopGroup-2-1:446 ] - [ INFO ] [id: 0x20fb0114] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 08:12:16 [ nioEventLoopGroup-3-1:446 ] - [ INFO ] [id: 0x3cf0f0a2] BIND(0.0.0.0/0.0.0.0:8030)
+2017-05-09 08:12:16 [ nioEventLoopGroup-2-1:449 ] - [ INFO ] [id: 0x20fb0114, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 08:12:16 [ nioEventLoopGroup-3-1:449 ] - [ INFO ] [id: 0x3cf0f0a2, L:/0:0:0:0:0:0:0:0:8030] ACTIVE
+2017-05-09 08:12:16 [ nioEventLoopGroup-4-1:449 ] - [ INFO ] [id: 0xe5bae277, L:/0:0:0:0:0:0:0:0:8020] ACTIVE
+2017-05-09 08:12:17 [ AWT-EventQueue-0:2195 ] - [ INFO ] 从库中库消息-msgCount:1Message [id=1, meg=1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111122222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222233333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333344444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555]
+2017-05-09 08:12:17 [ AWT-EventQueue-0:2196 ] - [ INFO ] 处理后的消息为：[10011111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111, 10021111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111, 10031111111111111112222222222222222222222222222222222222222222222222222222222222222222222222222222222222, 10042222222222222222222222222222222222222222222233333333333333333333333333333333333333333333333333333333, 10053333333333333333333333333333333333333333333333333333333333333333333333333333333333333444444444444444, 10064444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444455555555, 10175555555555555555555555555555555555555555555555555555555555555555555555555555555555555]
+2017-05-09 08:12:18 [ AWT-EventQueue-0:2505 ] - [ INFO ] 显示消息1的第1张二维码
+2017-05-09 08:12:19 [ AWT-EventQueue-0:4168 ] - [ INFO ] 显示消息1的第2张二维码
+2017-05-09 08:12:21 [ AWT-EventQueue-0:6187 ] - [ INFO ] 显示消息1的第3张二维码
+2017-05-09 08:12:23 [ AWT-EventQueue-0:8175 ] - [ INFO ] 显示消息1的第4张二维码
+2017-05-09 08:12:25 [ AWT-EventQueue-0:10171 ] - [ INFO ] 显示消息1的第5张二维码
+2017-05-09 08:12:27 [ AWT-EventQueue-0:12181 ] - [ INFO ] 显示消息1的第6张二维码
+2017-05-09 08:12:29 [ AWT-EventQueue-0:14192 ] - [ INFO ] 显示消息1的第7张二维码
+2017-05-09 08:12:31 [ AWT-EventQueue-0:16210 ] - [ INFO ] 从库中库消息-msgCount:2Message [id=2, meg=1234567891]
+2017-05-09 08:12:31 [ AWT-EventQueue-0:16211 ] - [ INFO ] 处理后的消息为：21001234567891
+2017-05-09 08:12:31 [ AWT-EventQueue-0:16293 ] - [ INFO ] 显示消息2的二维码
+2017-05-09 08:12:33 [ AWT-EventQueue-0:18207 ] - [ INFO ] 从库中库消息-msgCount:3Message [id=3, meg=aa]
+2017-05-09 08:12:33 [ AWT-EventQueue-0:18208 ] - [ INFO ] 处理后的消息为：3100aa
+2017-05-09 08:12:33 [ AWT-EventQueue-0:18248 ] - [ INFO ] 显示消息3的二维码
+2017-05-09 08:12:35 [ AWT-EventQueue-0:20197 ] - [ INFO ] 从库中库消息-msgCount:4Message [id=4, meg=aa]
+2017-05-09 08:12:35 [ AWT-EventQueue-0:20197 ] - [ INFO ] 处理后的消息为：4100aa
+2017-05-09 08:12:35 [ AWT-EventQueue-0:20226 ] - [ INFO ] 显示消息4的二维码
+2017-05-09 08:12:37 [ AWT-EventQueue-0:22210 ] - [ INFO ] 从库中库消息-msgCount:5Message [id=5, meg=aa]
+2017-05-09 08:12:37 [ AWT-EventQueue-0:22211 ] - [ INFO ] 处理后的消息为：5100aa
+2017-05-09 08:12:37 [ AWT-EventQueue-0:22264 ] - [ INFO ] 显示消息5的二维码
+2017-05-09 08:12:39 [ AWT-EventQueue-0:24210 ] - [ INFO ] 从库中库消息-msgCount:6Message [id=6, meg=aa]
+2017-05-09 08:12:39 [ AWT-EventQueue-0:24211 ] - [ INFO ] 处理后的消息为：6100aa
+2017-05-09 08:12:39 [ AWT-EventQueue-0:24243 ] - [ INFO ] 显示消息6的二维码
+2017-05-09 08:12:41 [ AWT-EventQueue-0:26193 ] - [ INFO ] 从库中库消息-msgCount:7Message [id=7, meg=aa]
+2017-05-09 08:12:41 [ AWT-EventQueue-0:26193 ] - [ INFO ] 处理后的消息为：7100aa
+2017-05-09 08:12:41 [ AWT-EventQueue-0:26220 ] - [ INFO ] 显示消息7的二维码
+2017-05-09 08:12:43 [ AWT-EventQueue-0:28221 ] - [ INFO ] 从库中库消息-msgCount:8Message [id=8, meg=aa]
+2017-05-09 08:12:43 [ AWT-EventQueue-0:28221 ] - [ INFO ] 处理后的消息为：8100aa
+2017-05-09 08:12:43 [ AWT-EventQueue-0:28240 ] - [ INFO ] 显示消息8的二维码
+2017-05-09 08:12:45 [ AWT-EventQueue-0:30201 ] - [ INFO ] 从库中库消息-msgCount:9Message [id=9, meg=bb]
+2017-05-09 08:12:45 [ AWT-EventQueue-0:30201 ] - [ INFO ] 处理后的消息为：9100bb
+2017-05-09 08:12:45 [ AWT-EventQueue-0:30241 ] - [ INFO ] 显示消息9的二维码
+2017-05-09 08:12:47 [ AWT-EventQueue-0:32193 ] - [ INFO ] 从库中库消息-msgCount:10Message [id=10, meg=bb]
+2017-05-09 08:12:47 [ AWT-EventQueue-0:32194 ] - [ INFO ] 处理后的消息为：10100bb
+2017-05-09 08:12:47 [ AWT-EventQueue-0:32217 ] - [ INFO ] 显示消息10的二维码
+2017-05-09 08:12:49 [ nioEventLoopGroup-3-1:33566 ] - [ INFO ] [id: 0x3cf0f0a2, L:/0:0:0:0:0:0:0:0:8030] RECEIVED: [id: 0xa1b4accb, L:/127.0.0.1:8030 - R:/127.0.0.1:12265]
+2017-05-09 08:12:49 [ AWT-EventQueue-0:34193 ] - [ INFO ] 从库中库消息-msgCount:11Message [id=11, meg=bb]
+2017-05-09 08:12:49 [ AWT-EventQueue-0:34194 ] - [ INFO ] 处理后的消息为：11100bb
+2017-05-09 08:12:49 [ AWT-EventQueue-0:34225 ] - [ INFO ] 显示消息11的二维码
+2017-05-09 08:12:50 [ nioEventLoopGroup-6-1:35196 ] - [ INFO ] 12265:127.0.0.1--发送的第1消息：cc
+2017-05-09 08:12:50 [ nioEventLoopGroup-6-1:35205 ] - [ ERROR ] 保存信息异常,异常信息为:
+2017-05-09 08:12:50 [ nioEventLoopGroup-6-1:35207 ] - [ ERROR ] java.sql.SQLException: unable to open database file
+2017-05-09 08:12:50 [ nioEventLoopGroup-6-1:35300 ] - [ INFO ] 12265:127.0.0.1--发送的第2消息：cc
+2017-05-09 08:12:50 [ nioEventLoopGroup-6-1:35326 ] - [ ERROR ] 保存信息异常,异常信息为:
+2017-05-09 08:12:50 [ nioEventLoopGroup-6-1:35327 ] - [ ERROR ] java.sql.SQLException: unable to open database file
+2017-05-09 08:12:50 [ nioEventLoopGroup-6-1:35414 ] - [ INFO ] 12265:127.0.0.1--发送的第3消息：cc
+2017-05-09 08:12:50 [ nioEventLoopGroup-6-1:35424 ] - [ ERROR ] 保存信息异常,异常信息为:
+2017-05-09 08:12:51 [ nioEventLoopGroup-6-1:35425 ] - [ ERROR ] java.sql.SQLException: unable to open database file
+2017-05-09 08:12:51 [ nioEventLoopGroup-6-1:35528 ] - [ INFO ] 12265:127.0.0.1--发送的第4消息：cc
+2017-05-09 08:12:51 [ nioEventLoopGroup-6-1:35570 ] - [ ERROR ] 保存信息异常,异常信息为:
+2017-05-09 08:12:51 [ nioEventLoopGroup-6-1:35570 ] - [ ERROR ] java.sql.SQLException: unable to open database file
+2017-05-09 08:12:51 [ nioEventLoopGroup-6-1:35642 ] - [ INFO ] 12265:127.0.0.1--发送的第5消息：cc
+2017-05-09 08:12:51 [ nioEventLoopGroup-6-1:35662 ] - [ ERROR ] 保存信息异常,异常信息为:
+2017-05-09 08:12:51 [ nioEventLoopGroup-6-1:35663 ] - [ ERROR ] java.sql.SQLException: unable to open database file
+2017-05-09 08:12:51 [ AWT-EventQueue-0:36221 ] - [ INFO ] 从库中库消息-msgCount:12Message [id=12, meg=bb]
+2017-05-09 08:12:51 [ AWT-EventQueue-0:36222 ] - [ INFO ] 处理后的消息为：12100bb
+2017-05-09 08:12:51 [ AWT-EventQueue-0:36264 ] - [ INFO ] 显示消息12的二维码
+2017-05-09 08:12:52 [ nioEventLoopGroup-6-1:36651 ] - [ INFO ] 12265:127.0.0.1--发送的第6消息：cc
+2017-05-09 08:12:52 [ nioEventLoopGroup-6-1:36685 ] - [ ERROR ] 保存信息异常,异常信息为:
+2017-05-09 08:12:52 [ nioEventLoopGroup-6-1:36685 ] - [ ERROR ] java.sql.SQLException: unable to open database file
+2017-05-09 08:12:53 [ nioEventLoopGroup-6-1:37654 ] - [ INFO ] 12265:127.0.0.1--发送的第7消息：cc
+2017-05-09 08:12:53 [ nioEventLoopGroup-6-1:37679 ] - [ ERROR ] 保存信息异常,异常信息为:
+2017-05-09 08:12:53 [ nioEventLoopGroup-6-1:37679 ] - [ ERROR ] java.sql.SQLException: unable to open database file
+2017-05-09 08:12:53 [ AWT-EventQueue-0:38161 ] - [ INFO ] 从库中库消息-msgCount:13Message [id=13, meg=aa]
+2017-05-09 08:12:53 [ AWT-EventQueue-0:38161 ] - [ INFO ] 处理后的消息为：13100aa
+2017-05-09 08:12:53 [ AWT-EventQueue-0:38183 ] - [ INFO ] 显示消息13的二维码
+2017-05-09 08:12:54 [ nioEventLoopGroup-6-1:38658 ] - [ INFO ] 12265:127.0.0.1--发送的第8消息：cc
+2017-05-09 08:12:54 [ nioEventLoopGroup-6-1:38688 ] - [ ERROR ] 保存信息异常,异常信息为:
+2017-05-09 08:12:54 [ nioEventLoopGroup-6-1:38689 ] - [ ERROR ] java.sql.SQLException: unable to open database file
+2017-05-09 08:12:55 [ nioEventLoopGroup-6-1:39659 ] - [ INFO ] 12265:127.0.0.1--发送的第9消息：cc
+2017-05-09 08:12:55 [ nioEventLoopGroup-6-1:39685 ] - [ ERROR ] 保存信息异常,异常信息为:
+2017-05-09 08:12:55 [ nioEventLoopGroup-6-1:39686 ] - [ ERROR ] java.sql.SQLException: unable to open database file
+2017-05-09 08:12:55 [ AWT-EventQueue-0:40203 ] - [ INFO ] 从库中库消息-msgCount:14Message [id=14, meg=bb]
+2017-05-09 08:12:55 [ AWT-EventQueue-0:40203 ] - [ INFO ] 处理后的消息为：14100bb
+2017-05-09 08:12:55 [ AWT-EventQueue-0:40299 ] - [ INFO ] 显示消息14的二维码
+2017-05-09 08:12:56 [ nioEventLoopGroup-6-1:40680 ] - [ INFO ] 12265:127.0.0.1--发送的第10消息：cc
+2017-05-09 08:12:56 [ nioEventLoopGroup-6-1:40704 ] - [ ERROR ] 保存信息异常,异常信息为:
+2017-05-09 08:12:56 [ nioEventLoopGroup-6-1:40705 ] - [ ERROR ] java.sql.SQLException: unable to open database file
+2017-05-09 08:12:57 [ nioEventLoopGroup-6-1:41693 ] - [ INFO ] 12265:127.0.0.1--发送的第11消息：cc
+2017-05-09 08:12:57 [ nioEventLoopGroup-6-1:41725 ] - [ ERROR ] 保存信息异常,异常信息为:
+2017-05-09 08:12:57 [ nioEventLoopGroup-6-1:41726 ] - [ ERROR ] java.sql.SQLException: unable to open database file
+2017-05-09 08:12:57 [ AWT-EventQueue-0:42191 ] - [ INFO ] 从库中库消息-msgCount:15Message [id=15, meg=aa]
+2017-05-09 08:12:57 [ AWT-EventQueue-0:42191 ] - [ INFO ] 处理后的消息为：15100aa
+2017-05-09 08:12:57 [ AWT-EventQueue-0:42219 ] - [ INFO ] 显示消息15的二维码
+2017-05-09 08:12:58 [ nioEventLoopGroup-6-1:42710 ] - [ INFO ] 12265:127.0.0.1--发送的第12消息：cc
+2017-05-09 08:12:58 [ nioEventLoopGroup-6-1:42734 ] - [ ERROR ] 保存信息异常,异常信息为:
+2017-05-09 08:12:58 [ nioEventLoopGroup-6-1:42735 ] - [ ERROR ] java.sql.SQLException: unable to open database file
+2017-05-09 08:12:59 [ nioEventLoopGroup-6-1:43721 ] - [ INFO ] 12265:127.0.0.1--发送的第13消息：cc
+2017-05-09 08:12:59 [ nioEventLoopGroup-6-1:43745 ] - [ ERROR ] 保存信息异常,异常信息为:
+2017-05-09 08:12:59 [ nioEventLoopGroup-6-1:43746 ] - [ ERROR ] java.sql.SQLException: unable to open database file
+2017-05-09 08:12:59 [ AWT-EventQueue-0:44212 ] - [ INFO ] 从库中库消息-msgCount:16Message [id=16, meg=aa]
+2017-05-09 08:12:59 [ AWT-EventQueue-0:44212 ] - [ INFO ] 处理后的消息为：16100aa
+2017-05-09 08:12:59 [ AWT-EventQueue-0:44230 ] - [ INFO ] 显示消息16的二维码
+2017-05-09 08:13:00 [ nioEventLoopGroup-6-1:44741 ] - [ INFO ] 12265:127.0.0.1--发送的第14消息：cc
+2017-05-09 08:13:00 [ nioEventLoopGroup-6-1:44765 ] - [ ERROR ] 保存信息异常,异常信息为:
+2017-05-09 08:13:00 [ nioEventLoopGroup-6-1:44765 ] - [ ERROR ] java.sql.SQLException: unable to open database file
+2017-05-09 08:13:01 [ nioEventLoopGroup-6-1:45753 ] - [ INFO ] 12265:127.0.0.1--发送的第15消息：cc
+2017-05-09 08:13:01 [ nioEventLoopGroup-6-1:45777 ] - [ ERROR ] 保存信息异常,异常信息为:
+2017-05-09 08:13:01 [ nioEventLoopGroup-6-1:45778 ] - [ ERROR ] java.sql.SQLException: unable to open database file
+2017-05-09 08:13:01 [ AWT-EventQueue-0:46198 ] - [ INFO ] 从库中库消息-msgCount:17Message [id=17, meg=aa]
+2017-05-09 08:13:01 [ AWT-EventQueue-0:46198 ] - [ INFO ] 处理后的消息为：17100aa
+2017-05-09 08:13:01 [ AWT-EventQueue-0:46224 ] - [ INFO ] 显示消息17的二维码
+2017-05-09 08:13:02 [ nioEventLoopGroup-6-1:46769 ] - [ INFO ] 12265:127.0.0.1--发送的第16消息：cc
+2017-05-09 08:13:02 [ nioEventLoopGroup-6-1:46793 ] - [ ERROR ] 保存信息异常,异常信息为:
+2017-05-09 08:13:02 [ nioEventLoopGroup-6-1:46794 ] - [ ERROR ] java.sql.SQLException: unable to open database file
+2017-05-09 08:13:03 [ nioEventLoopGroup-6-1:47776 ] - [ INFO ] 12265:127.0.0.1--发送的第17消息：cc
+2017-05-09 08:13:03 [ nioEventLoopGroup-6-1:47800 ] - [ ERROR ] 保存信息异常,异常信息为:
+2017-05-09 08:13:03 [ nioEventLoopGroup-6-1:47801 ] - [ ERROR ] java.sql.SQLException: unable to open database file
+2017-05-09 08:13:03 [ AWT-EventQueue-0:48180 ] - [ INFO ] 从库中库消息-msgCount:18Message [id=18, meg=aa]
+2017-05-09 08:13:03 [ AWT-EventQueue-0:48181 ] - [ INFO ] 处理后的消息为：18100aa
+2017-05-09 08:13:03 [ AWT-EventQueue-0:48202 ] - [ INFO ] 显示消息18的二维码
+2017-05-09 08:13:04 [ nioEventLoopGroup-6-1:48793 ] - [ INFO ] 12265:127.0.0.1--发送的第18消息：cc
+2017-05-09 08:13:04 [ nioEventLoopGroup-6-1:48817 ] - [ ERROR ] 保存信息异常,异常信息为:
+2017-05-09 08:13:04 [ nioEventLoopGroup-6-1:48818 ] - [ ERROR ] java.sql.SQLException: unable to open database file
+2017-05-09 08:13:05 [ nioEventLoopGroup-6-1:49803 ] - [ INFO ] 12265:127.0.0.1--发送的第19消息：cc
+2017-05-09 08:13:05 [ nioEventLoopGroup-6-1:49828 ] - [ ERROR ] 保存信息异常,异常信息为:
+2017-05-09 08:13:05 [ nioEventLoopGroup-6-1:49829 ] - [ ERROR ] java.sql.SQLException: unable to open database file
+2017-05-09 08:13:05 [ AWT-EventQueue-0:50190 ] - [ INFO ] 从库中库消息-msgCount:19Message [id=19, meg=aa]
+2017-05-09 08:13:05 [ AWT-EventQueue-0:50191 ] - [ INFO ] 处理后的消息为：19100aa
+2017-05-09 08:13:05 [ AWT-EventQueue-0:50214 ] - [ INFO ] 显示消息19的二维码
+2017-05-09 08:13:06 [ nioEventLoopGroup-6-1:50817 ] - [ INFO ] 12265:127.0.0.1--发送的第20消息：cc
+2017-05-09 08:13:06 [ nioEventLoopGroup-6-1:50852 ] - [ ERROR ] 保存信息异常,异常信息为:
+2017-05-09 08:13:06 [ nioEventLoopGroup-6-1:50853 ] - [ ERROR ] java.sql.SQLException: unable to open database file
+2017-05-09 08:13:07 [ nioEventLoopGroup-6-1:51836 ] - [ INFO ] 12265:127.0.0.1--发送的第21消息：cc
+2017-05-09 08:13:07 [ nioEventLoopGroup-6-1:51860 ] - [ ERROR ] 保存信息异常,异常信息为:
+2017-05-09 08:13:07 [ nioEventLoopGroup-6-1:51860 ] - [ ERROR ] java.sql.SQLException: unable to open database file
+2017-05-09 08:13:07 [ AWT-EventQueue-0:52210 ] - [ INFO ] 从库中库消息-msgCount:20Message [id=20, meg=aa]
+2017-05-09 08:13:07 [ AWT-EventQueue-0:52211 ] - [ INFO ] 处理后的消息为：20100aa
+2017-05-09 08:13:07 [ AWT-EventQueue-0:52234 ] - [ INFO ] 显示消息20的二维码
+2017-05-09 08:13:08 [ nioEventLoopGroup-6-1:52844 ] - [ INFO ] 12265:127.0.0.1--发送的第22消息：cc
+2017-05-09 08:13:08 [ nioEventLoopGroup-6-1:52867 ] - [ ERROR ] 保存信息异常,异常信息为:
+2017-05-09 08:13:08 [ nioEventLoopGroup-6-1:52869 ] - [ ERROR ] java.sql.SQLException: unable to open database file
+2017-05-09 08:13:09 [ nioEventLoopGroup-6-1:53845 ] - [ INFO ] 12265:127.0.0.1--发送的第23消息：cc
+2017-05-09 08:13:09 [ nioEventLoopGroup-6-1:53868 ] - [ ERROR ] 保存信息异常,异常信息为:
+2017-05-09 08:13:09 [ nioEventLoopGroup-6-1:53869 ] - [ ERROR ] java.sql.SQLException: unable to open database file
+2017-05-09 08:13:09 [ AWT-EventQueue-0:54211 ] - [ INFO ] 从库中库消息-msgCount:21Message [id=21, meg=aa]
+2017-05-09 08:13:09 [ AWT-EventQueue-0:54211 ] - [ INFO ] 处理后的消息为：21100aa
+2017-05-09 08:13:09 [ AWT-EventQueue-0:54236 ] - [ INFO ] 显示消息21的二维码
+2017-05-09 08:13:10 [ nioEventLoopGroup-6-1:54865 ] - [ INFO ] 12265:127.0.0.1--发送的第24消息：cc
+2017-05-09 08:13:10 [ nioEventLoopGroup-6-1:54889 ] - [ ERROR ] 保存信息异常,异常信息为:
+2017-05-09 08:13:10 [ nioEventLoopGroup-6-1:54890 ] - [ ERROR ] java.sql.SQLException: unable to open database file
+2017-05-09 08:13:11 [ nioEventLoopGroup-6-1:55879 ] - [ INFO ] 12265:127.0.0.1--发送的第25消息：cc
+2017-05-09 08:13:11 [ nioEventLoopGroup-6-1:55901 ] - [ ERROR ] 保存信息异常,异常信息为:
+2017-05-09 08:13:11 [ nioEventLoopGroup-6-1:55902 ] - [ ERROR ] java.sql.SQLException: unable to open database file
+2017-05-09 08:13:11 [ AWT-EventQueue-0:56186 ] - [ INFO ] 从库中库消息-msgCount:22Message [id=22, meg=bb]
+2017-05-09 08:13:11 [ AWT-EventQueue-0:56186 ] - [ INFO ] 处理后的消息为：22100bb
+2017-05-09 08:13:11 [ AWT-EventQueue-0:56208 ] - [ INFO ] 显示消息22的二维码
+2017-05-09 08:13:12 [ nioEventLoopGroup-6-1:56895 ] - [ INFO ] 12265:127.0.0.1--发送的第26消息：cc
+2017-05-09 08:13:12 [ nioEventLoopGroup-6-1:56917 ] - [ ERROR ] 保存信息异常,异常信息为:
+2017-05-09 08:13:12 [ nioEventLoopGroup-6-1:56918 ] - [ ERROR ] java.sql.SQLException: unable to open database file
+2017-05-09 08:13:13 [ nioEventLoopGroup-6-1:57901 ] - [ INFO ] 12265:127.0.0.1--发送的第27消息：cc
+2017-05-09 08:13:13 [ nioEventLoopGroup-6-1:57924 ] - [ ERROR ] 保存信息异常,异常信息为:
+2017-05-09 08:13:13 [ nioEventLoopGroup-6-1:57925 ] - [ ERROR ] java.sql.SQLException: unable to open database file
+2017-05-09 08:13:13 [ AWT-EventQueue-0:58199 ] - [ INFO ] 从库中库消息-msgCount:23Message [id=23, meg=aa]
+2017-05-09 08:13:13 [ AWT-EventQueue-0:58200 ] - [ INFO ] 处理后的消息为：23100aa
+2017-05-09 08:13:13 [ AWT-EventQueue-0:58238 ] - [ INFO ] 显示消息23的二维码
+2017-05-09 08:13:14 [ nioEventLoopGroup-6-1:58914 ] - [ INFO ] 12265:127.0.0.1--发送的第28消息：cc
+2017-05-09 08:13:14 [ nioEventLoopGroup-6-1:58936 ] - [ ERROR ] 保存信息异常,异常信息为:
+2017-05-09 08:13:14 [ nioEventLoopGroup-6-1:58937 ] - [ ERROR ] java.sql.SQLException: unable to open database file
+2017-05-09 08:13:15 [ nioEventLoopGroup-6-1:59930 ] - [ INFO ] 12265:127.0.0.1--发送的第29消息：cc
+2017-05-09 08:13:21 [ main:0 ] - [ INFO ] 开始显示二维码:2017-05-09 08:13
+2017-05-09 08:13:22 [ nioEventLoopGroup-3-1:445 ] - [ INFO ] [id: 0x7368bd4c] REGISTERED
+2017-05-09 08:13:22 [ nioEventLoopGroup-2-1:445 ] - [ INFO ] [id: 0xe5df383c] REGISTERED
+2017-05-09 08:13:22 [ nioEventLoopGroup-4-1:445 ] - [ INFO ] [id: 0xb46050ae] REGISTERED
+2017-05-09 08:13:22 [ nioEventLoopGroup-4-1:449 ] - [ INFO ] [id: 0xb46050ae] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 08:13:22 [ nioEventLoopGroup-3-1:449 ] - [ INFO ] [id: 0x7368bd4c] BIND(0.0.0.0/0.0.0.0:8020)
+2017-05-09 08:13:22 [ nioEventLoopGroup-2-1:450 ] - [ INFO ] [id: 0xe5df383c] BIND(0.0.0.0/0.0.0.0:8030)
+2017-05-09 08:13:22 [ nioEventLoopGroup-4-1:453 ] - [ INFO ] [id: 0xb46050ae, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 08:13:22 [ nioEventLoopGroup-3-1:453 ] - [ INFO ] [id: 0x7368bd4c, L:/0:0:0:0:0:0:0:0:8020] ACTIVE
+2017-05-09 08:13:22 [ nioEventLoopGroup-2-1:453 ] - [ INFO ] [id: 0xe5df383c, L:/0:0:0:0:0:0:0:0:8030] ACTIVE
+2017-05-09 08:13:23 [ AWT-EventQueue-0:2202 ] - [ INFO ] 从库中库消息-msgCount:1Message [id=1, meg=1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111122222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222233333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333344444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555]
+2017-05-09 08:13:23 [ AWT-EventQueue-0:2203 ] - [ INFO ] 处理后的消息为：[10011111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111, 10021111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111, 10031111111111111112222222222222222222222222222222222222222222222222222222222222222222222222222222222222, 10042222222222222222222222222222222222222222222233333333333333333333333333333333333333333333333333333333, 10053333333333333333333333333333333333333333333333333333333333333333333333333333333333333444444444444444, 10064444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444455555555, 10175555555555555555555555555555555555555555555555555555555555555555555555555555555555555]
+2017-05-09 08:13:24 [ AWT-EventQueue-0:2530 ] - [ INFO ] 显示消息1的第1张二维码
+2017-05-09 08:13:25 [ AWT-EventQueue-0:4161 ] - [ INFO ] 显示消息1的第2张二维码
+2017-05-09 08:13:27 [ AWT-EventQueue-0:6173 ] - [ INFO ] 显示消息1的第3张二维码
+2017-05-09 08:13:29 [ AWT-EventQueue-0:8168 ] - [ INFO ] 显示消息1的第4张二维码
+2017-05-09 08:13:31 [ AWT-EventQueue-0:10187 ] - [ INFO ] 显示消息1的第5张二维码
+2017-05-09 08:13:33 [ AWT-EventQueue-0:12170 ] - [ INFO ] 显示消息1的第6张二维码
+2017-05-09 08:13:35 [ AWT-EventQueue-0:14193 ] - [ INFO ] 显示消息1的第7张二维码
+2017-05-09 08:13:37 [ AWT-EventQueue-0:16189 ] - [ INFO ] 从库中库消息-msgCount:2Message [id=2, meg=1234567891]
+2017-05-09 08:13:37 [ AWT-EventQueue-0:16190 ] - [ INFO ] 处理后的消息为：21001234567891
+2017-05-09 08:13:37 [ AWT-EventQueue-0:16233 ] - [ INFO ] 显示消息2的二维码
+2017-05-09 08:13:37 [ nioEventLoopGroup-2-1:16410 ] - [ INFO ] [id: 0xe5df383c, L:/0:0:0:0:0:0:0:0:8030] RECEIVED: [id: 0xacd30297, L:/127.0.0.1:8030 - R:/127.0.0.1:12362]
+2017-05-09 08:13:39 [ AWT-EventQueue-0:18199 ] - [ INFO ] 从库中库消息-msgCount:3Message [id=3, meg=aa]
+2017-05-09 08:13:39 [ AWT-EventQueue-0:18200 ] - [ INFO ] 处理后的消息为：3100aa
+2017-05-09 08:13:39 [ AWT-EventQueue-0:18253 ] - [ INFO ] 显示消息3的二维码
+2017-05-09 08:13:41 [ AWT-EventQueue-0:20190 ] - [ INFO ] 从库中库消息-msgCount:4Message [id=4, meg=aa]
+2017-05-09 08:13:41 [ AWT-EventQueue-0:20191 ] - [ INFO ] 处理后的消息为：4100aa
+2017-05-09 08:13:41 [ AWT-EventQueue-0:20224 ] - [ INFO ] 显示消息4的二维码
+2017-05-09 08:13:43 [ AWT-EventQueue-0:22209 ] - [ INFO ] 从库中库消息-msgCount:5Message [id=5, meg=aa]
+2017-05-09 08:13:43 [ AWT-EventQueue-0:22210 ] - [ INFO ] 处理后的消息为：5100aa
+2017-05-09 08:13:43 [ AWT-EventQueue-0:22244 ] - [ INFO ] 显示消息5的二维码
+2017-05-09 08:13:45 [ nioEventLoopGroup-5-1:23740 ] - [ INFO ] 12362:127.0.0.1--发送的第1消息：cc
+2017-05-09 08:13:45 [ nioEventLoopGroup-5-1:23753 ] - [ ERROR ] 保存信息异常,异常信息为:
+2017-05-09 08:13:45 [ nioEventLoopGroup-5-1:23754 ] - [ ERROR ] java.sql.SQLException: unable to open database file
+2017-05-09 08:13:45 [ AWT-EventQueue-0:24180 ] - [ INFO ] 从库中库消息-msgCount:6Message [id=6, meg=aa]
+2017-05-09 08:13:45 [ AWT-EventQueue-0:24180 ] - [ INFO ] 处理后的消息为：6100aa
+2017-05-09 08:13:45 [ AWT-EventQueue-0:24216 ] - [ INFO ] 显示消息6的二维码
+2017-05-09 08:13:46 [ nioEventLoopGroup-5-1:24732 ] - [ INFO ] 12362:127.0.0.1--发送的第2消息：cc
+2017-05-09 08:13:46 [ nioEventLoopGroup-5-1:24774 ] - [ ERROR ] 保存信息异常,异常信息为:
+2017-05-09 08:13:46 [ nioEventLoopGroup-5-1:24776 ] - [ ERROR ] java.sql.SQLException: unable to open database file
+2017-05-09 08:13:47 [ nioEventLoopGroup-5-1:25744 ] - [ INFO ] 12362:127.0.0.1--发送的第3消息：cc
+2017-05-09 08:13:47 [ nioEventLoopGroup-5-1:25770 ] - [ ERROR ] 保存信息异常,异常信息为:
+2017-05-09 08:13:47 [ nioEventLoopGroup-5-1:25771 ] - [ ERROR ] java.sql.SQLException: unable to open database file
+2017-05-09 08:13:47 [ AWT-EventQueue-0:26221 ] - [ INFO ] 从库中库消息-msgCount:7Message [id=7, meg=aa]
+2017-05-09 08:13:47 [ AWT-EventQueue-0:26221 ] - [ INFO ] 处理后的消息为：7100aa
+2017-05-09 08:13:47 [ AWT-EventQueue-0:26257 ] - [ INFO ] 显示消息7的二维码
+2017-05-09 08:13:49 [ AWT-EventQueue-0:28187 ] - [ INFO ] 从库中库消息-msgCount:8Message [id=8, meg=aa]
+2017-05-09 08:13:49 [ AWT-EventQueue-0:28187 ] - [ INFO ] 处理后的消息为：8100aa
+2017-05-09 08:13:49 [ AWT-EventQueue-0:28215 ] - [ INFO ] 显示消息8的二维码
+2017-05-09 08:13:51 [ AWT-EventQueue-0:30196 ] - [ INFO ] 从库中库消息-msgCount:9Message [id=9, meg=bb]
+2017-05-09 08:13:51 [ AWT-EventQueue-0:30196 ] - [ INFO ] 处理后的消息为：9100bb
+2017-05-09 08:13:51 [ AWT-EventQueue-0:30246 ] - [ INFO ] 显示消息9的二维码
+2017-05-09 08:13:53 [ AWT-EventQueue-0:32177 ] - [ INFO ] 从库中库消息-msgCount:10Message [id=10, meg=bb]
+2017-05-09 08:13:53 [ AWT-EventQueue-0:32177 ] - [ INFO ] 处理后的消息为：10100bb
+2017-05-09 08:13:53 [ AWT-EventQueue-0:32203 ] - [ INFO ] 显示消息10的二维码
+2017-05-09 08:13:55 [ AWT-EventQueue-0:34191 ] - [ INFO ] 从库中库消息-msgCount:11Message [id=11, meg=bb]
+2017-05-09 08:13:55 [ AWT-EventQueue-0:34192 ] - [ INFO ] 处理后的消息为：11100bb
+2017-05-09 08:13:55 [ AWT-EventQueue-0:34223 ] - [ INFO ] 显示消息11的二维码
+2017-05-09 08:13:57 [ AWT-EventQueue-0:36193 ] - [ INFO ] 从库中库消息-msgCount:12Message [id=12, meg=bb]
+2017-05-09 08:13:57 [ AWT-EventQueue-0:36194 ] - [ INFO ] 处理后的消息为：12100bb
+2017-05-09 08:13:57 [ AWT-EventQueue-0:36231 ] - [ INFO ] 显示消息12的二维码
+2017-05-09 08:13:59 [ AWT-EventQueue-0:38177 ] - [ INFO ] 从库中库消息-msgCount:13Message [id=13, meg=aa]
+2017-05-09 08:13:59 [ AWT-EventQueue-0:38177 ] - [ INFO ] 处理后的消息为：13100aa
+2017-05-09 08:13:59 [ AWT-EventQueue-0:38210 ] - [ INFO ] 显示消息13的二维码
+2017-05-09 08:14:01 [ AWT-EventQueue-0:40181 ] - [ INFO ] 从库中库消息-msgCount:14Message [id=14, meg=bb]
+2017-05-09 08:14:01 [ AWT-EventQueue-0:40181 ] - [ INFO ] 处理后的消息为：14100bb
+2017-05-09 08:14:01 [ AWT-EventQueue-0:40209 ] - [ INFO ] 显示消息14的二维码
+2017-05-09 08:14:03 [ AWT-EventQueue-0:42192 ] - [ INFO ] 从库中库消息-msgCount:15Message [id=15, meg=aa]
+2017-05-09 08:14:03 [ AWT-EventQueue-0:42193 ] - [ INFO ] 处理后的消息为：15100aa
+2017-05-09 08:14:03 [ AWT-EventQueue-0:42228 ] - [ INFO ] 显示消息15的二维码
+2017-05-09 08:14:07 [ main:0 ] - [ INFO ] 开始显示二维码:2017-05-09 08:14
+2017-05-09 08:14:08 [ nioEventLoopGroup-3-1:463 ] - [ INFO ] [id: 0xf5471257] REGISTERED
+2017-05-09 08:14:08 [ nioEventLoopGroup-2-1:463 ] - [ INFO ] [id: 0xdcbb1037] REGISTERED
+2017-05-09 08:14:08 [ nioEventLoopGroup-4-1:463 ] - [ INFO ] [id: 0x3145d274] REGISTERED
+2017-05-09 08:14:08 [ nioEventLoopGroup-2-1:467 ] - [ INFO ] [id: 0xdcbb1037] BIND(0.0.0.0/0.0.0.0:8030)
+2017-05-09 08:14:08 [ nioEventLoopGroup-4-1:468 ] - [ INFO ] [id: 0x3145d274] BIND(0.0.0.0/0.0.0.0:8020)
+2017-05-09 08:14:08 [ nioEventLoopGroup-3-1:468 ] - [ INFO ] [id: 0xf5471257] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 08:14:08 [ nioEventLoopGroup-2-1:471 ] - [ INFO ] [id: 0xdcbb1037, L:/0:0:0:0:0:0:0:0:8030] ACTIVE
+2017-05-09 08:14:08 [ nioEventLoopGroup-3-1:471 ] - [ INFO ] [id: 0xf5471257, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 08:14:08 [ nioEventLoopGroup-4-1:471 ] - [ INFO ] [id: 0x3145d274, L:/0:0:0:0:0:0:0:0:8020] ACTIVE
+2017-05-09 08:14:10 [ AWT-EventQueue-0:2203 ] - [ INFO ] 从库中库消息-msgCount:1Message [id=1, meg=1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111122222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222233333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333344444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555]
+2017-05-09 08:14:10 [ AWT-EventQueue-0:2204 ] - [ INFO ] 处理后的消息为：[10011111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111, 10021111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111, 10031111111111111112222222222222222222222222222222222222222222222222222222222222222222222222222222222222, 10042222222222222222222222222222222222222222222233333333333333333333333333333333333333333333333333333333, 10053333333333333333333333333333333333333333333333333333333333333333333333333333333333333444444444444444, 10064444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444455555555, 10175555555555555555555555555555555555555555555555555555555555555555555555555555555555555]
+2017-05-09 08:14:10 [ AWT-EventQueue-0:2519 ] - [ INFO ] 显示消息1的第1张二维码
+2017-05-09 08:14:51 [ main:0 ] - [ INFO ] 开始显示二维码:2017-05-09 08:14
+2017-05-09 08:14:52 [ nioEventLoopGroup-2-1:489 ] - [ INFO ] [id: 0xea0f479b] REGISTERED
+2017-05-09 08:14:52 [ nioEventLoopGroup-3-1:489 ] - [ INFO ] [id: 0x5d3b5d88] REGISTERED
+2017-05-09 08:14:52 [ nioEventLoopGroup-4-1:489 ] - [ INFO ] [id: 0x6672455a] REGISTERED
+2017-05-09 08:14:52 [ nioEventLoopGroup-4-1:493 ] - [ INFO ] [id: 0x6672455a] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 08:14:52 [ nioEventLoopGroup-3-1:493 ] - [ INFO ] [id: 0x5d3b5d88] BIND(0.0.0.0/0.0.0.0:8020)
+2017-05-09 08:14:52 [ nioEventLoopGroup-2-1:494 ] - [ INFO ] [id: 0xea0f479b] BIND(0.0.0.0/0.0.0.0:8030)
+2017-05-09 08:14:52 [ nioEventLoopGroup-2-1:496 ] - [ INFO ] [id: 0xea0f479b, L:/0:0:0:0:0:0:0:0:8030] ACTIVE
+2017-05-09 08:14:52 [ nioEventLoopGroup-3-1:496 ] - [ INFO ] [id: 0x5d3b5d88, L:/0:0:0:0:0:0:0:0:8020] ACTIVE
+2017-05-09 08:14:52 [ nioEventLoopGroup-4-1:496 ] - [ INFO ] [id: 0x6672455a, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 08:14:56 [ nioEventLoopGroup-2-1:5151 ] - [ INFO ] [id: 0xea0f479b, L:/0:0:0:0:0:0:0:0:8030] RECEIVED: [id: 0x92d09766, L:/127.0.0.1:8030 - R:/127.0.0.1:12565]
+2017-05-09 08:15:02 [ nioEventLoopGroup-7-1:11180 ] - [ INFO ] 12565:127.0.0.1--发送的第1消息：cc
+2017-05-09 08:15:03 [ nioEventLoopGroup-7-1:12184 ] - [ INFO ] 12565:127.0.0.1--发送的第2消息：cc
+2017-05-09 08:15:04 [ AWT-EventQueue-0:12497 ] - [ INFO ] 从库中库消息-msgCount:1Message [id=1, meg=cc]
+2017-05-09 08:15:04 [ AWT-EventQueue-0:12499 ] - [ INFO ] 处理后的消息为：1100cc
+2017-05-09 08:15:04 [ AWT-EventQueue-0:12649 ] - [ INFO ] 显示消息1的二维码
+2017-05-09 08:15:04 [ nioEventLoopGroup-7-1:13191 ] - [ INFO ] 12565:127.0.0.1--发送的第3消息：cc
+2017-05-09 08:15:05 [ AWT-EventQueue-0:14202 ] - [ INFO ] 从库中库消息-msgCount:2Message [id=2, meg=cc]
+2017-05-09 08:15:05 [ AWT-EventQueue-0:14203 ] - [ INFO ] 处理后的消息为：2100cc
+2017-05-09 08:15:05 [ nioEventLoopGroup-7-1:14206 ] - [ INFO ] 12565:127.0.0.1--发送的第4消息：cc
+2017-05-09 08:15:06 [ AWT-EventQueue-0:14370 ] - [ INFO ] 显示消息2的二维码
+2017-05-09 08:15:06 [ nioEventLoopGroup-7-1:15227 ] - [ INFO ] 12565:127.0.0.1--发送的第5消息：cc
+2017-05-09 08:15:07 [ AWT-EventQueue-0:16195 ] - [ INFO ] 从库中库消息-msgCount:3Message [id=3, meg=cc]
+2017-05-09 08:15:07 [ AWT-EventQueue-0:16196 ] - [ INFO ] 处理后的消息为：3100cc
+2017-05-09 08:15:07 [ AWT-EventQueue-0:16222 ] - [ INFO ] 显示消息3的二维码
+2017-05-09 08:15:07 [ nioEventLoopGroup-7-1:16250 ] - [ INFO ] 12565:127.0.0.1--发送的第6消息：cc
+2017-05-09 08:15:08 [ nioEventLoopGroup-3-1:17232 ] - [ INFO ] [id: 0x5d3b5d88, L:/0:0:0:0:0:0:0:0:8020] RECEIVED: [id: 0x66c13b86, L:/127.0.0.1:8020 - R:/127.0.0.1:12566]
+2017-05-09 08:15:08 [ nioEventLoopGroup-7-1:17270 ] - [ INFO ] 12565:127.0.0.1--发送的第7消息：cc
+2017-05-09 08:15:09 [ AWT-EventQueue-0:18223 ] - [ INFO ] 从库中库消息-msgCount:4Message [id=4, meg=cc]
+2017-05-09 08:15:09 [ AWT-EventQueue-0:18224 ] - [ INFO ] 处理后的消息为：4100cc
+2017-05-09 08:15:09 [ AWT-EventQueue-0:18255 ] - [ INFO ] 显示消息4的二维码
+2017-05-09 08:15:09 [ nioEventLoopGroup-7-1:18288 ] - [ INFO ] 12565:127.0.0.1--发送的第8消息：cc
+2017-05-09 08:15:10 [ nioEventLoopGroup-7-1:19311 ] - [ INFO ] 12565:127.0.0.1--发送的第9消息：cc
+2017-05-09 08:15:11 [ nioEventLoopGroup-5-1:19592 ] - [ INFO ] 12566:127.0.0.1--发送的第10消息：bb
+2017-05-09 08:15:11 [ AWT-EventQueue-0:20189 ] - [ INFO ] 从库中库消息-msgCount:5Message [id=5, meg=cc]
+2017-05-09 08:15:11 [ AWT-EventQueue-0:20190 ] - [ INFO ] 处理后的消息为：5100cc
+2017-05-09 08:15:11 [ AWT-EventQueue-0:20217 ] - [ INFO ] 显示消息5的二维码
+2017-05-09 08:15:12 [ nioEventLoopGroup-7-1:20346 ] - [ INFO ] 12565:127.0.0.1--发送的第11消息：cc
+2017-05-09 08:15:13 [ nioEventLoopGroup-7-1:21372 ] - [ INFO ] 12565:127.0.0.1--发送的第12消息：cc
+2017-05-09 08:15:13 [ AWT-EventQueue-0:22187 ] - [ INFO ] 从库中库消息-msgCount:6Message [id=6, meg=cc]
+2017-05-09 08:15:13 [ AWT-EventQueue-0:22188 ] - [ INFO ] 处理后的消息为：6100cc
+2017-05-09 08:15:13 [ AWT-EventQueue-0:22253 ] - [ INFO ] 显示消息6的二维码
+2017-05-09 08:15:14 [ nioEventLoopGroup-7-1:22400 ] - [ INFO ] 12565:127.0.0.1--发送的第13消息：cc
+2017-05-09 08:15:14 [ nioEventLoopGroup-4-1:22760 ] - [ INFO ] [id: 0x6672455a, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0xc4272868, L:/127.0.0.1:8010 - R:/127.0.0.1:12567]
+2017-05-09 08:15:15 [ nioEventLoopGroup-7-1:23440 ] - [ INFO ] 12565:127.0.0.1--发送的第14消息：cc
+2017-05-09 08:15:15 [ nioEventLoopGroup-6-1:23655 ] - [ INFO ] 12567:127.0.0.1--发送的第15消息：aa
+2017-05-09 08:15:15 [ AWT-EventQueue-0:24192 ] - [ INFO ] 从库中库消息-msgCount:7Message [id=7, meg=cc]
+2017-05-09 08:15:15 [ AWT-EventQueue-0:24192 ] - [ INFO ] 处理后的消息为：7100cc
+2017-05-09 08:15:15 [ AWT-EventQueue-0:24282 ] - [ INFO ] 显示消息7的二维码
+2017-05-09 08:15:16 [ nioEventLoopGroup-7-1:24461 ] - [ INFO ] 12565:127.0.0.1--发送的第16消息：cc
+2017-05-09 08:15:16 [ nioEventLoopGroup-5-1:24632 ] - [ INFO ] 12566:127.0.0.1--发送的第17消息：bb
+2017-05-09 08:15:17 [ nioEventLoopGroup-7-1:25476 ] - [ INFO ] 12565:127.0.0.1--发送的第18消息：cc
+2017-05-09 08:15:17 [ AWT-EventQueue-0:26189 ] - [ INFO ] 从库中库消息-msgCount:8Message [id=8, meg=cc]
+2017-05-09 08:15:17 [ AWT-EventQueue-0:26190 ] - [ INFO ] 处理后的消息为：8100cc
+2017-05-09 08:15:17 [ AWT-EventQueue-0:26229 ] - [ INFO ] 显示消息8的二维码
+2017-05-09 08:15:18 [ nioEventLoopGroup-7-1:26493 ] - [ INFO ] 12565:127.0.0.1--发送的第19消息：cc
+2017-05-09 08:15:19 [ nioEventLoopGroup-7-1:27500 ] - [ INFO ] 12565:127.0.0.1--发送的第20消息：cc
+2017-05-09 08:15:19 [ AWT-EventQueue-0:28186 ] - [ INFO ] 从库中库消息-msgCount:9Message [id=9, meg=cc]
+2017-05-09 08:15:19 [ AWT-EventQueue-0:28187 ] - [ INFO ] 处理后的消息为：9100cc
+2017-05-09 08:15:19 [ AWT-EventQueue-0:28232 ] - [ INFO ] 显示消息9的二维码
+2017-05-09 08:15:20 [ nioEventLoopGroup-6-1:28659 ] - [ INFO ] 12567:127.0.0.1--发送的第21消息：aa
+2017-05-09 08:15:21 [ nioEventLoopGroup-5-1:29689 ] - [ INFO ] 12566:127.0.0.1--发送的第22消息：bb
+2017-05-09 08:15:21 [ AWT-EventQueue-0:30189 ] - [ INFO ] 从库中库消息-msgCount:10Message [id=10, meg=bb]
+2017-05-09 08:15:21 [ AWT-EventQueue-0:30190 ] - [ INFO ] 处理后的消息为：10100bb
+2017-05-09 08:15:21 [ AWT-EventQueue-0:30238 ] - [ INFO ] 显示消息10的二维码
+2017-05-09 08:15:23 [ AWT-EventQueue-0:32202 ] - [ INFO ] 从库中库消息-msgCount:11Message [id=11, meg=cc]
+2017-05-09 08:15:23 [ AWT-EventQueue-0:32203 ] - [ INFO ] 处理后的消息为：11100cc
+2017-05-09 08:15:23 [ AWT-EventQueue-0:32248 ] - [ INFO ] 显示消息11的二维码
+2017-05-09 08:15:24 [ nioEventLoopGroup-7-1:33116 ] - [ INFO ] 12565:127.0.0.1--发送的第23消息：cc
+2017-05-09 08:15:25 [ nioEventLoopGroup-6-1:33708 ] - [ INFO ] 12567:127.0.0.1--发送的第24消息：aa
+2017-05-09 08:15:25 [ AWT-EventQueue-0:34181 ] - [ INFO ] 从库中库消息-msgCount:12Message [id=12, meg=cc]
+2017-05-09 08:15:25 [ AWT-EventQueue-0:34181 ] - [ INFO ] 处理后的消息为：12100cc
+2017-05-09 08:15:25 [ AWT-EventQueue-0:34205 ] - [ INFO ] 显示消息12的二维码
+2017-05-09 08:15:26 [ nioEventLoopGroup-5-1:34741 ] - [ INFO ] 12566:127.0.0.1--发送的第25消息：bb
+2017-05-09 08:15:27 [ AWT-EventQueue-0:36188 ] - [ INFO ] 从库中库消息-msgCount:13Message [id=13, meg=cc]
+2017-05-09 08:15:27 [ AWT-EventQueue-0:36188 ] - [ INFO ] 处理后的消息为：13100cc
+2017-05-09 08:15:27 [ AWT-EventQueue-0:36239 ] - [ INFO ] 显示消息13的二维码
+2017-05-09 08:15:29 [ nioEventLoopGroup-7-1:38127 ] - [ INFO ] 12565:127.0.0.1--发送的第26消息：cc
+2017-05-09 08:15:30 [ AWT-EventQueue-0:38441 ] - [ INFO ] 从库中库消息-msgCount:14Message [id=14, meg=cc]
+2017-05-09 08:15:30 [ AWT-EventQueue-0:38442 ] - [ INFO ] 处理后的消息为：14100cc
+2017-05-09 08:15:30 [ AWT-EventQueue-0:38479 ] - [ INFO ] 显示消息14的二维码
+2017-05-09 08:15:30 [ nioEventLoopGroup-6-1:38724 ] - [ INFO ] 12567:127.0.0.1--发送的第27消息：aa
+2017-05-09 08:15:31 [ nioEventLoopGroup-5-1:39755 ] - [ INFO ] 12566:127.0.0.1--发送的第28消息：bb
+2017-05-09 08:15:31 [ AWT-EventQueue-0:40197 ] - [ INFO ] 从库中库消息-msgCount:15Message [id=15, meg=aa]
+2017-05-09 08:15:31 [ AWT-EventQueue-0:40198 ] - [ INFO ] 处理后的消息为：15100aa
+2017-05-09 08:15:31 [ AWT-EventQueue-0:40297 ] - [ INFO ] 显示消息15的二维码
+2017-05-09 08:15:33 [ AWT-EventQueue-0:42190 ] - [ INFO ] 从库中库消息-msgCount:16Message [id=16, meg=cc]
+2017-05-09 08:15:33 [ AWT-EventQueue-0:42191 ] - [ INFO ] 处理后的消息为：16100cc
+2017-05-09 08:15:33 [ AWT-EventQueue-0:42266 ] - [ INFO ] 显示消息16的二维码
+2017-05-09 08:15:34 [ nioEventLoopGroup-7-1:43139 ] - [ INFO ] 12565:127.0.0.1--发送的第29消息：cc
+2017-05-09 08:15:35 [ nioEventLoopGroup-6-1:43733 ] - [ INFO ] 12567:127.0.0.1--发送的第30消息：aa
+2017-05-09 08:15:35 [ AWT-EventQueue-0:44197 ] - [ INFO ] 从库中库消息-msgCount:17Message [id=17, meg=bb]
+2017-05-09 08:15:35 [ AWT-EventQueue-0:44197 ] - [ INFO ] 处理后的消息为：17100bb
+2017-05-09 08:15:35 [ AWT-EventQueue-0:44223 ] - [ INFO ] 显示消息17的二维码
+2017-05-09 08:15:36 [ nioEventLoopGroup-5-1:44768 ] - [ INFO ] 12566:127.0.0.1--发送的第31消息：bb
+2017-05-09 08:15:37 [ AWT-EventQueue-0:46201 ] - [ INFO ] 从库中库消息-msgCount:18Message [id=18, meg=cc]
+2017-05-09 08:15:37 [ AWT-EventQueue-0:46203 ] - [ INFO ] 处理后的消息为：18100cc
+2017-05-09 08:15:37 [ AWT-EventQueue-0:46248 ] - [ INFO ] 显示消息18的二维码
+2017-05-09 08:15:39 [ AWT-EventQueue-0:48190 ] - [ INFO ] 从库中库消息-msgCount:19Message [id=19, meg=cc]
+2017-05-09 08:15:39 [ AWT-EventQueue-0:48190 ] - [ INFO ] 处理后的消息为：19100cc
+2017-05-09 08:15:39 [ nioEventLoopGroup-7-1:48199 ] - [ INFO ] 12565:127.0.0.1--发送的第32消息：cc
+2017-05-09 08:15:39 [ AWT-EventQueue-0:48228 ] - [ INFO ] 显示消息19的二维码
+2017-05-09 08:15:40 [ nioEventLoopGroup-6-1:48786 ] - [ INFO ] 12567:127.0.0.1--发送的第33消息：aa
+2017-05-09 08:15:41 [ nioEventLoopGroup-5-1:49810 ] - [ INFO ] 12566:127.0.0.1--发送的第34消息：bb
+2017-05-09 08:15:41 [ AWT-EventQueue-0:50201 ] - [ INFO ] 从库中库消息-msgCount:20Message [id=20, meg=cc]
+2017-05-09 08:15:41 [ AWT-EventQueue-0:50202 ] - [ INFO ] 处理后的消息为：20100cc
+2017-05-09 08:15:41 [ AWT-EventQueue-0:50225 ] - [ INFO ] 显示消息20的二维码
+2017-05-09 08:15:43 [ AWT-EventQueue-0:52209 ] - [ INFO ] 从库中库消息-msgCount:21Message [id=21, meg=aa]
+2017-05-09 08:15:43 [ AWT-EventQueue-0:52210 ] - [ INFO ] 处理后的消息为：21100aa
+2017-05-09 08:15:43 [ AWT-EventQueue-0:52243 ] - [ INFO ] 显示消息21的二维码
+2017-05-09 08:15:44 [ nioEventLoopGroup-7-1:53239 ] - [ INFO ] 12565:127.0.0.1--发送的第35消息：cc
+2017-05-09 08:15:45 [ nioEventLoopGroup-6-1:53835 ] - [ INFO ] 12567:127.0.0.1--发送的第36消息：aa
+2017-05-09 08:15:45 [ AWT-EventQueue-0:54188 ] - [ INFO ] 从库中库消息-msgCount:22Message [id=22, meg=bb]
+2017-05-09 08:15:45 [ AWT-EventQueue-0:54188 ] - [ INFO ] 处理后的消息为：22100bb
+2017-05-09 08:15:45 [ AWT-EventQueue-0:54209 ] - [ INFO ] 显示消息22的二维码
+2017-05-09 08:15:46 [ nioEventLoopGroup-5-1:54868 ] - [ INFO ] 12566:127.0.0.1--发送的第37消息：bb
+2017-05-09 08:15:47 [ AWT-EventQueue-0:56194 ] - [ INFO ] 从库中库消息-msgCount:23Message [id=23, meg=cc]
+2017-05-09 08:15:47 [ AWT-EventQueue-0:56194 ] - [ INFO ] 处理后的消息为：23100cc
+2017-05-09 08:15:47 [ AWT-EventQueue-0:56242 ] - [ INFO ] 显示消息23的二维码
+2017-05-09 08:15:49 [ AWT-EventQueue-0:58194 ] - [ INFO ] 从库中库消息-msgCount:24Message [id=24, meg=aa]
+2017-05-09 08:15:49 [ AWT-EventQueue-0:58195 ] - [ INFO ] 处理后的消息为：24100aa
+2017-05-09 08:15:49 [ AWT-EventQueue-0:58238 ] - [ INFO ] 显示消息24的二维码
+2017-05-09 08:15:49 [ nioEventLoopGroup-7-1:58298 ] - [ INFO ] 12565:127.0.0.1--发送的第38消息：cc
+2017-05-09 08:15:50 [ nioEventLoopGroup-6-1:58887 ] - [ INFO ] 12567:127.0.0.1--发送的第39消息：aa
+2017-05-09 08:15:51 [ nioEventLoopGroup-5-1:59917 ] - [ INFO ] 12566:127.0.0.1--发送的第40消息：bb
+2017-05-09 08:15:51 [ AWT-EventQueue-0:60220 ] - [ INFO ] 从库中库消息-msgCount:25Message [id=25, meg=bb]
+2017-05-09 08:15:51 [ AWT-EventQueue-0:60221 ] - [ INFO ] 处理后的消息为：25100bb
+2017-05-09 08:15:51 [ AWT-EventQueue-0:60247 ] - [ INFO ] 显示消息25的二维码
+2017-05-09 08:15:53 [ AWT-EventQueue-0:62214 ] - [ INFO ] 从库中库消息-msgCount:26Message [id=26, meg=cc]
+2017-05-09 08:15:53 [ AWT-EventQueue-0:62214 ] - [ INFO ] 处理后的消息为：26100cc
+2017-05-09 08:15:53 [ AWT-EventQueue-0:62253 ] - [ INFO ] 显示消息26的二维码
+2017-05-09 08:15:54 [ nioEventLoopGroup-7-1:63333 ] - [ INFO ] 12565:127.0.0.1--发送的第41消息：cc
+2017-05-09 08:15:55 [ nioEventLoopGroup-6-1:63924 ] - [ INFO ] 12567:127.0.0.1--发送的第42消息：aa
+2017-05-09 08:15:55 [ AWT-EventQueue-0:64230 ] - [ INFO ] 从库中库消息-msgCount:27Message [id=27, meg=aa]
+2017-05-09 08:15:55 [ AWT-EventQueue-0:64231 ] - [ INFO ] 处理后的消息为：27100aa
+2017-05-09 08:15:55 [ AWT-EventQueue-0:64262 ] - [ INFO ] 显示消息27的二维码
+2017-05-09 08:15:56 [ nioEventLoopGroup-5-1:64957 ] - [ INFO ] 12566:127.0.0.1--发送的第43消息：bb
+2017-05-09 08:15:57 [ AWT-EventQueue-0:66196 ] - [ INFO ] 从库中库消息-msgCount:28Message [id=28, meg=bb]
+2017-05-09 08:15:57 [ AWT-EventQueue-0:66197 ] - [ INFO ] 处理后的消息为：28100bb
+2017-05-09 08:15:57 [ AWT-EventQueue-0:66246 ] - [ INFO ] 显示消息28的二维码
+2017-05-09 08:15:59 [ AWT-EventQueue-0:68198 ] - [ INFO ] 从库中库消息-msgCount:29Message [id=29, meg=cc]
+2017-05-09 08:15:59 [ AWT-EventQueue-0:68199 ] - [ INFO ] 处理后的消息为：29100cc
+2017-05-09 08:15:59 [ AWT-EventQueue-0:68249 ] - [ INFO ] 显示消息29的二维码
+2017-05-09 08:16:00 [ nioEventLoopGroup-7-1:68380 ] - [ INFO ] 12565:127.0.0.1--发送的第44消息：cc
+2017-05-09 08:16:00 [ nioEventLoopGroup-6-1:68973 ] - [ INFO ] 12567:127.0.0.1--发送的第45消息：aa
+2017-05-09 08:16:01 [ nioEventLoopGroup-5-1:70008 ] - [ INFO ] 12566:127.0.0.1--发送的第46消息：bb
+2017-05-09 08:16:01 [ AWT-EventQueue-0:70263 ] - [ INFO ] 从库中库消息-msgCount:30Message [id=30, meg=aa]
+2017-05-09 08:16:01 [ AWT-EventQueue-0:70264 ] - [ INFO ] 处理后的消息为：30100aa
+2017-05-09 08:16:01 [ AWT-EventQueue-0:70288 ] - [ INFO ] 显示消息30的二维码
+2017-05-09 08:16:03 [ AWT-EventQueue-0:72200 ] - [ INFO ] 从库中库消息-msgCount:31Message [id=31, meg=bb]
+2017-05-09 08:16:03 [ AWT-EventQueue-0:72200 ] - [ INFO ] 处理后的消息为：31100bb
+2017-05-09 08:16:03 [ AWT-EventQueue-0:72239 ] - [ INFO ] 显示消息31的二维码
+2017-05-09 08:16:05 [ nioEventLoopGroup-7-1:73385 ] - [ INFO ] 12565:127.0.0.1--发送的第47消息：cc
+2017-05-09 08:16:05 [ nioEventLoopGroup-6-1:73979 ] - [ INFO ] 12567:127.0.0.1--发送的第48消息：aa
+2017-05-09 08:16:05 [ AWT-EventQueue-0:74294 ] - [ INFO ] 从库中库消息-msgCount:32Message [id=32, meg=cc]
+2017-05-09 08:16:05 [ AWT-EventQueue-0:74294 ] - [ INFO ] 处理后的消息为：32100cc
+2017-05-09 08:16:05 [ AWT-EventQueue-0:74329 ] - [ INFO ] 显示消息32的二维码
+2017-05-09 08:16:06 [ nioEventLoopGroup-5-1:75011 ] - [ INFO ] 12566:127.0.0.1--发送的第49消息：bb
+2017-05-09 08:16:07 [ AWT-EventQueue-0:76198 ] - [ INFO ] 从库中库消息-msgCount:33Message [id=33, meg=aa]
+2017-05-09 08:16:07 [ AWT-EventQueue-0:76199 ] - [ INFO ] 处理后的消息为：33100aa
+2017-05-09 08:16:07 [ AWT-EventQueue-0:76216 ] - [ INFO ] 显示消息33的二维码
+2017-05-09 08:16:09 [ AWT-EventQueue-0:78207 ] - [ INFO ] 从库中库消息-msgCount:34Message [id=34, meg=bb]
+2017-05-09 08:16:09 [ AWT-EventQueue-0:78207 ] - [ INFO ] 处理后的消息为：34100bb
+2017-05-09 08:16:09 [ AWT-EventQueue-0:78240 ] - [ INFO ] 显示消息34的二维码
+2017-05-09 08:16:10 [ nioEventLoopGroup-7-1:78395 ] - [ INFO ] 12565:127.0.0.1--发送的第50消息：cc
+2017-05-09 08:16:10 [ nioEventLoopGroup-6-1:78984 ] - [ INFO ] 12567:127.0.0.1--发送的第51消息：aa
+2017-05-09 08:16:11 [ nioEventLoopGroup-5-1:80016 ] - [ INFO ] 12566:127.0.0.1--发送的第52消息：bb
+2017-05-09 08:16:11 [ AWT-EventQueue-0:80294 ] - [ INFO ] 从库中库消息-msgCount:35Message [id=35, meg=cc]
+2017-05-09 08:16:11 [ AWT-EventQueue-0:80294 ] - [ INFO ] 处理后的消息为：35100cc
+2017-05-09 08:16:11 [ AWT-EventQueue-0:80317 ] - [ INFO ] 显示消息35的二维码
+2017-05-09 08:16:13 [ AWT-EventQueue-0:82202 ] - [ INFO ] 从库中库消息-msgCount:36Message [id=36, meg=aa]
+2017-05-09 08:16:13 [ AWT-EventQueue-0:82203 ] - [ INFO ] 处理后的消息为：36100aa
+2017-05-09 08:16:13 [ AWT-EventQueue-0:82236 ] - [ INFO ] 显示消息36的二维码
+2017-05-09 08:16:15 [ nioEventLoopGroup-7-1:83440 ] - [ INFO ] 12565:127.0.0.1--发送的第53消息：cc
+2017-05-09 08:16:15 [ nioEventLoopGroup-6-1:84037 ] - [ INFO ] 12567:127.0.0.1--发送的第54消息：aa
+2017-05-09 08:16:15 [ AWT-EventQueue-0:84318 ] - [ INFO ] 从库中库消息-msgCount:37Message [id=37, meg=bb]
+2017-05-09 08:16:15 [ AWT-EventQueue-0:84319 ] - [ INFO ] 处理后的消息为：37100bb
+2017-05-09 08:16:15 [ AWT-EventQueue-0:84339 ] - [ INFO ] 显示消息37的二维码
+2017-05-09 08:16:16 [ nioEventLoopGroup-5-1:85068 ] - [ INFO ] 12566:127.0.0.1--发送的第55消息：bb
+2017-05-09 08:16:17 [ AWT-EventQueue-0:86199 ] - [ INFO ] 从库中库消息-msgCount:38Message [id=38, meg=cc]
+2017-05-09 08:16:17 [ AWT-EventQueue-0:86200 ] - [ INFO ] 处理后的消息为：38100cc
+2017-05-09 08:16:17 [ AWT-EventQueue-0:86225 ] - [ INFO ] 显示消息38的二维码
+2017-05-09 08:16:19 [ AWT-EventQueue-0:88229 ] - [ INFO ] 从库中库消息-msgCount:39Message [id=39, meg=aa]
+2017-05-09 08:16:19 [ AWT-EventQueue-0:88229 ] - [ INFO ] 处理后的消息为：39100aa
+2017-05-09 08:16:19 [ AWT-EventQueue-0:88243 ] - [ INFO ] 显示消息39的二维码
+2017-05-09 08:16:20 [ nioEventLoopGroup-7-1:88498 ] - [ INFO ] 12565:127.0.0.1--发送的第56消息：cc
+2017-05-09 08:16:20 [ nioEventLoopGroup-6-1:89085 ] - [ INFO ] 12567:127.0.0.1--发送的第57消息：aa
+2017-05-09 08:16:21 [ nioEventLoopGroup-5-1:90117 ] - [ INFO ] 12566:127.0.0.1--发送的第58消息：bb
+2017-05-09 08:16:21 [ AWT-EventQueue-0:90319 ] - [ INFO ] 从库中库消息-msgCount:40Message [id=40, meg=bb]
+2017-05-09 08:16:21 [ AWT-EventQueue-0:90320 ] - [ INFO ] 处理后的消息为：40100bb
+2017-05-09 08:16:22 [ AWT-EventQueue-0:90351 ] - [ INFO ] 显示消息40的二维码
+2017-05-09 08:16:23 [ AWT-EventQueue-0:92208 ] - [ INFO ] 从库中库消息-msgCount:41Message [id=41, meg=cc]
+2017-05-09 08:16:23 [ AWT-EventQueue-0:92209 ] - [ INFO ] 处理后的消息为：41100cc
+2017-05-09 08:16:23 [ AWT-EventQueue-0:92233 ] - [ INFO ] 显示消息41的二维码
+2017-05-09 08:16:25 [ nioEventLoopGroup-7-1:93546 ] - [ INFO ] 12565:127.0.0.1--发送的第59消息：cc
+2017-05-09 08:16:25 [ nioEventLoopGroup-6-1:94138 ] - [ INFO ] 12567:127.0.0.1--发送的第60消息：aa
+2017-05-09 08:16:26 [ AWT-EventQueue-0:94382 ] - [ INFO ] 从库中库消息-msgCount:42Message [id=42, meg=aa]
+2017-05-09 08:16:26 [ AWT-EventQueue-0:94382 ] - [ INFO ] 处理后的消息为：42100aa
+2017-05-09 08:16:26 [ AWT-EventQueue-0:94418 ] - [ INFO ] 显示消息42的二维码
+2017-05-09 08:16:26 [ nioEventLoopGroup-5-1:95171 ] - [ INFO ] 12566:127.0.0.1--发送的第61消息：bb
+2017-05-09 08:16:27 [ AWT-EventQueue-0:96216 ] - [ INFO ] 从库中库消息-msgCount:43Message [id=43, meg=bb]
+2017-05-09 08:16:27 [ AWT-EventQueue-0:96217 ] - [ INFO ] 处理后的消息为：43100bb
+2017-05-09 08:16:27 [ AWT-EventQueue-0:96247 ] - [ INFO ] 显示消息43的二维码
+2017-05-09 08:16:29 [ AWT-EventQueue-0:98203 ] - [ INFO ] 从库中库消息-msgCount:44Message [id=44, meg=cc]
+2017-05-09 08:16:29 [ AWT-EventQueue-0:98204 ] - [ INFO ] 处理后的消息为：44100cc
+2017-05-09 08:16:29 [ AWT-EventQueue-0:98236 ] - [ INFO ] 显示消息44的二维码
+2017-05-09 08:16:30 [ nioEventLoopGroup-7-1:98581 ] - [ INFO ] 12565:127.0.0.1--发送的第62消息：cc
+2017-05-09 08:16:30 [ nioEventLoopGroup-6-1:99173 ] - [ INFO ] 12567:127.0.0.1--发送的第63消息：aa
+2017-05-09 08:16:31 [ nioEventLoopGroup-5-1:100201 ] - [ INFO ] 12566:127.0.0.1--发送的第64消息：bb
+2017-05-09 08:16:31 [ AWT-EventQueue-0:100209 ] - [ INFO ] 从库中库消息-msgCount:45Message [id=45, meg=aa]
+2017-05-09 08:16:31 [ AWT-EventQueue-0:100210 ] - [ INFO ] 处理后的消息为：45100aa
+2017-05-09 08:16:31 [ AWT-EventQueue-0:100235 ] - [ INFO ] 显示消息45的二维码
+2017-05-09 08:16:33 [ AWT-EventQueue-0:102210 ] - [ INFO ] 从库中库消息-msgCount:46Message [id=46, meg=bb]
+2017-05-09 08:16:33 [ AWT-EventQueue-0:102211 ] - [ INFO ] 处理后的消息为：46100bb
+2017-05-09 08:16:33 [ AWT-EventQueue-0:102231 ] - [ INFO ] 显示消息46的二维码
+2017-05-09 08:16:35 [ nioEventLoopGroup-7-1:103624 ] - [ INFO ] 12565:127.0.0.1--发送的第65消息：cc
+2017-05-09 08:16:35 [ AWT-EventQueue-0:104208 ] - [ INFO ] 从库中库消息-msgCount:47Message [id=47, meg=cc]
+2017-05-09 08:16:35 [ AWT-EventQueue-0:104209 ] - [ INFO ] 处理后的消息为：47100cc
+2017-05-09 08:16:35 [ nioEventLoopGroup-6-1:104217 ] - [ INFO ] 12567:127.0.0.1--发送的第66消息：aa
+2017-05-09 08:16:35 [ AWT-EventQueue-0:104251 ] - [ INFO ] 显示消息47的二维码
+2017-05-09 08:16:36 [ nioEventLoopGroup-5-1:105254 ] - [ INFO ] 12566:127.0.0.1--发送的第67消息：bb
+2017-05-09 08:16:37 [ AWT-EventQueue-0:106207 ] - [ INFO ] 从库中库消息-msgCount:48Message [id=48, meg=aa]
+2017-05-09 08:16:37 [ AWT-EventQueue-0:106208 ] - [ INFO ] 处理后的消息为：48100aa
+2017-05-09 08:16:37 [ AWT-EventQueue-0:106234 ] - [ INFO ] 显示消息48的二维码
+2017-05-09 08:16:39 [ AWT-EventQueue-0:108207 ] - [ INFO ] 从库中库消息-msgCount:49Message [id=49, meg=bb]
+2017-05-09 08:16:39 [ AWT-EventQueue-0:108208 ] - [ INFO ] 处理后的消息为：49100bb
+2017-05-09 08:16:39 [ AWT-EventQueue-0:108246 ] - [ INFO ] 显示消息49的二维码
+2017-05-09 08:16:40 [ nioEventLoopGroup-7-1:108625 ] - [ INFO ] 12565:127.0.0.1--发送的第68消息：cc
+2017-05-09 08:16:40 [ nioEventLoopGroup-6-1:109277 ] - [ INFO ] 12567:127.0.0.1--发送的第69消息：aa
+2017-05-09 08:16:41 [ AWT-EventQueue-0:110209 ] - [ INFO ] 从库中库消息-msgCount:50Message [id=50, meg=cc]
+2017-05-09 08:16:41 [ AWT-EventQueue-0:110209 ] - [ INFO ] 处理后的消息为：50100cc
+2017-05-09 08:16:41 [ AWT-EventQueue-0:110238 ] - [ INFO ] 显示消息50的二维码
+2017-05-09 08:16:41 [ nioEventLoopGroup-5-1:110311 ] - [ INFO ] 12566:127.0.0.1--发送的第70消息：bb
+2017-05-09 08:16:43 [ AWT-EventQueue-0:112211 ] - [ INFO ] 从库中库消息-msgCount:51Message [id=51, meg=aa]
+2017-05-09 08:16:43 [ AWT-EventQueue-0:112211 ] - [ INFO ] 处理后的消息为：51100aa
+2017-05-09 08:16:43 [ AWT-EventQueue-0:112266 ] - [ INFO ] 显示消息51的二维码
+2017-05-09 08:16:45 [ nioEventLoopGroup-7-1:113672 ] - [ INFO ] 12565:127.0.0.1--发送的第71消息：cc
+2017-05-09 08:16:45 [ AWT-EventQueue-0:114211 ] - [ INFO ] 从库中库消息-msgCount:52Message [id=52, meg=bb]
+2017-05-09 08:16:45 [ AWT-EventQueue-0:114212 ] - [ INFO ] 处理后的消息为：52100bb
+2017-05-09 08:16:45 [ AWT-EventQueue-0:114241 ] - [ INFO ] 显示消息52的二维码
+2017-05-09 08:16:45 [ nioEventLoopGroup-6-1:114329 ] - [ INFO ] 12567:127.0.0.1--发送的第72消息：aa
+2017-05-09 08:16:47 [ nioEventLoopGroup-5-1:115359 ] - [ INFO ] 12566:127.0.0.1--发送的第73消息：bb
+2017-05-09 08:16:47 [ AWT-EventQueue-0:116211 ] - [ INFO ] 从库中库消息-msgCount:53Message [id=53, meg=cc]
+2017-05-09 08:16:47 [ AWT-EventQueue-0:116212 ] - [ INFO ] 处理后的消息为：53100cc
+2017-05-09 08:16:47 [ AWT-EventQueue-0:116234 ] - [ INFO ] 显示消息53的二维码
+2017-05-09 08:16:49 [ AWT-EventQueue-0:118213 ] - [ INFO ] 从库中库消息-msgCount:54Message [id=54, meg=aa]
+2017-05-09 08:16:49 [ AWT-EventQueue-0:118214 ] - [ INFO ] 处理后的消息为：54100aa
+2017-05-09 08:16:49 [ AWT-EventQueue-0:118240 ] - [ INFO ] 显示消息54的二维码
+2017-05-09 08:16:50 [ nioEventLoopGroup-7-1:118727 ] - [ INFO ] 12565:127.0.0.1--发送的第74消息：cc
+2017-05-09 08:16:51 [ nioEventLoopGroup-6-1:119382 ] - [ INFO ] 12567:127.0.0.1--发送的第75消息：aa
+2017-05-09 08:16:51 [ AWT-EventQueue-0:120214 ] - [ INFO ] 从库中库消息-msgCount:55Message [id=55, meg=bb]
+2017-05-09 08:16:51 [ AWT-EventQueue-0:120215 ] - [ INFO ] 处理后的消息为：55100bb
+2017-05-09 08:16:51 [ AWT-EventQueue-0:120248 ] - [ INFO ] 显示消息55的二维码
+2017-05-09 08:16:52 [ nioEventLoopGroup-5-1:120413 ] - [ INFO ] 12566:127.0.0.1--发送的第76消息：bb
+2017-05-09 08:16:53 [ AWT-EventQueue-0:122215 ] - [ INFO ] 从库中库消息-msgCount:56Message [id=56, meg=cc]
+2017-05-09 08:16:53 [ AWT-EventQueue-0:122216 ] - [ INFO ] 处理后的消息为：56100cc
+2017-05-09 08:16:53 [ AWT-EventQueue-0:122246 ] - [ INFO ] 显示消息56的二维码
+2017-05-09 08:16:55 [ nioEventLoopGroup-7-1:123772 ] - [ INFO ] 12565:127.0.0.1--发送的第77消息：cc
+2017-05-09 08:16:55 [ AWT-EventQueue-0:124216 ] - [ INFO ] 从库中库消息-msgCount:57Message [id=57, meg=aa]
+2017-05-09 08:16:55 [ AWT-EventQueue-0:124217 ] - [ INFO ] 处理后的消息为：57100aa
+2017-05-09 08:16:55 [ AWT-EventQueue-0:124287 ] - [ INFO ] 显示消息57的二维码
+2017-05-09 08:16:56 [ nioEventLoopGroup-6-1:124427 ] - [ INFO ] 12567:127.0.0.1--发送的第78消息：aa
+2017-05-09 08:16:57 [ nioEventLoopGroup-5-1:125454 ] - [ INFO ] 12566:127.0.0.1--发送的第79消息：bb
+2017-05-09 08:16:57 [ AWT-EventQueue-0:126217 ] - [ INFO ] 从库中库消息-msgCount:58Message [id=58, meg=bb]
+2017-05-09 08:16:57 [ AWT-EventQueue-0:126218 ] - [ INFO ] 处理后的消息为：58100bb
+2017-05-09 08:16:57 [ AWT-EventQueue-0:126251 ] - [ INFO ] 显示消息58的二维码
+2017-05-09 08:16:59 [ AWT-EventQueue-0:128218 ] - [ INFO ] 从库中库消息-msgCount:59Message [id=59, meg=cc]
+2017-05-09 08:16:59 [ AWT-EventQueue-0:128219 ] - [ INFO ] 处理后的消息为：59100cc
+2017-05-09 08:16:59 [ AWT-EventQueue-0:128251 ] - [ INFO ] 显示消息59的二维码
+2017-05-09 08:17:00 [ nioEventLoopGroup-7-1:128808 ] - [ INFO ] 12565:127.0.0.1--发送的第80消息：cc
+2017-05-09 08:17:01 [ nioEventLoopGroup-6-1:129461 ] - [ INFO ] 12567:127.0.0.1--发送的第81消息：aa
+2017-05-09 08:17:01 [ AWT-EventQueue-0:130222 ] - [ INFO ] 从库中库消息-msgCount:60Message [id=60, meg=aa]
+2017-05-09 08:17:01 [ AWT-EventQueue-0:130223 ] - [ INFO ] 处理后的消息为：60100aa
+2017-05-09 08:17:01 [ AWT-EventQueue-0:130257 ] - [ INFO ] 显示消息60的二维码
+2017-05-09 08:17:02 [ nioEventLoopGroup-5-1:130488 ] - [ INFO ] 12566:127.0.0.1--发送的第82消息：bb
+2017-05-09 08:17:03 [ AWT-EventQueue-0:132220 ] - [ INFO ] 从库中库消息-msgCount:61Message [id=61, meg=bb]
+2017-05-09 08:17:03 [ AWT-EventQueue-0:132221 ] - [ INFO ] 处理后的消息为：61100bb
+2017-05-09 08:17:03 [ AWT-EventQueue-0:132245 ] - [ INFO ] 显示消息61的二维码
+2017-05-09 08:17:05 [ nioEventLoopGroup-7-1:133850 ] - [ INFO ] 12565:127.0.0.1--发送的第83消息：cc
+2017-05-09 08:17:05 [ AWT-EventQueue-0:134220 ] - [ INFO ] 从库中库消息-msgCount:62Message [id=62, meg=cc]
+2017-05-09 08:17:05 [ AWT-EventQueue-0:134220 ] - [ INFO ] 处理后的消息为：62100cc
+2017-05-09 08:17:05 [ AWT-EventQueue-0:134239 ] - [ INFO ] 显示消息62的二维码
+2017-05-09 08:17:06 [ nioEventLoopGroup-6-1:134505 ] - [ INFO ] 12567:127.0.0.1--发送的第84消息：aa
+2017-05-09 08:17:07 [ nioEventLoopGroup-5-1:135538 ] - [ INFO ] 12566:127.0.0.1--发送的第85消息：bb
+2017-05-09 08:17:07 [ AWT-EventQueue-0:136223 ] - [ INFO ] 从库中库消息-msgCount:63Message [id=63, meg=aa]
+2017-05-09 08:17:07 [ AWT-EventQueue-0:136224 ] - [ INFO ] 处理后的消息为：63100aa
+2017-05-09 08:17:07 [ AWT-EventQueue-0:136319 ] - [ INFO ] 显示消息63的二维码
+2017-05-09 08:20:15 [ nioEventLoopGroup-2-1:267 ] - [ INFO ] [id: 0x254865a9] REGISTERED
+2017-05-09 08:20:15 [ nioEventLoopGroup-2-1:272 ] - [ INFO ] [id: 0x254865a9] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 08:20:15 [ nioEventLoopGroup-2-1:275 ] - [ INFO ] [id: 0x254865a9, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 08:20:23 [ nioEventLoopGroup-2-1:8218 ] - [ INFO ] [id: 0x254865a9, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x0a70991a, L:/127.0.0.1:8010 - R:/127.0.0.1:12608]
+2017-05-09 08:20:29 [ nioEventLoopGroup-3-1:14250 ] - [ INFO ] 12608:127.0.0.1--发送的第1消息：aa
+2017-05-09 08:21:11 [ nioEventLoopGroup-2-1:274 ] - [ INFO ] [id: 0xe25df272] REGISTERED
+2017-05-09 08:21:11 [ nioEventLoopGroup-2-1:280 ] - [ INFO ] [id: 0xe25df272] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 08:21:11 [ nioEventLoopGroup-2-1:282 ] - [ INFO ] [id: 0xe25df272, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 08:21:17 [ nioEventLoopGroup-2-1:5603 ] - [ INFO ] [id: 0xe25df272, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x78241546, L:/127.0.0.1:8010 - R:/127.0.0.1:12651]
+2017-05-09 08:21:19 [ nioEventLoopGroup-3-1:7961 ] - [ INFO ] 12651:127.0.0.1--发送的第1消息：aa
+2017-05-09 08:22:54 [ nioEventLoopGroup-2-1:273 ] - [ INFO ] [id: 0xee54263a] REGISTERED
+2017-05-09 08:22:54 [ nioEventLoopGroup-2-1:278 ] - [ INFO ] [id: 0xee54263a] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 08:22:54 [ nioEventLoopGroup-2-1:281 ] - [ INFO ] [id: 0xee54263a, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 08:23:06 [ nioEventLoopGroup-2-1:11957 ] - [ INFO ] [id: 0xee54263a, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x6c26c6b2, L:/127.0.0.1:8010 - R:/127.0.0.1:12694]
+2017-05-09 08:23:08 [ nioEventLoopGroup-3-1:14563 ] - [ INFO ] 12694:127.0.0.1--发送的第1消息：aa
+2017-05-09 08:23:59 [ nioEventLoopGroup-2-1:272 ] - [ INFO ] [id: 0x94023825] REGISTERED
+2017-05-09 08:23:59 [ nioEventLoopGroup-2-1:278 ] - [ INFO ] [id: 0x94023825] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 08:23:59 [ nioEventLoopGroup-2-1:280 ] - [ INFO ] [id: 0x94023825, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 08:24:03 [ nioEventLoopGroup-2-1:4277 ] - [ INFO ] [id: 0x94023825, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x1ca91fcb, L:/127.0.0.1:8010 - R:/127.0.0.1:12737]
+2017-05-09 08:24:04 [ nioEventLoopGroup-3-1:5472 ] - [ INFO ] 12737:127.0.0.1--发送的第1消息：aa
+2017-05-09 09:13:00 [ nioEventLoopGroup-2-1:321 ] - [ INFO ] [id: 0x704eeab9] REGISTERED
+2017-05-09 09:13:00 [ nioEventLoopGroup-2-1:329 ] - [ INFO ] [id: 0x704eeab9] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 09:13:00 [ nioEventLoopGroup-2-1:332 ] - [ INFO ] [id: 0x704eeab9, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 09:13:22 [ nioEventLoopGroup-2-1:23024 ] - [ INFO ] [id: 0x704eeab9, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x3d3627a6, L:/127.0.0.1:8010 - R:/127.0.0.1:12883]
+2017-05-09 09:13:24 [ nioEventLoopGroup-3-1:24124 ] - [ INFO ] 12883:127.0.0.1--发送的第1消息：aa
+2017-05-09 09:14:16 [ nioEventLoopGroup-2-1:372 ] - [ INFO ] [id: 0xce7ae44e] REGISTERED
+2017-05-09 09:14:16 [ nioEventLoopGroup-2-1:384 ] - [ INFO ] [id: 0xce7ae44e] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 09:14:16 [ nioEventLoopGroup-2-1:388 ] - [ INFO ] [id: 0xce7ae44e, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 09:15:04 [ nioEventLoopGroup-2-1:277 ] - [ INFO ] [id: 0x3ab5318c] REGISTERED
+2017-05-09 09:15:04 [ nioEventLoopGroup-2-1:283 ] - [ INFO ] [id: 0x3ab5318c] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 09:15:04 [ nioEventLoopGroup-2-1:286 ] - [ INFO ] [id: 0x3ab5318c, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 09:16:08 [ nioEventLoopGroup-2-1:275 ] - [ INFO ] [id: 0xe59e6826] REGISTERED
+2017-05-09 09:16:08 [ nioEventLoopGroup-2-1:281 ] - [ INFO ] [id: 0xe59e6826] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 09:16:08 [ nioEventLoopGroup-2-1:283 ] - [ INFO ] [id: 0xe59e6826, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 09:16:37 [ nioEventLoopGroup-2-1:292 ] - [ INFO ] [id: 0x72386cb3] REGISTERED
+2017-05-09 09:16:37 [ nioEventLoopGroup-3-1:292 ] - [ INFO ] [id: 0x7398a26d] REGISTERED
+2017-05-09 09:16:37 [ nioEventLoopGroup-2-1:298 ] - [ INFO ] [id: 0x72386cb3] BIND(0.0.0.0/0.0.0.0:8020)
+2017-05-09 09:16:37 [ nioEventLoopGroup-3-1:298 ] - [ INFO ] [id: 0x7398a26d] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 09:16:37 [ nioEventLoopGroup-3-1:301 ] - [ INFO ] [id: 0x7398a26d, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 09:16:37 [ nioEventLoopGroup-2-1:301 ] - [ INFO ] [id: 0x72386cb3, L:/0:0:0:0:0:0:0:0:8020] ACTIVE
+2017-05-09 09:16:52 [ nioEventLoopGroup-3-1:287 ] - [ INFO ] [id: 0x8fb8afeb] REGISTERED
+2017-05-09 09:16:52 [ nioEventLoopGroup-2-1:287 ] - [ INFO ] [id: 0x855ce23e] REGISTERED
+2017-05-09 09:16:52 [ nioEventLoopGroup-3-1:293 ] - [ INFO ] [id: 0x8fb8afeb] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 09:16:52 [ nioEventLoopGroup-2-1:293 ] - [ INFO ] [id: 0x855ce23e] BIND(0.0.0.0/0.0.0.0:8020)
+2017-05-09 09:16:52 [ nioEventLoopGroup-2-1:295 ] - [ INFO ] [id: 0x855ce23e, L:/0:0:0:0:0:0:0:0:8020] ACTIVE
+2017-05-09 09:16:52 [ nioEventLoopGroup-3-1:295 ] - [ INFO ] [id: 0x8fb8afeb, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 09:17:00 [ nioEventLoopGroup-2-1:316 ] - [ INFO ] [id: 0x6f543126] REGISTERED
+2017-05-09 09:17:00 [ nioEventLoopGroup-3-1:316 ] - [ INFO ] [id: 0xb60fc781] REGISTERED
+2017-05-09 09:17:00 [ nioEventLoopGroup-2-1:322 ] - [ INFO ] [id: 0x6f543126] BIND(0.0.0.0/0.0.0.0:8020)
+2017-05-09 09:17:00 [ nioEventLoopGroup-3-1:322 ] - [ INFO ] [id: 0xb60fc781] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 09:17:00 [ nioEventLoopGroup-2-1:324 ] - [ INFO ] [id: 0x6f543126, L:/0:0:0:0:0:0:0:0:8020] ACTIVE
+2017-05-09 09:17:00 [ nioEventLoopGroup-3-1:324 ] - [ INFO ] [id: 0xb60fc781, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 09:17:14 [ nioEventLoopGroup-3-1:13871 ] - [ INFO ] [id: 0xb60fc781, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0xbc16cfe3, L:/127.0.0.1:8010 - R:/127.0.0.1:13183]
+2017-05-09 09:17:16 [ nioEventLoopGroup-2-1:15775 ] - [ INFO ] [id: 0x6f543126, L:/0:0:0:0:0:0:0:0:8020] RECEIVED: [id: 0x757647e0, L:/127.0.0.1:8020 - R:/127.0.0.1:13184]
+2017-05-09 09:17:23 [ nioEventLoopGroup-4-1:23366 ] - [ INFO ] 13184:127.0.0.1--发送的第1消息：cc
+2017-05-09 09:17:25 [ nioEventLoopGroup-5-1:24914 ] - [ INFO ] 13183:127.0.0.1--发送的第2消息：aa
+2017-05-09 09:35:23 [ nioEventLoopGroup-3-1:295 ] - [ INFO ] [id: 0x222d4ac6] REGISTERED
+2017-05-09 09:35:23 [ nioEventLoopGroup-2-1:295 ] - [ INFO ] [id: 0x4a825b6b] REGISTERED
+2017-05-09 09:35:23 [ nioEventLoopGroup-3-1:301 ] - [ INFO ] [id: 0x222d4ac6] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 09:35:23 [ nioEventLoopGroup-2-1:301 ] - [ INFO ] [id: 0x4a825b6b] BIND(0.0.0.0/0.0.0.0:8020)
+2017-05-09 09:35:23 [ nioEventLoopGroup-3-1:303 ] - [ INFO ] [id: 0x222d4ac6, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 09:35:23 [ nioEventLoopGroup-2-1:303 ] - [ INFO ] [id: 0x4a825b6b, L:/0:0:0:0:0:0:0:0:8020] ACTIVE
+2017-05-09 09:35:32 [ nioEventLoopGroup-3-1:8753 ] - [ INFO ] [id: 0x222d4ac6, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0xd8f5bfc2, L:/127.0.0.1:8010 - R:/127.0.0.1:13265]
+2017-05-09 09:35:34 [ nioEventLoopGroup-5-1:10435 ] - [ INFO ] 13265:127.0.0.1--发送的第1消息：aa
+2017-05-09 09:35:42 [ nioEventLoopGroup-2-1:18425 ] - [ INFO ] [id: 0x4a825b6b, L:/0:0:0:0:0:0:0:0:8020] RECEIVED: [id: 0x9f648c69, L:/127.0.0.1:8020 - R:/127.0.0.1:13266]
+2017-05-09 09:35:43 [ nioEventLoopGroup-4-1:19587 ] - [ INFO ] 13266:127.0.0.1--发送的第2消息：cc
+2017-05-09 09:37:42 [ nioEventLoopGroup-3-1:282 ] - [ INFO ] [id: 0x92137d4a] REGISTERED
+2017-05-09 09:37:42 [ nioEventLoopGroup-2-1:282 ] - [ INFO ] [id: 0xc43236ed] REGISTERED
+2017-05-09 09:37:42 [ nioEventLoopGroup-3-1:287 ] - [ INFO ] [id: 0x92137d4a] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 09:37:42 [ nioEventLoopGroup-2-1:287 ] - [ INFO ] [id: 0xc43236ed] BIND(0.0.0.0/0.0.0.0:8020)
+2017-05-09 09:37:42 [ nioEventLoopGroup-2-1:290 ] - [ INFO ] [id: 0xc43236ed, L:/0:0:0:0:0:0:0:0:8020] ACTIVE
+2017-05-09 09:37:42 [ nioEventLoopGroup-3-1:290 ] - [ INFO ] [id: 0x92137d4a, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 09:37:48 [ nioEventLoopGroup-3-1:6089 ] - [ INFO ] [id: 0x92137d4a, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0xbf2e2253, L:/127.0.0.1:8010 - R:/127.0.0.1:13333]
+2017-05-09 09:37:49 [ nioEventLoopGroup-5-1:7005 ] - [ INFO ] 13333:127.0.0.1--发送的第1消息：aa
+2017-05-09 09:37:52 [ nioEventLoopGroup-2-1:9994 ] - [ INFO ] [id: 0xc43236ed, L:/0:0:0:0:0:0:0:0:8020] RECEIVED: [id: 0x1f3fbcf3, L:/127.0.0.1:8020 - R:/127.0.0.1:13334]
+2017-05-09 09:37:53 [ nioEventLoopGroup-4-1:10936 ] - [ INFO ] 13334:127.0.0.1--发送的第2消息：cc
+2017-05-09 11:11:03 [ nioEventLoopGroup-2-1:301 ] - [ INFO ] [id: 0xc24574a4] REGISTERED
+2017-05-09 11:11:03 [ nioEventLoopGroup-2-1:307 ] - [ INFO ] [id: 0xc24574a4] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 11:11:03 [ nioEventLoopGroup-2-1:310 ] - [ INFO ] [id: 0xc24574a4, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 11:11:26 [ nioEventLoopGroup-2-1:23490 ] - [ INFO ] [id: 0xc24574a4, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x89a169b3, L:/127.0.0.1:8010 - R:/127.0.0.1:14148]
+2017-05-09 11:12:46 [ nioEventLoopGroup-3-1:103368 ] - [ INFO ] 14148:127.0.0.1--发送的第1消息：
+2017-05-09 11:13:33 [ nioEventLoopGroup-2-1:150450 ] - [ INFO ] [id: 0xc24574a4, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x64ac2856, L:/127.0.0.1:8010 - R:/127.0.0.1:14155]
+2017-05-09 11:13:35 [ nioEventLoopGroup-3-2:152189 ] - [ INFO ] 14155:127.0.0.1--发送的第2消息：
+2017-05-09 11:13:35 [ nioEventLoopGroup-3-2:152445 ] - [ INFO ] 14155:127.0.0.1--发送的第3消息：1101123459我是谁22
+2017-05-09 11:14:24 [ nioEventLoopGroup-2-1:291 ] - [ INFO ] [id: 0x7ee82138] REGISTERED
+2017-05-09 11:14:24 [ nioEventLoopGroup-2-1:297 ] - [ INFO ] [id: 0x7ee82138] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 11:14:24 [ nioEventLoopGroup-2-1:299 ] - [ INFO ] [id: 0x7ee82138, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 11:14:28 [ nioEventLoopGroup-2-1:4846 ] - [ INFO ] [id: 0x7ee82138, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x99791684, L:/127.0.0.1:8010 - R:/127.0.0.1:14202]
+2017-05-09 11:14:30 [ nioEventLoopGroup-3-1:7024 ] - [ INFO ] 14202:127.0.0.1--发送的第1消息：
+2017-05-09 11:14:31 [ nioEventLoopGroup-3-1:7531 ] - [ INFO ] 14202:127.0.0.1--发送的第2消息：1101123459我是谁22
+2017-05-09 11:14:31 [ nioEventLoopGroup-3-1:7830 ] - [ INFO ] 回执消息为：$11123459我59
+2017-05-09 11:17:45 [ nioEventLoopGroup-2-1:277 ] - [ INFO ] [id: 0xd73b7682] REGISTERED
+2017-05-09 11:17:45 [ nioEventLoopGroup-2-1:283 ] - [ INFO ] [id: 0xd73b7682] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 11:17:45 [ nioEventLoopGroup-2-1:285 ] - [ INFO ] [id: 0xd73b7682, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 11:17:47 [ nioEventLoopGroup-2-1:2209 ] - [ INFO ] [id: 0xd73b7682, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0xddc91dda, L:/127.0.0.1:8010 - R:/127.0.0.1:14243]
+2017-05-09 11:17:52 [ nioEventLoopGroup-3-1:7260 ] - [ INFO ] 14243:127.0.0.1--发送的第1消息：
+2017-05-09 11:17:53 [ nioEventLoopGroup-3-1:7487 ] - [ INFO ] 14243:127.0.0.1--发送的第2消息：1101123459我是谁22
+2017-05-09 11:17:53 [ nioEventLoopGroup-3-1:7745 ] - [ INFO ] 回执消息为：$11123459我22
+2017-05-09 11:19:46 [ nioEventLoopGroup-2-1:280 ] - [ INFO ] [id: 0xa117b14a] REGISTERED
+2017-05-09 11:19:46 [ nioEventLoopGroup-2-1:286 ] - [ INFO ] [id: 0xa117b14a] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 11:19:46 [ nioEventLoopGroup-2-1:288 ] - [ INFO ] [id: 0xa117b14a, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 11:19:48 [ nioEventLoopGroup-2-1:2136 ] - [ INFO ] [id: 0xa117b14a, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0xef6813e8, L:/127.0.0.1:8010 - R:/127.0.0.1:14278]
+2017-05-09 11:19:50 [ nioEventLoopGroup-3-1:3751 ] - [ INFO ] 14278:127.0.0.1--发送的第1消息：
+2017-05-09 11:19:50 [ nioEventLoopGroup-3-1:4015 ] - [ INFO ] 14278:127.0.0.1--发送的第2消息：1101123459我是谁22
+2017-05-09 11:19:50 [ nioEventLoopGroup-3-1:4219 ] - [ INFO ] 回执消息为：$1011234592
+2017-05-09 11:20:28 [ nioEventLoopGroup-2-1:283 ] - [ INFO ] [id: 0xe09545a7] REGISTERED
+2017-05-09 11:20:28 [ nioEventLoopGroup-2-1:289 ] - [ INFO ] [id: 0xe09545a7] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 11:20:28 [ nioEventLoopGroup-2-1:292 ] - [ INFO ] [id: 0xe09545a7, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 11:20:36 [ nioEventLoopGroup-2-1:7569 ] - [ INFO ] [id: 0xe09545a7, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x39709987, L:/127.0.0.1:8010 - R:/127.0.0.1:14325]
+2017-05-09 11:20:37 [ nioEventLoopGroup-3-1:8605 ] - [ INFO ] 14325:127.0.0.1--发送的第1消息：
+2017-05-09 11:20:37 [ nioEventLoopGroup-3-1:8881 ] - [ INFO ] 14325:127.0.0.1--发送的第2消息：1101123459我是谁22
+2017-05-09 11:20:37 [ nioEventLoopGroup-3-1:9088 ] - [ INFO ] 回执消息为：$10011234592
+2017-05-09 11:21:25 [ nioEventLoopGroup-2-1:279 ] - [ INFO ] [id: 0xc4869fda] REGISTERED
+2017-05-09 11:21:25 [ nioEventLoopGroup-2-1:285 ] - [ INFO ] [id: 0xc4869fda] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 11:21:25 [ nioEventLoopGroup-2-1:288 ] - [ INFO ] [id: 0xc4869fda, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 11:21:27 [ nioEventLoopGroup-2-1:2084 ] - [ INFO ] [id: 0xc4869fda, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x337cbaf5, L:/127.0.0.1:8010 - R:/127.0.0.1:14363]
+2017-05-09 11:21:28 [ nioEventLoopGroup-3-1:3210 ] - [ INFO ] 14363:127.0.0.1--发送的第1消息：
+2017-05-09 11:21:28 [ nioEventLoopGroup-3-1:3447 ] - [ INFO ] 14363:127.0.0.1--发送的第2消息：1101123459我是谁22
+2017-05-09 11:21:28 [ nioEventLoopGroup-3-1:3702 ] - [ INFO ] 回执消息为：$101234592
+2017-05-09 11:23:51 [ nioEventLoopGroup-2-1:286 ] - [ INFO ] [id: 0xc2e0d2a2] REGISTERED
+2017-05-09 11:23:51 [ nioEventLoopGroup-2-1:292 ] - [ INFO ] [id: 0xc2e0d2a2] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 11:23:51 [ nioEventLoopGroup-2-1:294 ] - [ INFO ] [id: 0xc2e0d2a2, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 11:23:52 [ nioEventLoopGroup-2-1:1633 ] - [ INFO ] [id: 0xc2e0d2a2, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0xc5f164c3, L:/127.0.0.1:8010 - R:/127.0.0.1:14418]
+2017-05-09 11:23:53 [ nioEventLoopGroup-3-1:2284 ] - [ INFO ] 14418:127.0.0.1--发送的第1消息：
+2017-05-09 11:23:53 [ nioEventLoopGroup-3-1:2517 ] - [ INFO ] 14418:127.0.0.1--发送的第2消息：1101123459我是谁22
+2017-05-09 11:23:53 [ nioEventLoopGroup-3-1:2777 ] - [ INFO ] 回执消息为：$1011234592
+2017-05-09 11:24:38 [ nioEventLoopGroup-2-1:284 ] - [ INFO ] [id: 0x2a7e7a97] REGISTERED
+2017-05-09 11:24:38 [ nioEventLoopGroup-2-1:291 ] - [ INFO ] [id: 0x2a7e7a97] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 11:24:38 [ nioEventLoopGroup-2-1:294 ] - [ INFO ] [id: 0x2a7e7a97, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 11:24:42 [ nioEventLoopGroup-2-1:4578 ] - [ INFO ] [id: 0x2a7e7a97, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0xa2536095, L:/127.0.0.1:8010 - R:/127.0.0.1:14453]
+2017-05-09 11:24:44 [ nioEventLoopGroup-3-1:6082 ] - [ INFO ] 14453:127.0.0.1--发送的第1消息：
+2017-05-09 11:24:44 [ nioEventLoopGroup-3-1:6352 ] - [ INFO ] 14453:127.0.0.1--发送的第2消息：1101123459我是谁22
+2017-05-09 11:24:44 [ nioEventLoopGroup-3-1:6594 ] - [ INFO ] 回执消息为：$10112345922
+2017-05-09 11:25:20 [ nioEventLoopGroup-2-1:272 ] - [ INFO ] [id: 0xd1bb60b8] REGISTERED
+2017-05-09 11:25:20 [ nioEventLoopGroup-2-1:278 ] - [ INFO ] [id: 0xd1bb60b8] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 11:25:20 [ nioEventLoopGroup-2-1:281 ] - [ INFO ] [id: 0xd1bb60b8, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 11:25:23 [ nioEventLoopGroup-2-1:2999 ] - [ INFO ] [id: 0xd1bb60b8, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x16f1b312, L:/127.0.0.1:8010 - R:/127.0.0.1:14500]
+2017-05-09 11:25:24 [ nioEventLoopGroup-3-1:4015 ] - [ INFO ] 14500:127.0.0.1--发送的第1消息：
+2017-05-09 11:25:24 [ nioEventLoopGroup-3-1:4266 ] - [ INFO ] 14500:127.0.0.1--发送的第2消息：1101123459我是谁22
+2017-05-09 11:25:25 [ nioEventLoopGroup-3-1:4483 ] - [ INFO ] 回执消息为：$10112345922
+2017-05-09 11:26:59 [ nioEventLoopGroup-2-1:277 ] - [ INFO ] [id: 0xb494ab68] REGISTERED
+2017-05-09 11:26:59 [ nioEventLoopGroup-2-1:283 ] - [ INFO ] [id: 0xb494ab68] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 11:26:59 [ nioEventLoopGroup-2-1:286 ] - [ INFO ] [id: 0xb494ab68, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 11:27:01 [ nioEventLoopGroup-2-1:2202 ] - [ INFO ] [id: 0xb494ab68, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x42a7171f, L:/127.0.0.1:8010 - R:/127.0.0.1:14534]
+2017-05-09 11:27:02 [ nioEventLoopGroup-3-1:3613 ] - [ INFO ] 14534:127.0.0.1--发送的第1消息：
+2017-05-09 11:27:02 [ nioEventLoopGroup-3-1:3846 ] - [ INFO ] 回执消息为：12
+2017-05-09 11:27:02 [ nioEventLoopGroup-3-1:3853 ] - [ INFO ] 14534:127.0.0.1--发送的第2消息：1101123459我是谁22
+2017-05-09 11:27:03 [ nioEventLoopGroup-3-1:4073 ] - [ INFO ] 回执消息为：12
+2017-05-09 11:27:05 [ nioEventLoopGroup-3-1:6101 ] - [ INFO ] 14534:127.0.0.1--发送的第3消息：
+2017-05-09 11:27:05 [ nioEventLoopGroup-3-1:6325 ] - [ INFO ] 回执消息为：12
+2017-05-09 11:27:05 [ nioEventLoopGroup-3-1:6326 ] - [ INFO ] 14534:127.0.0.1--发送的第4消息：1101123459我是谁22
+2017-05-09 11:27:05 [ nioEventLoopGroup-3-1:6532 ] - [ INFO ] 回执消息为：12
+2017-05-09 11:28:08 [ nioEventLoopGroup-2-1:281 ] - [ INFO ] [id: 0xc5779c78] REGISTERED
+2017-05-09 11:28:08 [ nioEventLoopGroup-2-1:286 ] - [ INFO ] [id: 0xc5779c78] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 11:28:08 [ nioEventLoopGroup-2-1:290 ] - [ INFO ] [id: 0xc5779c78, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 11:28:10 [ nioEventLoopGroup-2-1:2321 ] - [ INFO ] [id: 0xc5779c78, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0xad59cdde, L:/127.0.0.1:8010 - R:/127.0.0.1:14567]
+2017-05-09 11:28:20 [ nioEventLoopGroup-3-1:11903 ] - [ INFO ] 14567:127.0.0.1--发送的第1消息：
+2017-05-09 11:28:20 [ nioEventLoopGroup-3-1:12171 ] - [ INFO ] 14567:127.0.0.1--发送的第2消息：1101123459我是谁22
+2017-05-09 11:28:20 [ nioEventLoopGroup-3-1:12390 ] - [ INFO ] 回执消息为：$10112345922
+2017-05-09 11:29:03 [ nioEventLoopGroup-2-1:272 ] - [ INFO ] [id: 0x2cb65788] REGISTERED
+2017-05-09 11:29:03 [ nioEventLoopGroup-2-1:278 ] - [ INFO ] [id: 0x2cb65788] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 11:29:03 [ nioEventLoopGroup-2-1:280 ] - [ INFO ] [id: 0x2cb65788, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 11:29:08 [ nioEventLoopGroup-2-1:5804 ] - [ INFO ] [id: 0x2cb65788, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0xc2b37e57, L:/127.0.0.1:8010 - R:/127.0.0.1:14600]
+2017-05-09 11:29:09 [ nioEventLoopGroup-3-1:7018 ] - [ INFO ] 14600:127.0.0.1--发送的第1消息：
+2017-05-09 11:29:10 [ nioEventLoopGroup-3-1:7281 ] - [ INFO ] 回执消息为：$10112345922
+2017-05-09 11:29:10 [ nioEventLoopGroup-3-1:7287 ] - [ INFO ] 14600:127.0.0.1--发送的第2消息：1101123459我是谁22
+2017-05-09 11:29:10 [ nioEventLoopGroup-3-1:7592 ] - [ INFO ] 回执消息为：$10112345922
+2017-05-09 11:30:05 [ nioEventLoopGroup-2-1:278 ] - [ INFO ] [id: 0x49ea5f22] REGISTERED
+2017-05-09 11:30:05 [ nioEventLoopGroup-2-1:283 ] - [ INFO ] [id: 0x49ea5f22] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 11:30:05 [ nioEventLoopGroup-2-1:285 ] - [ INFO ] [id: 0x49ea5f22, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 11:30:08 [ nioEventLoopGroup-2-1:3424 ] - [ INFO ] [id: 0x49ea5f22, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x59f5edfe, L:/127.0.0.1:8010 - R:/127.0.0.1:14636]
+2017-05-09 11:30:10 [ nioEventLoopGroup-3-1:5032 ] - [ INFO ] 14636:127.0.0.1--发送的第1消息：
+2017-05-09 11:30:10 [ nioEventLoopGroup-3-1:5293 ] - [ INFO ] 14636:127.0.0.1--发送的第2消息：1101123459我是谁22
+2017-05-09 11:30:11 [ nioEventLoopGroup-3-1:5502 ] - [ INFO ] 回执消息为：$10112345922
+2017-05-09 11:32:20 [ nioEventLoopGroup-2-1:275 ] - [ INFO ] [id: 0xf11292d5] REGISTERED
+2017-05-09 11:32:20 [ nioEventLoopGroup-2-1:280 ] - [ INFO ] [id: 0xf11292d5] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 11:32:20 [ nioEventLoopGroup-2-1:283 ] - [ INFO ] [id: 0xf11292d5, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 11:32:23 [ nioEventLoopGroup-2-1:3783 ] - [ INFO ] [id: 0xf11292d5, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x856992bc, L:/127.0.0.1:8010 - R:/127.0.0.1:14671]
+2017-05-09 11:32:25 [ nioEventLoopGroup-3-1:5770 ] - [ INFO ] 14671:127.0.0.1--发送的第1消息：
+2017-05-09 11:32:25 [ nioEventLoopGroup-3-1:5986 ] - [ INFO ] 14671:127.0.0.1--发送的第2消息：1101123459我是谁22
+2017-05-09 11:32:26 [ nioEventLoopGroup-3-1:6208 ] - [ INFO ] 回执消息为：$10112345922
+2017-05-09 11:33:31 [ nioEventLoopGroup-2-1:269 ] - [ INFO ] [id: 0x204055de] REGISTERED
+2017-05-09 11:33:31 [ nioEventLoopGroup-2-1:275 ] - [ INFO ] [id: 0x204055de] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 11:33:31 [ nioEventLoopGroup-2-1:278 ] - [ INFO ] [id: 0x204055de, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 11:33:34 [ nioEventLoopGroup-2-1:3221 ] - [ INFO ] [id: 0x204055de, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0xf458fc67, L:/127.0.0.1:8010 - R:/127.0.0.1:14704]
+2017-05-09 11:33:35 [ nioEventLoopGroup-3-1:4662 ] - [ INFO ] 14704:127.0.0.1--发送的第1消息：
+2017-05-09 11:33:35 [ nioEventLoopGroup-3-1:4912 ] - [ INFO ] 14704:127.0.0.1--发送的第2消息：1101123459我是谁22
+2017-05-09 11:33:36 [ nioEventLoopGroup-3-1:5151 ] - [ INFO ] 回执消息为：$10112345922
+2017-05-09 11:35:47 [ nioEventLoopGroup-2-1:278 ] - [ INFO ] [id: 0xd512f2e1] REGISTERED
+2017-05-09 11:35:47 [ nioEventLoopGroup-2-1:284 ] - [ INFO ] [id: 0xd512f2e1] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 11:35:47 [ nioEventLoopGroup-2-1:286 ] - [ INFO ] [id: 0xd512f2e1, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 11:35:50 [ nioEventLoopGroup-2-1:3963 ] - [ INFO ] [id: 0xd512f2e1, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0xfa956964, L:/127.0.0.1:8010 - R:/127.0.0.1:14749]
+2017-05-09 11:35:53 [ nioEventLoopGroup-3-1:6984 ] - [ INFO ] 14749:127.0.0.1--发送的第1消息：
+2017-05-09 11:35:54 [ nioEventLoopGroup-3-1:7246 ] - [ INFO ] 14749:127.0.0.1--发送的第2消息：1101123459我是谁22
+2017-05-09 11:35:54 [ nioEventLoopGroup-3-1:7524 ] - [ INFO ] 回执消息为：$10112345922
+2017-05-09 11:36:00 [ nioEventLoopGroup-2-1:13617 ] - [ INFO ] [id: 0xd512f2e1, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x3edeed3a, L:/127.0.0.1:8010 - R:/127.0.0.1:14750]
+2017-05-09 11:36:02 [ nioEventLoopGroup-3-2:15317 ] - [ INFO ] 14750:127.0.0.1--发送的第3消息：
+2017-05-09 11:36:02 [ nioEventLoopGroup-3-2:15584 ] - [ INFO ] 14750:127.0.0.1--发送的第4消息：1101123459我是谁22
+2017-05-09 11:36:02 [ nioEventLoopGroup-3-2:15811 ] - [ INFO ] 回执消息为：$10112345922
+2017-05-09 13:25:44 [ nioEventLoopGroup-2-1:286 ] - [ INFO ] [id: 0x334c0a45] REGISTERED
+2017-05-09 13:25:44 [ nioEventLoopGroup-2-1:292 ] - [ INFO ] [id: 0x334c0a45] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 13:25:44 [ nioEventLoopGroup-2-1:294 ] - [ INFO ] [id: 0x334c0a45, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 13:25:46 [ nioEventLoopGroup-2-1:2142 ] - [ INFO ] [id: 0x334c0a45, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x9726afde, L:/127.0.0.1:8010 - R:/127.0.0.1:1057]
+2017-05-09 13:25:48 [ nioEventLoopGroup-3-1:4703 ] - [ INFO ] 1057:127.0.0.1--发送的第1消息：
+2017-05-09 13:25:48 [ nioEventLoopGroup-3-1:4962 ] - [ INFO ] 1057:127.0.0.1--发送的第2消息：1101123459我是谁22
+2017-05-09 13:25:49 [ nioEventLoopGroup-3-1:5142 ] - [ INFO ] 回执消息为：01123459
+2017-05-09 13:48:26 [ nioEventLoopGroup-2-1:286 ] - [ INFO ] [id: 0xec319b72] REGISTERED
+2017-05-09 13:48:26 [ nioEventLoopGroup-2-1:291 ] - [ INFO ] [id: 0xec319b72] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 13:48:26 [ nioEventLoopGroup-2-1:294 ] - [ INFO ] [id: 0xec319b72, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 13:48:40 [ nioEventLoopGroup-2-1:13937 ] - [ INFO ] [id: 0xec319b72, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x2e4b77b6, L:/127.0.0.1:8010 - R:/127.0.0.1:1698]
+2017-05-09 13:48:42 [ nioEventLoopGroup-3-1:16355 ] - [ INFO ] 1698:127.0.0.1--发送的第1消息：
+2017-05-09 13:48:42 [ nioEventLoopGroup-3-1:16639 ] - [ INFO ] 1698:127.0.0.1--发送的第2消息：1101123459我是谁22
+2017-05-09 13:48:43 [ nioEventLoopGroup-3-1:16831 ] - [ INFO ] 回执消息为：01123459
+2017-05-09 13:49:06 [ nioEventLoopGroup-2-1:40224 ] - [ INFO ] [id: 0xec319b72, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0xf5c82dfd, L:/127.0.0.1:8010 - R:/127.0.0.1:4001]
+2017-05-09 13:49:10 [ nioEventLoopGroup-3-2:44642 ] - [ INFO ] 4001:127.0.0.1--发送的第3消息：
+2017-05-09 13:49:11 [ nioEventLoopGroup-3-2:44851 ] - [ INFO ] 4001:127.0.0.1--发送的第4消息：1101123459我是谁22
+2017-05-09 13:49:11 [ nioEventLoopGroup-3-2:45037 ] - [ INFO ] 回执消息为：01123459
+2017-05-09 13:52:21 [ nioEventLoopGroup-2-1:286 ] - [ INFO ] [id: 0xb106120a] REGISTERED
+2017-05-09 13:52:21 [ nioEventLoopGroup-2-1:292 ] - [ INFO ] [id: 0xb106120a] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 13:52:21 [ nioEventLoopGroup-2-1:295 ] - [ INFO ] [id: 0xb106120a, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 13:52:52 [ nioEventLoopGroup-2-1:31513 ] - [ INFO ] [id: 0xb106120a, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x1cb03002, L:/127.0.0.1:8010 - R:/127.0.0.1:1761]
+2017-05-09 13:52:53 [ nioEventLoopGroup-3-1:32811 ] - [ INFO ] 1761:127.0.0.1--发送的第1消息：
+2017-05-09 13:52:53 [ nioEventLoopGroup-3-1:32985 ] - [ INFO ] 1761:127.0.0.1--发送的第2消息：1101123459我是谁22
+2017-05-09 13:52:54 [ nioEventLoopGroup-3-1:33184 ] - [ INFO ] 回执消息为：01123459
+2017-05-09 13:57:56 [ nioEventLoopGroup-2-1:306 ] - [ INFO ] [id: 0xee05b6fa] REGISTERED
+2017-05-09 13:57:56 [ nioEventLoopGroup-2-1:311 ] - [ INFO ] [id: 0xee05b6fa] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 13:57:56 [ nioEventLoopGroup-2-1:314 ] - [ INFO ] [id: 0xee05b6fa, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 13:57:59 [ nioEventLoopGroup-2-1:2811 ] - [ INFO ] [id: 0xee05b6fa, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x8cbff157, L:/127.0.0.1:8010 - R:/127.0.0.1:1836]
+2017-05-09 13:58:00 [ nioEventLoopGroup-3-1:3893 ] - [ INFO ] 1836:127.0.0.1--发送的第1消息：
+2017-05-09 13:58:00 [ nioEventLoopGroup-3-1:4121 ] - [ INFO ] 回执消息为：Tue May 09 13:58:00 CST 2017
+2017-05-09 13:58:00 [ nioEventLoopGroup-3-1:4124 ] - [ INFO ] 1836:127.0.0.1--发送的第2消息：1101123459我是谁22
+2017-05-09 13:58:00 [ nioEventLoopGroup-3-1:4318 ] - [ INFO ] 回执消息为：Tue May 09 13:58:00 CST 2017
+2017-05-09 13:59:02 [ nioEventLoopGroup-2-1:287 ] - [ INFO ] [id: 0x38ef28d9] REGISTERED
+2017-05-09 13:59:02 [ nioEventLoopGroup-2-1:299 ] - [ INFO ] [id: 0x38ef28d9] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 13:59:02 [ nioEventLoopGroup-2-1:303 ] - [ INFO ] [id: 0x38ef28d9, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 13:59:05 [ nioEventLoopGroup-2-1:3814 ] - [ INFO ] [id: 0x38ef28d9, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0xc6bb1432, L:/127.0.0.1:8010 - R:/127.0.0.1:1881]
+2017-05-09 13:59:06 [ nioEventLoopGroup-3-1:4804 ] - [ INFO ] 1881:127.0.0.1--发送的第1消息：
+2017-05-09 13:59:06 [ nioEventLoopGroup-3-1:5052 ] - [ INFO ] 1881:127.0.0.1--发送的第2消息：1101123459我是谁22
+2017-05-09 13:59:07 [ nioEventLoopGroup-3-1:5240 ] - [ INFO ] 回执消息为：1
+2017-05-09 14:02:00 [ nioEventLoopGroup-2-1:303 ] - [ INFO ] [id: 0x2351a3e7] REGISTERED
+2017-05-09 14:02:00 [ nioEventLoopGroup-2-1:309 ] - [ INFO ] [id: 0x2351a3e7] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 14:02:00 [ nioEventLoopGroup-2-1:311 ] - [ INFO ] [id: 0x2351a3e7, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 14:02:03 [ nioEventLoopGroup-2-1:3359 ] - [ INFO ] [id: 0x2351a3e7, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x688bcdd0, L:/127.0.0.1:8010 - R:/127.0.0.1:1947]
+2017-05-09 14:02:07 [ nioEventLoopGroup-3-1:7488 ] - [ INFO ] 1947:127.0.0.1--发送的第1消息：
+2017-05-09 14:02:07 [ nioEventLoopGroup-3-1:7737 ] - [ INFO ] 1947:127.0.0.1--发送的第2消息：1101123459我是谁22
+2017-05-09 14:02:07 [ nioEventLoopGroup-3-1:7910 ] - [ INFO ] 回执消息为：1
+2017-05-09 14:02:44 [ nioEventLoopGroup-2-1:288 ] - [ INFO ] [id: 0x7050450f] REGISTERED
+2017-05-09 14:02:44 [ nioEventLoopGroup-2-1:295 ] - [ INFO ] [id: 0x7050450f] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 14:02:44 [ nioEventLoopGroup-2-1:298 ] - [ INFO ] [id: 0x7050450f, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 14:02:46 [ nioEventLoopGroup-2-1:2272 ] - [ INFO ] [id: 0x7050450f, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x34ba1d52, L:/127.0.0.1:8010 - R:/127.0.0.1:1982]
+2017-05-09 14:02:47 [ nioEventLoopGroup-3-1:3499 ] - [ INFO ] 1982:127.0.0.1--发送的第1消息：
+2017-05-09 14:02:47 [ nioEventLoopGroup-3-1:3767 ] - [ INFO ] 回执消息为：Tue May 09 14:02:47 CST 2017
+2017-05-09 14:02:47 [ nioEventLoopGroup-3-1:3768 ] - [ INFO ] 1982:127.0.0.1--发送的第2消息：1101123459我是谁22
+2017-05-09 14:02:47 [ nioEventLoopGroup-3-1:4005 ] - [ INFO ] 回执消息为：Tue May 09 14:02:47 CST 2017
+2017-05-09 14:03:16 [ nioEventLoopGroup-2-1:291 ] - [ INFO ] [id: 0xb7a85ce4] REGISTERED
+2017-05-09 14:03:16 [ nioEventLoopGroup-2-1:296 ] - [ INFO ] [id: 0xb7a85ce4] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 14:03:16 [ nioEventLoopGroup-2-1:299 ] - [ INFO ] [id: 0xb7a85ce4, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 14:03:22 [ nioEventLoopGroup-2-1:6274 ] - [ INFO ] [id: 0xb7a85ce4, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x2f6ed4d4, L:/127.0.0.1:8010 - R:/127.0.0.1:2016]
+2017-05-09 14:03:24 [ nioEventLoopGroup-3-1:7758 ] - [ INFO ] 2016:127.0.0.1--发送的第1消息：
+2017-05-09 14:03:24 [ nioEventLoopGroup-3-1:7987 ] - [ INFO ] 回执消息为：Tue May 09 14:03:24 CST 2017
+2017-05-09 14:03:24 [ nioEventLoopGroup-3-1:7995 ] - [ INFO ] 2016:127.0.0.1--发送的第2消息：1101123459我是谁22
+2017-05-09 14:03:24 [ nioEventLoopGroup-3-1:8165 ] - [ INFO ] 回执消息为：Tue May 09 14:03:24 CST 2017
+2017-05-09 14:20:02 [ nioEventLoopGroup-2-1:282 ] - [ INFO ] [id: 0x141196c4] REGISTERED
+2017-05-09 14:20:02 [ nioEventLoopGroup-2-1:288 ] - [ INFO ] [id: 0x141196c4] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 14:20:02 [ nioEventLoopGroup-2-1:291 ] - [ INFO ] [id: 0x141196c4, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 14:20:05 [ nioEventLoopGroup-2-1:3770 ] - [ INFO ] [id: 0x141196c4, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x60f71890, L:/127.0.0.1:8010 - R:/127.0.0.1:2121]
+2017-05-09 14:20:06 [ nioEventLoopGroup-3-1:4579 ] - [ INFO ] 2121:127.0.0.1--发送的第1消息：
+2017-05-09 14:20:06 [ nioEventLoopGroup-3-1:4865 ] - [ INFO ] 回执消息为：Tue May 09 14:20:06 CST 2017
+2017-05-09 14:20:06 [ nioEventLoopGroup-3-1:4870 ] - [ INFO ] 2121:127.0.0.1--发送的第2消息：1101123459我是谁22
+2017-05-09 14:20:07 [ nioEventLoopGroup-3-1:5108 ] - [ INFO ] 回执消息为：Tue May 09 14:20:07 CST 2017
+2017-05-09 14:20:21 [ nioEventLoopGroup-2-1:293 ] - [ INFO ] [id: 0xdf0939e5] REGISTERED
+2017-05-09 14:20:21 [ nioEventLoopGroup-2-1:299 ] - [ INFO ] [id: 0xdf0939e5] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 14:20:21 [ nioEventLoopGroup-2-1:301 ] - [ INFO ] [id: 0xdf0939e5, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 14:20:24 [ nioEventLoopGroup-2-1:3470 ] - [ INFO ] [id: 0xdf0939e5, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x58b19123, L:/127.0.0.1:8010 - R:/127.0.0.1:2157]
+2017-05-09 14:20:25 [ nioEventLoopGroup-3-1:4481 ] - [ INFO ] 2157:127.0.0.1--发送的第1消息：
+2017-05-09 14:20:26 [ nioEventLoopGroup-3-1:4673 ] - [ INFO ] 2157:127.0.0.1--发送的第2消息：1101123459我是谁22
+2017-05-09 14:20:26 [ nioEventLoopGroup-3-1:4896 ] - [ INFO ] 回执消息为：1
+2017-05-09 14:21:08 [ nioEventLoopGroup-2-1:287 ] - [ INFO ] [id: 0x5bf4718e] REGISTERED
+2017-05-09 14:21:08 [ nioEventLoopGroup-2-1:294 ] - [ INFO ] [id: 0x5bf4718e] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 14:21:08 [ nioEventLoopGroup-2-1:296 ] - [ INFO ] [id: 0x5bf4718e, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 14:21:11 [ nioEventLoopGroup-2-1:3844 ] - [ INFO ] [id: 0x5bf4718e, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x4467db59, L:/127.0.0.1:8010 - R:/127.0.0.1:2194]
+2017-05-09 14:21:12 [ nioEventLoopGroup-3-1:4812 ] - [ INFO ] 2194:127.0.0.1--发送的第1消息：
+2017-05-09 14:21:12 [ nioEventLoopGroup-3-1:5071 ] - [ INFO ] 2194:127.0.0.1--发送的第2消息：1101123459我是谁22
+2017-05-09 14:21:13 [ nioEventLoopGroup-3-1:5269 ] - [ INFO ] 回执消息为：1
+2017-05-09 14:23:03 [ nioEventLoopGroup-2-1:290 ] - [ INFO ] [id: 0x0e772041] REGISTERED
+2017-05-09 14:23:03 [ nioEventLoopGroup-2-1:296 ] - [ INFO ] [id: 0x0e772041] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 14:23:03 [ nioEventLoopGroup-2-1:299 ] - [ INFO ] [id: 0x0e772041, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 14:23:06 [ nioEventLoopGroup-2-1:2558 ] - [ INFO ] [id: 0x0e772041, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x48be3be9, L:/127.0.0.1:8010 - R:/127.0.0.1:2279]
+2017-05-09 14:23:07 [ nioEventLoopGroup-3-1:3959 ] - [ INFO ] 2279:127.0.0.1--发送的第1消息：
+2017-05-09 14:23:07 [ nioEventLoopGroup-3-1:4116 ] - [ INFO ] 2279:127.0.0.1--发送的第2消息：1101123459我是谁22
+2017-05-09 14:23:07 [ nioEventLoopGroup-3-1:4285 ] - [ INFO ] 回执消息为：1
+2017-05-09 14:24:13 [ nioEventLoopGroup-2-1:289 ] - [ INFO ] [id: 0x7fa326e6] REGISTERED
+2017-05-09 14:24:13 [ nioEventLoopGroup-2-1:295 ] - [ INFO ] [id: 0x7fa326e6] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 14:24:13 [ nioEventLoopGroup-2-1:297 ] - [ INFO ] [id: 0x7fa326e6, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 14:24:16 [ nioEventLoopGroup-2-1:3185 ] - [ INFO ] [id: 0x7fa326e6, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x1132e4ef, L:/127.0.0.1:8010 - R:/127.0.0.1:2348]
+2017-05-09 14:26:30 [ nioEventLoopGroup-2-1:321 ] - [ INFO ] [id: 0xa1e10ccc] REGISTERED
+2017-05-09 14:26:30 [ nioEventLoopGroup-2-1:327 ] - [ INFO ] [id: 0xa1e10ccc] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 14:26:30 [ nioEventLoopGroup-2-1:329 ] - [ INFO ] [id: 0xa1e10ccc, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 14:26:33 [ nioEventLoopGroup-2-1:2952 ] - [ INFO ] [id: 0xa1e10ccc, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x1ac683f0, L:/127.0.0.1:8010 - R:/127.0.0.1:2396]
+2017-05-09 14:29:57 [ nioEventLoopGroup-2-1:306 ] - [ INFO ] [id: 0x39351a28] REGISTERED
+2017-05-09 14:29:57 [ nioEventLoopGroup-2-1:312 ] - [ INFO ] [id: 0x39351a28] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 14:29:57 [ nioEventLoopGroup-2-1:315 ] - [ INFO ] [id: 0x39351a28, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 14:30:01 [ nioEventLoopGroup-2-1:4165 ] - [ INFO ] [id: 0x39351a28, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0xd5df32d9, L:/127.0.0.1:8010 - R:/127.0.0.1:2449]
+2017-05-09 14:30:02 [ nioEventLoopGroup-3-1:5480 ] - [ INFO ] 2449:127.0.0.1--发送的第1消息：
+2017-05-09 14:30:02 [ nioEventLoopGroup-3-1:5741 ] - [ INFO ] 2449:127.0.0.1--发送的第2消息：1101123459我是谁22
+2017-05-09 14:30:03 [ nioEventLoopGroup-3-1:5919 ] - [ INFO ] 回执消息为：1
+2017-05-09 14:30:22 [ nioEventLoopGroup-2-1:287 ] - [ INFO ] [id: 0x73770b85] REGISTERED
+2017-05-09 14:30:22 [ nioEventLoopGroup-2-1:293 ] - [ INFO ] [id: 0x73770b85] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 14:30:22 [ nioEventLoopGroup-2-1:295 ] - [ INFO ] [id: 0x73770b85, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 14:30:34 [ nioEventLoopGroup-2-1:12506 ] - [ INFO ] [id: 0x73770b85, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x568749f1, L:/127.0.0.1:8010 - R:/127.0.0.1:2485]
+2017-05-09 14:30:36 [ nioEventLoopGroup-3-1:14088 ] - [ INFO ] 2485:127.0.0.1--发送的第1消息：
+2017-05-09 14:30:36 [ nioEventLoopGroup-3-1:14291 ] - [ INFO ] 2485:127.0.0.1--发送的第2消息：1101123459我是谁22
+2017-05-09 14:30:38 [ nioEventLoopGroup-3-1:15729 ] - [ INFO ] 2485:127.0.0.1--发送的第3消息：
+2017-05-09 14:30:38 [ nioEventLoopGroup-3-1:15987 ] - [ INFO ] 2485:127.0.0.1--发送的第4消息：1101123459我是谁22
+2017-05-09 14:30:40 [ nioEventLoopGroup-3-1:18176 ] - [ INFO ] 2485:127.0.0.1--发送的第5消息：
+2017-05-09 14:30:40 [ nioEventLoopGroup-3-1:18390 ] - [ INFO ] 2485:127.0.0.1--发送的第6消息：1101123459我是谁22
+2017-05-09 14:32:45 [ nioEventLoopGroup-2-1:288 ] - [ INFO ] [id: 0xe426fdd0] REGISTERED
+2017-05-09 14:32:45 [ nioEventLoopGroup-2-1:294 ] - [ INFO ] [id: 0xe426fdd0] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 14:32:45 [ nioEventLoopGroup-2-1:296 ] - [ INFO ] [id: 0xe426fdd0, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 14:32:48 [ nioEventLoopGroup-2-1:3285 ] - [ INFO ] [id: 0xe426fdd0, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x51e8e13a, L:/127.0.0.1:8010 - R:/127.0.0.1:2532]
+2017-05-09 14:32:49 [ nioEventLoopGroup-3-1:4241 ] - [ INFO ] 2532:127.0.0.1--发送的第1消息：
+2017-05-09 14:32:49 [ nioEventLoopGroup-3-1:4497 ] - [ INFO ] 2532:127.0.0.1--发送的第2消息：1101123459我是谁22
+2017-05-09 14:33:36 [ nioEventLoopGroup-2-1:283 ] - [ INFO ] [id: 0xa4b89b0a] REGISTERED
+2017-05-09 14:33:36 [ nioEventLoopGroup-2-1:289 ] - [ INFO ] [id: 0xa4b89b0a] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 14:33:36 [ nioEventLoopGroup-2-1:291 ] - [ INFO ] [id: 0xa4b89b0a, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 14:33:38 [ nioEventLoopGroup-2-1:2789 ] - [ INFO ] [id: 0xa4b89b0a, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x5e6ed132, L:/127.0.0.1:8010 - R:/127.0.0.1:2571]
+2017-05-09 14:33:39 [ nioEventLoopGroup-3-1:3735 ] - [ INFO ] 2571:127.0.0.1--发送的第1消息：
+2017-05-09 14:33:39 [ nioEventLoopGroup-3-1:3978 ] - [ INFO ] 2571:127.0.0.1--发送的第2消息：1101123459我是谁22
+2017-05-09 14:33:54 [ nioEventLoopGroup-2-1:286 ] - [ INFO ] [id: 0x5511c7eb] REGISTERED
+2017-05-09 14:33:54 [ nioEventLoopGroup-2-1:292 ] - [ INFO ] [id: 0x5511c7eb] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 14:33:54 [ nioEventLoopGroup-2-1:295 ] - [ INFO ] [id: 0x5511c7eb, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 14:33:57 [ nioEventLoopGroup-2-1:2872 ] - [ INFO ] [id: 0x5511c7eb, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0xeb5e8931, L:/127.0.0.1:8010 - R:/127.0.0.1:2607]
+2017-05-09 14:33:59 [ nioEventLoopGroup-3-1:5606 ] - [ INFO ] 2607:127.0.0.1--发送的第1消息：
+2017-05-09 14:34:00 [ nioEventLoopGroup-3-1:5859 ] - [ INFO ] 2607:127.0.0.1--发送的第2消息：1101123459我是谁22
+2017-05-09 14:34:19 [ nioEventLoopGroup-2-1:281 ] - [ INFO ] [id: 0x15e63831] REGISTERED
+2017-05-09 14:34:19 [ nioEventLoopGroup-2-1:287 ] - [ INFO ] [id: 0x15e63831] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 14:34:19 [ nioEventLoopGroup-2-1:289 ] - [ INFO ] [id: 0x15e63831, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 14:34:23 [ nioEventLoopGroup-2-1:4644 ] - [ INFO ] [id: 0x15e63831, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x53df6956, L:/127.0.0.1:8010 - R:/127.0.0.1:2646]
+2017-05-09 14:34:24 [ nioEventLoopGroup-3-1:5870 ] - [ INFO ] 2646:127.0.0.1--发送的第1消息：
+2017-05-09 14:34:24 [ nioEventLoopGroup-3-1:6097 ] - [ INFO ] 2646:127.0.0.1--发送的第2消息：1101123459我是谁22
+2017-05-09 15:02:05 [ nioEventLoopGroup-2-1:404 ] - [ INFO ] [id: 0x19badcaa] REGISTERED
+2017-05-09 15:02:05 [ nioEventLoopGroup-2-1:410 ] - [ INFO ] [id: 0x19badcaa] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 15:02:05 [ nioEventLoopGroup-2-1:413 ] - [ INFO ] [id: 0x19badcaa, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 15:02:08 [ nioEventLoopGroup-2-1:3557 ] - [ INFO ] [id: 0x19badcaa, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x5abded70, L:/127.0.0.1:8010 - R:/127.0.0.1:3442]
+2017-05-09 15:02:14 [ nioEventLoopGroup-3-1:9457 ] - [ INFO ] 3442:127.0.0.1--发送的第1消息：11111111111
+2017-05-09 15:02:15 [ nioEventLoopGroup-3-1:11123 ] - [ INFO ] 3442:127.0.0.1--发送的第2消息：11111111111
+2017-05-09 15:02:16 [ nioEventLoopGroup-3-1:11837 ] - [ INFO ] 3442:127.0.0.1--发送的第3消息：11111111111
+2017-05-09 15:02:17 [ nioEventLoopGroup-3-1:12574 ] - [ INFO ] 3442:127.0.0.1--发送的第4消息：11111111111
+2017-05-09 15:03:21 [ nioEventLoopGroup-2-1:305 ] - [ INFO ] [id: 0xa3f3b64b] REGISTERED
+2017-05-09 15:03:21 [ nioEventLoopGroup-2-1:310 ] - [ INFO ] [id: 0xa3f3b64b] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 15:03:21 [ nioEventLoopGroup-2-1:313 ] - [ INFO ] [id: 0xa3f3b64b, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 15:03:23 [ nioEventLoopGroup-2-1:2117 ] - [ INFO ] [id: 0xa3f3b64b, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0xf9ba6d61, L:/127.0.0.1:8010 - R:/127.0.0.1:3479]
+2017-05-09 15:03:24 [ nioEventLoopGroup-3-1:3123 ] - [ INFO ] 3479:127.0.0.1--发送的第1消息：11111111111
+2017-05-09 15:03:25 [ nioEventLoopGroup-3-1:3964 ] - [ INFO ] 3479:127.0.0.1--发送的第2消息：11111111111
+2017-05-09 15:04:00 [ nioEventLoopGroup-2-1:288 ] - [ INFO ] [id: 0xcf3b1aa5] REGISTERED
+2017-05-09 15:04:00 [ nioEventLoopGroup-2-1:293 ] - [ INFO ] [id: 0xcf3b1aa5] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 15:04:00 [ nioEventLoopGroup-2-1:296 ] - [ INFO ] [id: 0xcf3b1aa5, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 15:04:42 [ nioEventLoopGroup-2-1:41811 ] - [ INFO ] [id: 0xcf3b1aa5, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x51d38914, L:/127.0.0.1:8010 - R:/127.0.0.1:3516]
+2017-05-09 15:05:23 [ nioEventLoopGroup-3-1:82844 ] - [ INFO ] 3516:127.0.0.1--发送的第1消息：
+2017-05-09 15:05:35 [ nioEventLoopGroup-2-1:94908 ] - [ INFO ] [id: 0xcf3b1aa5, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x087d3cdb, L:/127.0.0.1:8010 - R:/127.0.0.1:3521]
+2017-05-09 15:05:36 [ nioEventLoopGroup-3-2:96306 ] - [ INFO ] 3521:127.0.0.1--发送的第2消息：
+2017-05-09 15:05:47 [ nioEventLoopGroup-2-1:107436 ] - [ INFO ] [id: 0xcf3b1aa5, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0xa0cb7fca, L:/127.0.0.1:8010 - R:/127.0.0.1:3524]
+2017-05-09 15:05:48 [ nioEventLoopGroup-3-3:108423 ] - [ INFO ] 3524:127.0.0.1--发送的第3消息：1112123451aa12
+2017-05-09 15:05:50 [ nioEventLoopGroup-3-3:110029 ] - [ INFO ] 3524:127.0.0.1--发送的第4消息：1112123451aa12
+2017-05-09 15:06:48 [ nioEventLoopGroup-2-1:283 ] - [ INFO ] [id: 0xe3c8e30a] REGISTERED
+2017-05-09 15:06:48 [ nioEventLoopGroup-2-1:290 ] - [ INFO ] [id: 0xe3c8e30a] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 15:06:48 [ nioEventLoopGroup-2-1:292 ] - [ INFO ] [id: 0xe3c8e30a, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 15:06:50 [ nioEventLoopGroup-2-1:2101 ] - [ INFO ] [id: 0xe3c8e30a, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0xfc64ac44, L:/127.0.0.1:8010 - R:/127.0.0.1:3561]
+2017-05-09 15:06:57 [ nioEventLoopGroup-3-1:9488 ] - [ INFO ] 3561:127.0.0.1--发送的第1消息：
+2017-05-09 15:07:28 [ nioEventLoopGroup-2-1:282 ] - [ INFO ] [id: 0xdb111328] REGISTERED
+2017-05-09 15:07:28 [ nioEventLoopGroup-2-1:288 ] - [ INFO ] [id: 0xdb111328] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 15:07:28 [ nioEventLoopGroup-2-1:290 ] - [ INFO ] [id: 0xdb111328, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 15:07:30 [ nioEventLoopGroup-2-1:2339 ] - [ INFO ] [id: 0xdb111328, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x2c5805db, L:/127.0.0.1:8010 - R:/127.0.0.1:3598]
+2017-05-09 15:07:32 [ nioEventLoopGroup-3-1:3555 ] - [ INFO ] 3598:127.0.0.1--发送的第1消息：
+2017-05-09 15:07:39 [ nioEventLoopGroup-2-1:10602 ] - [ INFO ] [id: 0xdb111328, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x9a825384, L:/127.0.0.1:8010 - R:/127.0.0.1:3601]
+2017-05-09 15:07:40 [ nioEventLoopGroup-3-2:11558 ] - [ INFO ] 3601:127.0.0.1--发送的第2消息：
+2017-05-09 15:31:56 [ nioEventLoopGroup-2-1:292 ] - [ INFO ] [id: 0xa9e7aa44] REGISTERED
+2017-05-09 15:31:56 [ nioEventLoopGroup-2-1:298 ] - [ INFO ] [id: 0xa9e7aa44] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 15:31:56 [ nioEventLoopGroup-2-1:301 ] - [ INFO ] [id: 0xa9e7aa44, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 15:32:10 [ nioEventLoopGroup-2-1:14707 ] - [ INFO ] [id: 0xa9e7aa44, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0xe8a0c30a, L:/127.0.0.1:8010 - R:/127.0.0.1:3790]
+2017-05-09 15:33:22 [ nioEventLoopGroup-2-1:86549 ] - [ INFO ] [id: 0xa9e7aa44, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0xc7fd2da4, L:/127.0.0.1:8010 - R:/127.0.0.1:3808]
+2017-05-09 15:33:25 [ nioEventLoopGroup-3-2:89731 ] - [ INFO ] 回执消息为：$11212345112
+2017-05-09 15:44:04 [ nioEventLoopGroup-2-1:298 ] - [ INFO ] [id: 0x38ab94d3] REGISTERED
+2017-05-09 15:44:04 [ nioEventLoopGroup-2-1:303 ] - [ INFO ] [id: 0x38ab94d3] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 15:44:04 [ nioEventLoopGroup-2-1:306 ] - [ INFO ] [id: 0x38ab94d3, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 15:44:08 [ nioEventLoopGroup-2-1:4324 ] - [ INFO ] [id: 0x38ab94d3, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0xe976f623, L:/127.0.0.1:8010 - R:/127.0.0.1:3923]
+2017-05-09 15:44:09 [ nioEventLoopGroup-3-1:5538 ] - [ INFO ] 回执消息为：$11212345112
+2017-05-09 15:44:36 [ nioEventLoopGroup-2-1:295 ] - [ INFO ] [id: 0x3418648c] REGISTERED
+2017-05-09 15:44:36 [ nioEventLoopGroup-2-1:301 ] - [ INFO ] [id: 0x3418648c] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 15:44:36 [ nioEventLoopGroup-2-1:303 ] - [ INFO ] [id: 0x3418648c, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 15:44:39 [ nioEventLoopGroup-2-1:3115 ] - [ INFO ] [id: 0x3418648c, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x0aa70fd6, L:/127.0.0.1:8010 - R:/127.0.0.1:3956]
+2017-05-09 15:44:40 [ nioEventLoopGroup-3-1:4337 ] - [ INFO ] 回执消息为：$11212345112
+2017-05-09 15:47:39 [ nioEventLoopGroup-2-1:294 ] - [ INFO ] [id: 0xa28a69a1] REGISTERED
+2017-05-09 15:47:39 [ nioEventLoopGroup-2-1:300 ] - [ INFO ] [id: 0xa28a69a1] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 15:47:39 [ nioEventLoopGroup-2-1:302 ] - [ INFO ] [id: 0xa28a69a1, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 15:47:41 [ nioEventLoopGroup-2-1:2090 ] - [ INFO ] [id: 0xa28a69a1, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x02333ff7, L:/127.0.0.1:8010 - R:/127.0.0.1:4020]
+2017-05-09 15:47:45 [ nioEventLoopGroup-3-1:5995 ] - [ INFO ] 回执消息为：$11212345112
+2017-05-09 15:57:33 [ nioEventLoopGroup-2-1:294 ] - [ INFO ] [id: 0xa8aa0489] REGISTERED
+2017-05-09 15:57:33 [ nioEventLoopGroup-2-1:300 ] - [ INFO ] [id: 0xa8aa0489] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 15:57:33 [ nioEventLoopGroup-2-1:302 ] - [ INFO ] [id: 0xa8aa0489, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 15:57:35 [ nioEventLoopGroup-2-1:1964 ] - [ INFO ] [id: 0xa8aa0489, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0xc9ab41a5, L:/127.0.0.1:8010 - R:/127.0.0.1:4134]
+2017-05-09 15:57:38 [ nioEventLoopGroup-3-1:5481 ] - [ INFO ] 回执消息为：报文标识有误
+2017-05-09 15:58:30 [ nioEventLoopGroup-2-1:287 ] - [ INFO ] [id: 0x5693b360] REGISTERED
+2017-05-09 15:58:30 [ nioEventLoopGroup-2-1:293 ] - [ INFO ] [id: 0x5693b360] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 15:58:30 [ nioEventLoopGroup-2-1:296 ] - [ INFO ] [id: 0x5693b360, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 15:58:45 [ nioEventLoopGroup-2-1:15606 ] - [ INFO ] [id: 0x5693b360, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0xfc0def17, L:/127.0.0.1:8010 - R:/127.0.0.1:4181]
+2017-05-09 15:58:47 [ nioEventLoopGroup-3-1:17518 ] - [ INFO ] 回执消息为：鎶ユ枃鏍囪瘑鏈夎
+2017-05-09 15:59:12 [ nioEventLoopGroup-2-1:277 ] - [ INFO ] [id: 0x462ef729] REGISTERED
+2017-05-09 15:59:12 [ nioEventLoopGroup-2-1:283 ] - [ INFO ] [id: 0x462ef729] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 15:59:12 [ nioEventLoopGroup-2-1:286 ] - [ INFO ] [id: 0x462ef729, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 15:59:14 [ nioEventLoopGroup-2-1:2432 ] - [ INFO ] [id: 0x462ef729, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x5ef199bf, L:/127.0.0.1:8010 - R:/127.0.0.1:4222]
+2017-05-09 15:59:15 [ nioEventLoopGroup-3-1:3436 ] - [ INFO ] 回执消息为：报文标识有误
+2017-05-09 16:10:59 [ nioEventLoopGroup-2-1:296 ] - [ INFO ] [id: 0xe5c12851] REGISTERED
+2017-05-09 16:10:59 [ nioEventLoopGroup-2-1:302 ] - [ INFO ] [id: 0xe5c12851] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 16:10:59 [ nioEventLoopGroup-2-1:304 ] - [ INFO ] [id: 0xe5c12851, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 16:11:12 [ nioEventLoopGroup-2-1:13116 ] - [ INFO ] [id: 0xe5c12851, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0xe19557ae, L:/127.0.0.1:8010 - R:/127.0.0.1:4456]
+2017-05-09 16:12:08 [ nioEventLoopGroup-2-1:307 ] - [ INFO ] [id: 0x6080b8f6] REGISTERED
+2017-05-09 16:12:08 [ nioEventLoopGroup-2-1:314 ] - [ INFO ] [id: 0x6080b8f6] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 16:12:08 [ nioEventLoopGroup-2-1:317 ] - [ INFO ] [id: 0x6080b8f6, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 16:12:10 [ nioEventLoopGroup-2-1:1860 ] - [ INFO ] [id: 0x6080b8f6, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x064a0d80, L:/127.0.0.1:8010 - R:/127.0.0.1:4506]
+2017-05-09 16:12:11 [ nioEventLoopGroup-3-1:3331 ] - [ INFO ] 回执消息为：$$1212345112
+2017-05-09 16:12:31 [ nioEventLoopGroup-2-1:302 ] - [ INFO ] [id: 0x85140280] REGISTERED
+2017-05-09 16:12:31 [ nioEventLoopGroup-2-1:308 ] - [ INFO ] [id: 0x85140280] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 16:12:31 [ nioEventLoopGroup-2-1:310 ] - [ INFO ] [id: 0x85140280, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 16:12:34 [ nioEventLoopGroup-2-1:2890 ] - [ INFO ] [id: 0x85140280, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x61606ce2, L:/127.0.0.1:8010 - R:/127.0.0.1:4543]
+2017-05-09 16:12:35 [ nioEventLoopGroup-3-1:3943 ] - [ INFO ] 回执消息为：null
+2017-05-09 16:13:07 [ nioEventLoopGroup-2-1:329 ] - [ INFO ] [id: 0x7e27fab9] REGISTERED
+2017-05-09 16:13:07 [ nioEventLoopGroup-2-1:336 ] - [ INFO ] [id: 0x7e27fab9] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 16:13:07 [ nioEventLoopGroup-2-1:338 ] - [ INFO ] [id: 0x7e27fab9, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 16:13:10 [ nioEventLoopGroup-2-1:3486 ] - [ INFO ] [id: 0x7e27fab9, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0xfffd1c21, L:/127.0.0.1:8010 - R:/127.0.0.1:4585]
+2017-05-09 16:13:32 [ nioEventLoopGroup-3-1:25552 ] - [ INFO ] 回执消息为：$111211234*2
+2017-05-09 16:14:26 [ nioEventLoopGroup-2-1:299 ] - [ INFO ] [id: 0x9cdf4183] REGISTERED
+2017-05-09 16:14:26 [ nioEventLoopGroup-2-1:305 ] - [ INFO ] [id: 0x9cdf4183] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 16:14:26 [ nioEventLoopGroup-2-1:308 ] - [ INFO ] [id: 0x9cdf4183, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 16:14:30 [ nioEventLoopGroup-2-1:4053 ] - [ INFO ] [id: 0x9cdf4183, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x654ac345, L:/127.0.0.1:8010 - R:/127.0.0.1:4624]
+2017-05-09 16:14:52 [ nioEventLoopGroup-2-1:303 ] - [ INFO ] [id: 0xa54788a8] REGISTERED
+2017-05-09 16:14:52 [ nioEventLoopGroup-2-1:309 ] - [ INFO ] [id: 0xa54788a8] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 16:14:52 [ nioEventLoopGroup-2-1:312 ] - [ INFO ] [id: 0xa54788a8, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 16:14:54 [ nioEventLoopGroup-2-1:2352 ] - [ INFO ] [id: 0xa54788a8, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0xbb460209, L:/127.0.0.1:8010 - R:/127.0.0.1:4659]
+2017-05-09 16:14:59 [ nioEventLoopGroup-2-1:7703 ] - [ INFO ] [id: 0xa54788a8, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x562cf30a, L:/127.0.0.1:8010 - R:/127.0.0.1:4660]
+2017-05-09 16:15:17 [ nioEventLoopGroup-2-1:294 ] - [ INFO ] [id: 0x4633335b] REGISTERED
+2017-05-09 16:15:17 [ nioEventLoopGroup-2-1:299 ] - [ INFO ] [id: 0x4633335b] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 16:15:17 [ nioEventLoopGroup-2-1:302 ] - [ INFO ] [id: 0x4633335b, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 16:15:19 [ nioEventLoopGroup-2-1:2686 ] - [ INFO ] [id: 0x4633335b, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x1d40a97f, L:/127.0.0.1:8010 - R:/127.0.0.1:4701]
+2017-05-09 16:15:31 [ nioEventLoopGroup-2-1:301 ] - [ INFO ] [id: 0xe2b13a5c] REGISTERED
+2017-05-09 16:15:31 [ nioEventLoopGroup-2-1:307 ] - [ INFO ] [id: 0xe2b13a5c] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 16:15:31 [ nioEventLoopGroup-2-1:309 ] - [ INFO ] [id: 0xe2b13a5c, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 16:15:33 [ nioEventLoopGroup-2-1:2691 ] - [ INFO ] [id: 0xe2b13a5c, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0xabe2d3f2, L:/127.0.0.1:8010 - R:/127.0.0.1:4737]
+2017-05-09 16:15:34 [ nioEventLoopGroup-3-1:3721 ] - [ INFO ] 回执消息为：$111211234*2
+2017-05-09 16:16:11 [ nioEventLoopGroup-2-1:299 ] - [ INFO ] [id: 0x28e0d6f9] REGISTERED
+2017-05-09 16:16:11 [ nioEventLoopGroup-2-1:305 ] - [ INFO ] [id: 0x28e0d6f9] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 16:16:11 [ nioEventLoopGroup-2-1:307 ] - [ INFO ] [id: 0x28e0d6f9, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 16:16:12 [ nioEventLoopGroup-2-1:1970 ] - [ INFO ] [id: 0x28e0d6f9, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x9c970425, L:/127.0.0.1:8010 - R:/127.0.0.1:4774]
+2017-05-09 16:16:13 [ nioEventLoopGroup-3-1:3102 ] - [ INFO ] 回执消息为：$111211234*2
+2017-05-09 16:17:46 [ nioEventLoopGroup-2-1:289 ] - [ INFO ] [id: 0xd9cf2634] REGISTERED
+2017-05-09 16:17:46 [ nioEventLoopGroup-2-1:295 ] - [ INFO ] [id: 0xd9cf2634] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 16:17:46 [ nioEventLoopGroup-2-1:297 ] - [ INFO ] [id: 0xd9cf2634, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 16:17:53 [ nioEventLoopGroup-2-1:6510 ] - [ INFO ] [id: 0xd9cf2634, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x632b181f, L:/127.0.0.1:8010 - R:/127.0.0.1:4826]
+2017-05-09 16:17:56 [ nioEventLoopGroup-3-1:9883 ] - [ INFO ] 回执消息为：$111211234*2
+2017-05-09 16:18:17 [ nioEventLoopGroup-2-1:300 ] - [ INFO ] [id: 0x4fca379f] REGISTERED
+2017-05-09 16:18:17 [ nioEventLoopGroup-2-1:306 ] - [ INFO ] [id: 0x4fca379f] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 16:18:17 [ nioEventLoopGroup-2-1:309 ] - [ INFO ] [id: 0x4fca379f, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 16:18:19 [ nioEventLoopGroup-2-1:2997 ] - [ INFO ] [id: 0x4fca379f, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x2dec6549, L:/127.0.0.1:8010 - R:/127.0.0.1:4861]
+2017-05-09 16:18:23 [ nioEventLoopGroup-3-1:6387 ] - [ INFO ] 回执消息为：$111211234*2
+2017-05-09 16:18:47 [ nioEventLoopGroup-2-1:334 ] - [ INFO ] [id: 0x5f90af85] REGISTERED
+2017-05-09 16:18:47 [ nioEventLoopGroup-2-1:340 ] - [ INFO ] [id: 0x5f90af85] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 16:18:47 [ nioEventLoopGroup-2-1:343 ] - [ INFO ] [id: 0x5f90af85, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 16:18:50 [ nioEventLoopGroup-2-1:3684 ] - [ INFO ] [id: 0x5f90af85, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x586b5e5c, L:/127.0.0.1:8010 - R:/127.0.0.1:4897]
+2017-05-09 16:18:53 [ nioEventLoopGroup-3-1:6683 ] - [ INFO ] 回执消息为：$111211234*2
+2017-05-09 16:20:45 [ nioEventLoopGroup-2-1:291 ] - [ INFO ] [id: 0xb43f85c6] REGISTERED
+2017-05-09 16:20:45 [ nioEventLoopGroup-2-1:297 ] - [ INFO ] [id: 0xb43f85c6] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 16:20:45 [ nioEventLoopGroup-2-1:299 ] - [ INFO ] [id: 0xb43f85c6, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 16:20:50 [ nioEventLoopGroup-2-1:5403 ] - [ INFO ] [id: 0xb43f85c6, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0xdfd02f1b, L:/127.0.0.1:8010 - R:/127.0.0.1:5013]
+2017-05-09 16:20:51 [ nioEventLoopGroup-3-1:6582 ] - [ INFO ] 回执消息为：$111211234*2
+2017-05-09 16:44:08 [ nioEventLoopGroup-2-1:284 ] - [ INFO ] [id: 0x17c72bd5] REGISTERED
+2017-05-09 16:44:08 [ nioEventLoopGroup-2-1:290 ] - [ INFO ] [id: 0x17c72bd5] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 16:44:08 [ nioEventLoopGroup-2-1:292 ] - [ INFO ] [id: 0x17c72bd5, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 16:44:12 [ nioEventLoopGroup-2-1:4925 ] - [ INFO ] [id: 0x17c72bd5, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0xd9c84b18, L:/127.0.0.1:8010 - R:/127.0.0.1:5659]
+2017-05-09 16:44:14 [ nioEventLoopGroup-3-1:6173 ] - [ INFO ] 回执消息为：$111211234*2
+2017-05-09 16:58:30 [ nioEventLoopGroup-2-1:284 ] - [ INFO ] [id: 0xb49d88a0] REGISTERED
+2017-05-09 16:58:30 [ nioEventLoopGroup-2-1:290 ] - [ INFO ] [id: 0xb49d88a0] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 16:58:30 [ nioEventLoopGroup-2-1:292 ] - [ INFO ] [id: 0xb49d88a0, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 16:58:43 [ nioEventLoopGroup-2-1:13377 ] - [ INFO ] [id: 0xb49d88a0, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x7b68449e, L:/127.0.0.1:8010 - R:/127.0.0.1:6008]
+2017-05-09 16:59:04 [ nioEventLoopGroup-2-1:299 ] - [ INFO ] [id: 0xc7d98385] REGISTERED
+2017-05-09 16:59:04 [ nioEventLoopGroup-2-1:305 ] - [ INFO ] [id: 0xc7d98385] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 16:59:04 [ nioEventLoopGroup-2-1:309 ] - [ INFO ] [id: 0xc7d98385, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 16:59:09 [ nioEventLoopGroup-2-1:5993 ] - [ INFO ] [id: 0xc7d98385, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x52dda0ef, L:/127.0.0.1:8010 - R:/127.0.0.1:6052]
+2017-05-09 16:59:35 [ nioEventLoopGroup-2-1:287 ] - [ INFO ] [id: 0xc9abb2e8] REGISTERED
+2017-05-09 16:59:35 [ nioEventLoopGroup-2-1:293 ] - [ INFO ] [id: 0xc9abb2e8] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 16:59:35 [ nioEventLoopGroup-2-1:296 ] - [ INFO ] [id: 0xc9abb2e8, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 16:59:37 [ nioEventLoopGroup-2-1:2131 ] - [ INFO ] [id: 0xc9abb2e8, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0xf63e6260, L:/127.0.0.1:8010 - R:/127.0.0.1:6093]
+2017-05-09 17:00:30 [ nioEventLoopGroup-2-1:297 ] - [ INFO ] [id: 0x63b1c160] REGISTERED
+2017-05-09 17:00:30 [ nioEventLoopGroup-2-1:303 ] - [ INFO ] [id: 0x63b1c160] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 17:00:30 [ nioEventLoopGroup-2-1:305 ] - [ INFO ] [id: 0x63b1c160, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 17:00:34 [ nioEventLoopGroup-2-1:4087 ] - [ INFO ] [id: 0x63b1c160, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x7c04aca0, L:/127.0.0.1:8010 - R:/127.0.0.1:6142]
+2017-05-09 17:00:43 [ nioEventLoopGroup-2-1:288 ] - [ INFO ] [id: 0x5a1fda03] REGISTERED
+2017-05-09 17:00:43 [ nioEventLoopGroup-2-1:294 ] - [ INFO ] [id: 0x5a1fda03] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 17:00:43 [ nioEventLoopGroup-2-1:296 ] - [ INFO ] [id: 0x5a1fda03, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 17:00:46 [ nioEventLoopGroup-2-1:2746 ] - [ INFO ] [id: 0x5a1fda03, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x9d97e595, L:/127.0.0.1:8010 - R:/127.0.0.1:6177]
+2017-05-09 17:01:14 [ nioEventLoopGroup-2-1:296 ] - [ INFO ] [id: 0xcb2f2309] REGISTERED
+2017-05-09 17:01:14 [ nioEventLoopGroup-2-1:302 ] - [ INFO ] [id: 0xcb2f2309] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 17:01:14 [ nioEventLoopGroup-2-1:304 ] - [ INFO ] [id: 0xcb2f2309, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 17:01:18 [ nioEventLoopGroup-2-1:4153 ] - [ INFO ] [id: 0xcb2f2309, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0xe67c6b1b, L:/127.0.0.1:8010 - R:/127.0.0.1:6220]
+2017-05-09 17:02:13 [ nioEventLoopGroup-2-1:288 ] - [ INFO ] [id: 0x6f7a9d11] REGISTERED
+2017-05-09 17:02:13 [ nioEventLoopGroup-2-1:294 ] - [ INFO ] [id: 0x6f7a9d11] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 17:02:13 [ nioEventLoopGroup-2-1:296 ] - [ INFO ] [id: 0x6f7a9d11, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 17:02:15 [ nioEventLoopGroup-2-1:2510 ] - [ INFO ] [id: 0x6f7a9d11, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x1b486c2d, L:/127.0.0.1:8010 - R:/127.0.0.1:6267]
+2017-05-09 17:02:16 [ nioEventLoopGroup-3-1:3397 ] - [ INFO ] 回执消息为：$b
+2017-05-09 17:09:38 [ nioEventLoopGroup-2-1:294 ] - [ INFO ] [id: 0x87d378c5] REGISTERED
+2017-05-09 17:09:38 [ nioEventLoopGroup-2-1:299 ] - [ INFO ] [id: 0x87d378c5] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 17:09:38 [ nioEventLoopGroup-2-1:302 ] - [ INFO ] [id: 0x87d378c5, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 17:09:45 [ nioEventLoopGroup-2-1:7416 ] - [ INFO ] [id: 0x87d378c5, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0xc829fbe7, L:/127.0.0.1:8010 - R:/127.0.0.1:6592]
+2017-05-09 17:09:47 [ nioEventLoopGroup-3-1:8817 ] - [ INFO ] 回执消息为：$b
+2017-05-09 17:10:35 [ nioEventLoopGroup-2-1:288 ] - [ INFO ] [id: 0x6bd8a0a7] REGISTERED
+2017-05-09 17:10:35 [ nioEventLoopGroup-2-1:294 ] - [ INFO ] [id: 0x6bd8a0a7] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 17:10:35 [ nioEventLoopGroup-2-1:297 ] - [ INFO ] [id: 0x6bd8a0a7, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 17:10:40 [ nioEventLoopGroup-2-1:5184 ] - [ INFO ] [id: 0x6bd8a0a7, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x885fd577, L:/127.0.0.1:8010 - R:/127.0.0.1:6642]
+2017-05-09 17:12:03 [ nioEventLoopGroup-2-1:294 ] - [ INFO ] [id: 0xcf388399] REGISTERED
+2017-05-09 17:12:03 [ nioEventLoopGroup-2-1:301 ] - [ INFO ] [id: 0xcf388399] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 17:12:03 [ nioEventLoopGroup-2-1:303 ] - [ INFO ] [id: 0xcf388399, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 17:12:07 [ nioEventLoopGroup-2-1:4211 ] - [ INFO ] [id: 0xcf388399, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x5421eb5c, L:/127.0.0.1:8010 - R:/127.0.0.1:6705]
+2017-05-09 17:12:39 [ nioEventLoopGroup-2-1:308 ] - [ INFO ] [id: 0x491f8cdb] REGISTERED
+2017-05-09 17:12:39 [ nioEventLoopGroup-2-1:315 ] - [ INFO ] [id: 0x491f8cdb] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 17:12:39 [ nioEventLoopGroup-2-1:318 ] - [ INFO ] [id: 0x491f8cdb, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 17:12:41 [ nioEventLoopGroup-2-1:2600 ] - [ INFO ] [id: 0x491f8cdb, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x53b7b833, L:/127.0.0.1:8010 - R:/127.0.0.1:6745]
+2017-05-09 17:12:43 [ nioEventLoopGroup-3-1:3679 ] - [ INFO ] 回执消息为：$b
+2017-05-09 17:13:41 [ nioEventLoopGroup-2-1:293 ] - [ INFO ] [id: 0x923498e3] REGISTERED
+2017-05-09 17:13:41 [ nioEventLoopGroup-2-1:298 ] - [ INFO ] [id: 0x923498e3] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 17:13:41 [ nioEventLoopGroup-2-1:301 ] - [ INFO ] [id: 0x923498e3, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 17:13:43 [ nioEventLoopGroup-2-1:2810 ] - [ INFO ] [id: 0x923498e3, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x10eb560d, L:/127.0.0.1:8010 - R:/127.0.0.1:6795]
+2017-05-09 17:13:44 [ nioEventLoopGroup-3-1:4122 ] - [ INFO ] 回执消息为：$b9a
+2017-05-09 18:16:36 [ nioEventLoopGroup-2-1:293 ] - [ INFO ] [id: 0xf549c1d5] REGISTERED
+2017-05-09 18:16:36 [ nioEventLoopGroup-2-1:299 ] - [ INFO ] [id: 0xf549c1d5] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 18:16:36 [ nioEventLoopGroup-2-1:302 ] - [ INFO ] [id: 0xf549c1d5, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 18:16:52 [ nioEventLoopGroup-2-1:16904 ] - [ INFO ] [id: 0xf549c1d5, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x32c6df8d, L:/127.0.0.1:8010 - R:/127.0.0.1:8015]
+2017-05-09 18:17:06 [ nioEventLoopGroup-3-1:30239 ] - [ INFO ] 回执消息为：aa
+2017-05-09 18:17:28 [ nioEventLoopGroup-3-1:52716 ] - [ INFO ] 回执消息为：aa
+2017-05-09 18:17:34 [ nioEventLoopGroup-3-1:57984 ] - [ INFO ] 回执消息为：aa
+2017-05-09 18:23:22 [ nioEventLoopGroup-2-1:316 ] - [ INFO ] [id: 0xfdc01e43] REGISTERED
+2017-05-09 18:23:22 [ nioEventLoopGroup-2-1:323 ] - [ INFO ] [id: 0xfdc01e43] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 18:23:22 [ nioEventLoopGroup-2-1:325 ] - [ INFO ] [id: 0xfdc01e43, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 18:23:25 [ nioEventLoopGroup-2-1:3506 ] - [ INFO ] [id: 0xfdc01e43, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x536e3a7a, L:/127.0.0.1:8010 - R:/127.0.0.1:8170]
+2017-05-09 18:23:32 [ nioEventLoopGroup-3-1:10105 ] - [ INFO ] 回执消息为：aa
+2017-05-09 20:47:37 [ nioEventLoopGroup-2-1:293 ] - [ INFO ] [id: 0x7a7b7851] REGISTERED
+2017-05-09 20:47:37 [ nioEventLoopGroup-2-1:391 ] - [ INFO ] [id: 0x7a7b7851] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-09 20:47:37 [ nioEventLoopGroup-2-1:394 ] - [ INFO ] [id: 0x7a7b7851, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-09 20:47:44 [ nioEventLoopGroup-2-1:7672 ] - [ INFO ] [id: 0x7a7b7851, L:/0:0:0:0:0:0:0:0:8010] RECEIVED: [id: 0x546eee0a, L:/127.0.0.1:8010 - R:/127.0.0.1:2792]
+2017-05-09 20:47:49 [ nioEventLoopGroup-3-1:12353 ] - [ INFO ] 回执消息为：aa
+2017-05-09 20:47:53 [ nioEventLoopGroup-3-1:16601 ] - [ INFO ] 回执消息为：aa

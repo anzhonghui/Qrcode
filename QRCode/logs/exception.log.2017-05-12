@@ -1,0 +1,56 @@
+2017-05-12 09:00:13 [ main:0 ] - [ ERROR ] qk.util.ExcelUtil:51 >>Excel文件不存在,异常信息为：.\11.xls (系统找不到指定的文件。)
+2017-05-12 09:01:11 [ main:486 ] - [ ERROR ] qk.util.ImgJPanel:28 >>读取图片失败,异常信息为：Can't read input file!
+2017-05-12 09:12:47 [ main:497 ] - [ ERROR ] qk.util.ImgJPanel:28 >>读取图片失败,异常信息为：Can't read input file!
+2017-05-12 09:14:15 [ main:480 ] - [ ERROR ] qk.util.ImgJPanel:28 >>读取图片失败,异常信息为：Can't read input file!
+2017-05-12 09:14:31 [ main:511 ] - [ ERROR ] qk.util.ImgJPanel:28 >>读取图片失败,异常信息为：Can't read input file!
+2017-05-12 09:35:09 [ main:521 ] - [ ERROR ] qk.util.ImgJPanel:28 >>读取图片失败,异常信息为：Can't read input file!
+2017-05-12 09:35:38 [ main:469 ] - [ ERROR ] qk.util.ImgJPanel:28 >>读取图片失败,异常信息为：Can't read input file!
+2017-05-12 09:36:01 [ main:483 ] - [ ERROR ] qk.util.ImgJPanel:28 >>读取图片失败,异常信息为：Can't read input file!
+2017-05-12 09:36:16 [ main:469 ] - [ ERROR ] qk.util.ImgJPanel:28 >>读取图片失败,异常信息为：Can't read input file!
+2017-05-12 09:36:32 [ main:469 ] - [ ERROR ] qk.util.ImgJPanel:28 >>读取图片失败,异常信息为：Can't read input file!
+2017-05-12 09:36:49 [ main:469 ] - [ ERROR ] qk.util.ImgJPanel:28 >>读取图片失败,异常信息为：Can't read input file!
+2017-05-12 09:39:13 [ main:491 ] - [ ERROR ] qk.util.ImgJPanel:28 >>读取图片失败,异常信息为：Can't read input file!
+2017-05-12 09:39:56 [ main:483 ] - [ ERROR ] qk.util.ImgJPanel:28 >>读取图片失败,异常信息为：Can't read input file!
+2017-05-12 10:09:38 [ main:0 ] - [ ERROR ] qk.dao.MessageDao:44 >>初始化创建数据库异常，异常信息为：out of memory
+2017-05-12 10:11:37 [ main:0 ] - [ ERROR ] qk.dao.MessageDao:44 >>初始化创建数据库异常，异常信息为：out of memory
+2017-05-12 10:12:25 [ main:0 ] - [ ERROR ] qk.dao.MessageDao:68 >>获取连接失败
+2017-05-12 10:14:02 [ main:0 ] - [ ERROR ] qk.dao.MessageDao:68 >>获取连接失败
+2017-05-12 10:16:11 [ nioEventLoopGroup-3-1:7170 ] - [ ERROR ] qk.util.ExcelUtil:51 >>Excel文件不存在,异常信息为：.\11.xls (系统找不到指定的文件。)
+2017-05-12 10:17:09 [ main:0 ] - [ ERROR ] qk.dao.MessageDao:68 >>获取连接失败
+2017-05-12 10:17:36 [ main:0 ] - [ ERROR ] qk.dao.MessageDao:68 >>获取连接失败
+2017-05-12 14:32:34 [ main:995 ] - [ ERROR ] qk.util.ImgJPanel:28 >>读取图片失败,异常信息为：Can't read input file!
+2017-05-12 14:39:45 [ main:535 ] - [ ERROR ] qk.util.ImgJPanel:28 >>读取图片失败,异常信息为：Can't read input file!
+2017-05-12 14:39:56 [ nioEventLoopGroup-8-1:11605 ] - [ ERROR ] qk.dao.MessageDao:92 >>保存信息异常,异常信息为:unable to open database file
+2017-05-12 14:40:06 [ nioEventLoopGroup-8-1:22461 ] - [ ERROR ] qk.dao.MessageDao:92 >>保存信息异常,异常信息为:unable to open database file
+2017-05-12 14:40:53 [ main:487 ] - [ ERROR ] qk.util.ImgJPanel:28 >>读取图片失败,异常信息为：Can't read input file!
+2017-05-12 14:41:02 [ nioEventLoopGroup-6-1:9663 ] - [ ERROR ] qk.dao.MessageDao:92 >>保存信息异常,异常信息为:unable to open database file
+2017-05-12 14:41:39 [ main:501 ] - [ ERROR ] qk.util.ImgJPanel:28 >>读取图片失败,异常信息为：Can't read input file!
+2017-05-12 14:42:25 [ main:528 ] - [ ERROR ] qk.util.ImgJPanel:28 >>读取图片失败,异常信息为：Can't read input file!
+2017-05-12 14:43:13 [ main:478 ] - [ ERROR ] qk.util.ImgJPanel:28 >>读取图片失败,异常信息为：Can't read input file!
+2017-05-12 15:41:53 [ nioEventLoopGroup-9-1:84046 ] - [ ERROR ] qk.dao.MessageDao:108 >>保存信息异常,异常信息为:column id is not unique
+2017-05-12 15:42:01 [ nioEventLoopGroup-9-1:92061 ] - [ ERROR ] qk.dao.MessageDao:108 >>保存信息异常,异常信息为:column id is not unique
+2017-05-12 15:42:02 [ nioEventLoopGroup-9-1:92284 ] - [ ERROR ] qk.dao.MessageDao:108 >>保存信息异常,异常信息为:column id is not unique
+2017-05-12 15:42:02 [ nioEventLoopGroup-9-1:92490 ] - [ ERROR ] qk.dao.MessageDao:108 >>保存信息异常,异常信息为:column id is not unique
+2017-05-12 15:42:02 [ nioEventLoopGroup-9-1:92694 ] - [ ERROR ] qk.dao.MessageDao:108 >>保存信息异常,异常信息为:column id is not unique
+2017-05-12 15:43:59 [ nioEventLoopGroup-7-1:19690 ] - [ ERROR ] qk.dao.MessageDao:108 >>保存信息异常,异常信息为:column id is not unique
+2017-05-12 15:44:00 [ nioEventLoopGroup-7-1:20678 ] - [ ERROR ] qk.dao.MessageDao:108 >>保存信息异常,异常信息为:column id is not unique
+2017-05-12 15:44:01 [ nioEventLoopGroup-7-1:21718 ] - [ ERROR ] qk.dao.MessageDao:108 >>保存信息异常,异常信息为:column id is not unique
+2017-05-12 15:44:02 [ nioEventLoopGroup-6-1:22677 ] - [ ERROR ] qk.dao.MessageDao:108 >>保存信息异常,异常信息为:column id is not unique
+2017-05-12 15:44:02 [ nioEventLoopGroup-7-1:22743 ] - [ ERROR ] qk.dao.MessageDao:108 >>保存信息异常,异常信息为:column id is not unique
+2017-05-12 15:48:46 [ AWT-EventQueue-0:2756 ] - [ ERROR ] qk.dao.MessageDao:153 >>修改信息异常,异常信息为:unable to open database file
+2017-05-12 16:37:15 [ AWT-EventQueue-0:2761 ] - [ ERROR ] qk.dao.MessageDao:154 >>修改信息异常,异常信息为:unable to open database file
+2017-05-12 16:43:38 [ AWT-EventQueue-0:2756 ] - [ ERROR ] qk.dao.MessageDao:154 >>修改信息异常,异常信息为:unable to open database file
+2017-05-12 16:44:26 [ AWT-EventQueue-0:2750 ] - [ ERROR ] qk.dao.MessageDao:155 >>修改信息异常,异常信息为:unable to open database file
+2017-05-12 16:57:36 [ AWT-EventQueue-0:2743 ] - [ ERROR ] qk.dao.MessageDao:154 >>修改信息异常,异常信息为:assertion failure: param count (1) != value count (2)
+2017-05-12 16:57:38 [ AWT-EventQueue-0:4662 ] - [ ERROR ] qk.dao.MessageDao:154 >>修改信息异常,异常信息为:assertion failure: param count (1) != value count (2)
+2017-05-12 16:57:40 [ AWT-EventQueue-0:6627 ] - [ ERROR ] qk.dao.MessageDao:154 >>修改信息异常,异常信息为:assertion failure: param count (1) != value count (2)
+2017-05-12 16:57:42 [ AWT-EventQueue-0:8630 ] - [ ERROR ] qk.dao.MessageDao:154 >>修改信息异常,异常信息为:assertion failure: param count (1) != value count (2)
+2017-05-12 16:57:44 [ AWT-EventQueue-0:10642 ] - [ ERROR ] qk.dao.MessageDao:154 >>修改信息异常,异常信息为:assertion failure: param count (1) != value count (2)
+2017-05-12 16:58:08 [ AWT-EventQueue-0:2718 ] - [ ERROR ] qk.dao.MessageDao:153 >>修改信息异常,异常信息为:unable to open database file
+2017-05-12 18:01:37 [ AWT-EventQueue-0:2727 ] - [ ERROR ] qk.dao.MessageDao:153 >>修改信息异常,异常信息为:unable to open database file
+2017-05-12 18:03:44 [ AWT-EventQueue-0:26574 ] - [ ERROR ] qk.dao.MessageDao:153 >>修改信息异常,异常信息为:unable to open database file
+2017-05-12 18:09:45 [ AWT-EventQueue-0:2756 ] - [ ERROR ] qk.dao.MessageDao:156 >>修改信息异常,异常信息为:unable to open database file
+2017-05-12 18:09:47 [ AWT-EventQueue-0:4604 ] - [ ERROR ] qk.dao.MessageDao:156 >>修改信息异常,异常信息为:unable to open database file
+2017-05-12 18:09:49 [ AWT-EventQueue-0:6650 ] - [ ERROR ] qk.dao.MessageDao:156 >>修改信息异常,异常信息为:unable to open database file
+2017-05-12 18:09:51 [ AWT-EventQueue-0:8616 ] - [ ERROR ] qk.dao.MessageDao:156 >>修改信息异常,异常信息为:unable to open database file
+2017-05-12 19:13:53 [ main:0 ] - [ ERROR ] qk.util.ExcelUtil:51 >>Excel文件不存在,异常信息为：.\11.xls (系统找不到指定的文件。)

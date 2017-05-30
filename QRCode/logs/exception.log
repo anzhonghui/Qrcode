@@ -1,0 +1,9 @@
+2017-05-18 19:31:41 [ main:0 ] - [ ERROR ] qk.util.ExcelUtil:76 >>java.io.FileNotFoundException: 12.xls (系统找不到指定的文件。)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:146)
+	at com.qk.util.ExcelUtil.getContentByXls(ExcelUtil.java:73)
+	at com.qk.util.ExcelUtil.getPort(ExcelUtil.java:56)
+	at com.qk.util.ExcelUtil.<init>(ExcelUtil.java:30)
+	at com.qk.util.ExcelUtil.getInstance(ExcelUtil.java:38)
+	at com.qk.util.ExcelUtil.main(ExcelUtil.java:157)
+

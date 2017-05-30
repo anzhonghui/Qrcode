@@ -1,0 +1,6 @@
+2017-05-10 16:06:00 [ nioEventLoopGroup-3-1:5370 ] - [ ERROR ] qk.dao.MessageDao:80 >>保存信息异常,异常信息为:
+2017-05-10 16:06:00 [ nioEventLoopGroup-3-1:5375 ] - [ ERROR ] qk.dao.MessageDao:81 >>java.sql.SQLException: table qrcode has 3 columns but 2 values were supplied
+2017-05-10 18:39:35 [ main:0 ] - [ ERROR ] qk.util.ExcelUtil:35 >>Excel文件不存在,异常信息为：
+2017-05-10 18:39:35 [ main:2 ] - [ ERROR ] qk.util.ExcelUtil:36 >>E:\11.xls (系统找不到指定的文件。)
+2017-05-10 18:40:17 [ main:0 ] - [ ERROR ] qk.util.ExcelUtil:35 >>Excel文件不存在,异常信息为：E:\11.xls (系统找不到指定的文件。)
+2017-05-10 20:05:04 [ main:62 ] - [ ERROR ] qk.util.ImgJPanel:28 >>读取图片失败,异常信息为：Can't read input file!

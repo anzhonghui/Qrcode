@@ -1,0 +1,47 @@
+2017-05-11 08:13:26 [ main:0 ] - [ INFO ] 读取的端口信息为：{8030.0=6000.0, 8020.0=5900.0, 8010.0=5800.0, 8040.0=6100.0}
+2017-05-11 08:13:26 [ main:4 ] - [ INFO ] 开始显示二维码:2017-05-11 08:13
+2017-05-11 08:13:26 [ main:63 ] - [ ERROR ] 读取图片失败,异常信息为：Can't read input file!
+2017-05-11 08:13:27 [ nioEventLoopGroup-2-1:677 ] - [ INFO ] [id: 0x6b36e684] REGISTERED
+2017-05-11 08:13:27 [ nioEventLoopGroup-2-1:685 ] - [ INFO ] [id: 0x6b36e684] BIND(0.0.0.0/0.0.0.0:8010)
+2017-05-11 08:13:27 [ nioEventLoopGroup-2-1:689 ] - [ INFO ] [id: 0x6b36e684, L:/0:0:0:0:0:0:0:0:8010] ACTIVE
+2017-05-11 08:13:27 [ nioEventLoopGroup-5-1:692 ] - [ INFO ] [id: 0xec30df88] REGISTERED
+2017-05-11 08:13:27 [ nioEventLoopGroup-3-1:692 ] - [ INFO ] [id: 0xfcc2262b] REGISTERED
+2017-05-11 08:13:27 [ nioEventLoopGroup-4-1:693 ] - [ INFO ] [id: 0x07b95855] REGISTERED
+2017-05-11 08:13:27 [ nioEventLoopGroup-4-1:694 ] - [ INFO ] [id: 0x07b95855] BIND(0.0.0.0/0.0.0.0:8020)
+2017-05-11 08:13:27 [ nioEventLoopGroup-3-1:694 ] - [ INFO ] [id: 0xfcc2262b] BIND(0.0.0.0/0.0.0.0:8040)
+2017-05-11 08:13:27 [ nioEventLoopGroup-5-1:694 ] - [ INFO ] [id: 0xec30df88] BIND(0.0.0.0/0.0.0.0:8030)
+2017-05-11 08:13:27 [ nioEventLoopGroup-4-1:695 ] - [ INFO ] [id: 0x07b95855, L:/0:0:0:0:0:0:0:0:8020] ACTIVE
+2017-05-11 08:13:27 [ nioEventLoopGroup-3-1:695 ] - [ INFO ] [id: 0xfcc2262b, L:/0:0:0:0:0:0:0:0:8040] ACTIVE
+2017-05-11 08:13:27 [ nioEventLoopGroup-5-1:696 ] - [ INFO ] [id: 0xec30df88, L:/0:0:0:0:0:0:0:0:8030] ACTIVE
+2017-05-11 08:13:28 [ AWT-EventQueue-0:2166 ] - [ INFO ] 从库中取消息-msgCount:1Message [id=1, meg=451252454241, port=5800]
+2017-05-11 08:13:28 [ AWT-EventQueue-0:2169 ] - [ INFO ] 处理后的消息为：[5800#1#0#0#1$4512524542, 5800#1#0#1#2$41]
+2017-05-11 08:13:28 [ AWT-EventQueue-0:2392 ] - [ INFO ] 显示消息1的第1张二维码
+2017-05-11 08:13:30 [ AWT-EventQueue-0:4148 ] - [ INFO ] 显示消息1的第2张二维码
+2017-05-11 08:13:32 [ AWT-EventQueue-0:6165 ] - [ INFO ] 从库中取消息-msgCount:2Message [id=2, meg=451252454241, port=5800]
+2017-05-11 08:13:32 [ AWT-EventQueue-0:6165 ] - [ INFO ] 处理后的消息为：[5800#2#0#0#1$4512524542, 5800#2#0#1#2$41]
+2017-05-11 08:13:32 [ AWT-EventQueue-0:6223 ] - [ INFO ] 显示消息2的第1张二维码
+2017-05-11 08:13:34 [ AWT-EventQueue-0:8162 ] - [ INFO ] 显示消息2的第2张二维码
+2017-05-11 08:13:36 [ AWT-EventQueue-0:10187 ] - [ INFO ] 从库中取消息-msgCount:3Message [id=3, meg=451252454241&451252454241, port=5800]
+2017-05-11 08:13:36 [ AWT-EventQueue-0:10187 ] - [ INFO ] 处理后的消息为：[5800#3#0#0#1$4512524542, 5800#3#0#0#2$41&4512524, 5800#3#0#1#3$54241]
+2017-05-11 08:13:36 [ AWT-EventQueue-0:10268 ] - [ INFO ] 显示消息3的第1张二维码
+2017-05-11 08:13:36 [ AWT-EventQueue-0:10288 ] - [ INFO ] 删除5张图片
+2017-05-11 08:13:38 [ AWT-EventQueue-0:12156 ] - [ INFO ] 显示消息3的第2张二维码
+2017-05-11 08:13:40 [ AWT-EventQueue-0:14154 ] - [ INFO ] 显示消息3的第3张二维码
+2017-05-11 08:13:42 [ AWT-EventQueue-0:16176 ] - [ INFO ] 从库中库消息-msgCount:4Message [id=4, meg=1234567891, port=5900]
+2017-05-11 08:13:42 [ AWT-EventQueue-0:16176 ] - [ INFO ] 处理后的消息为：5900#4#1#0#0$1234567891
+2017-05-11 08:13:42 [ AWT-EventQueue-0:16200 ] - [ INFO ] 显示消息4的二维码
+2017-05-11 08:13:44 [ AWT-EventQueue-0:18168 ] - [ INFO ] 从库中库消息-msgCount:5Message [id=5, meg=1234567891, port=5900]
+2017-05-11 08:13:44 [ AWT-EventQueue-0:18168 ] - [ INFO ] 处理后的消息为：5900#5#1#0#0$1234567891
+2017-05-11 08:13:44 [ AWT-EventQueue-0:18188 ] - [ INFO ] 显示消息5的二维码
+2017-05-11 08:13:46 [ AWT-EventQueue-0:20176 ] - [ INFO ] 从库中取消息-msgCount:6Message [id=6, meg=1234567891&1234567891, port=5900]
+2017-05-11 08:13:46 [ AWT-EventQueue-0:20177 ] - [ INFO ] 处理后的消息为：[5900#6#0#0#1$1234567891, 5900#6#0#0#2$&123456789, 5900#6#0#1#3$1]
+2017-05-11 08:13:46 [ AWT-EventQueue-0:20227 ] - [ INFO ] 显示消息6的第1张二维码
+2017-05-11 08:13:46 [ AWT-EventQueue-0:20244 ] - [ INFO ] 删除5张图片
+2017-05-11 08:13:48 [ AWT-EventQueue-0:22165 ] - [ INFO ] 显示消息6的第2张二维码
+2017-05-11 08:13:50 [ AWT-EventQueue-0:24156 ] - [ INFO ] 显示消息6的第3张二维码
+2017-05-11 08:13:52 [ AWT-EventQueue-0:26182 ] - [ INFO ] 从库中库消息-msgCount:7Message [id=7, meg=1234567891, port=5900]
+2017-05-11 08:13:52 [ AWT-EventQueue-0:26183 ] - [ INFO ] 处理后的消息为：5900#7#1#0#0$1234567891
+2017-05-11 08:13:52 [ AWT-EventQueue-0:26203 ] - [ INFO ] 显示消息7的二维码
+2017-05-11 08:13:54 [ AWT-EventQueue-0:28157 ] - [ INFO ] 从库中库消息-msgCount:8Message [id=8, meg=1234567891, port=5900]
+2017-05-11 08:13:54 [ AWT-EventQueue-0:28158 ] - [ INFO ] 处理后的消息为：5900#8#1#0#0$1234567891
+2017-05-11 08:13:54 [ AWT-EventQueue-0:28316 ] - [ INFO ] 显示消息8的二维码

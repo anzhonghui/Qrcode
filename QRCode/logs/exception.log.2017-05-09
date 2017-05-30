@@ -1,0 +1,62 @@
+2017-05-09 08:12:50 [ nioEventLoopGroup-6-1:35205 ] - [ ERROR ] qk.dao.MessageDao:79 >>保存信息异常,异常信息为:
+2017-05-09 08:12:50 [ nioEventLoopGroup-6-1:35207 ] - [ ERROR ] qk.dao.MessageDao:80 >>java.sql.SQLException: unable to open database file
+2017-05-09 08:12:50 [ nioEventLoopGroup-6-1:35326 ] - [ ERROR ] qk.dao.MessageDao:79 >>保存信息异常,异常信息为:
+2017-05-09 08:12:50 [ nioEventLoopGroup-6-1:35327 ] - [ ERROR ] qk.dao.MessageDao:80 >>java.sql.SQLException: unable to open database file
+2017-05-09 08:12:50 [ nioEventLoopGroup-6-1:35424 ] - [ ERROR ] qk.dao.MessageDao:79 >>保存信息异常,异常信息为:
+2017-05-09 08:12:51 [ nioEventLoopGroup-6-1:35425 ] - [ ERROR ] qk.dao.MessageDao:80 >>java.sql.SQLException: unable to open database file
+2017-05-09 08:12:51 [ nioEventLoopGroup-6-1:35570 ] - [ ERROR ] qk.dao.MessageDao:79 >>保存信息异常,异常信息为:
+2017-05-09 08:12:51 [ nioEventLoopGroup-6-1:35570 ] - [ ERROR ] qk.dao.MessageDao:80 >>java.sql.SQLException: unable to open database file
+2017-05-09 08:12:51 [ nioEventLoopGroup-6-1:35662 ] - [ ERROR ] qk.dao.MessageDao:79 >>保存信息异常,异常信息为:
+2017-05-09 08:12:51 [ nioEventLoopGroup-6-1:35663 ] - [ ERROR ] qk.dao.MessageDao:80 >>java.sql.SQLException: unable to open database file
+2017-05-09 08:12:52 [ nioEventLoopGroup-6-1:36685 ] - [ ERROR ] qk.dao.MessageDao:79 >>保存信息异常,异常信息为:
+2017-05-09 08:12:52 [ nioEventLoopGroup-6-1:36685 ] - [ ERROR ] qk.dao.MessageDao:80 >>java.sql.SQLException: unable to open database file
+2017-05-09 08:12:53 [ nioEventLoopGroup-6-1:37679 ] - [ ERROR ] qk.dao.MessageDao:79 >>保存信息异常,异常信息为:
+2017-05-09 08:12:53 [ nioEventLoopGroup-6-1:37679 ] - [ ERROR ] qk.dao.MessageDao:80 >>java.sql.SQLException: unable to open database file
+2017-05-09 08:12:54 [ nioEventLoopGroup-6-1:38688 ] - [ ERROR ] qk.dao.MessageDao:79 >>保存信息异常,异常信息为:
+2017-05-09 08:12:54 [ nioEventLoopGroup-6-1:38689 ] - [ ERROR ] qk.dao.MessageDao:80 >>java.sql.SQLException: unable to open database file
+2017-05-09 08:12:55 [ nioEventLoopGroup-6-1:39685 ] - [ ERROR ] qk.dao.MessageDao:79 >>保存信息异常,异常信息为:
+2017-05-09 08:12:55 [ nioEventLoopGroup-6-1:39686 ] - [ ERROR ] qk.dao.MessageDao:80 >>java.sql.SQLException: unable to open database file
+2017-05-09 08:12:56 [ nioEventLoopGroup-6-1:40704 ] - [ ERROR ] qk.dao.MessageDao:79 >>保存信息异常,异常信息为:
+2017-05-09 08:12:56 [ nioEventLoopGroup-6-1:40705 ] - [ ERROR ] qk.dao.MessageDao:80 >>java.sql.SQLException: unable to open database file
+2017-05-09 08:12:57 [ nioEventLoopGroup-6-1:41725 ] - [ ERROR ] qk.dao.MessageDao:79 >>保存信息异常,异常信息为:
+2017-05-09 08:12:57 [ nioEventLoopGroup-6-1:41726 ] - [ ERROR ] qk.dao.MessageDao:80 >>java.sql.SQLException: unable to open database file
+2017-05-09 08:12:58 [ nioEventLoopGroup-6-1:42734 ] - [ ERROR ] qk.dao.MessageDao:79 >>保存信息异常,异常信息为:
+2017-05-09 08:12:58 [ nioEventLoopGroup-6-1:42735 ] - [ ERROR ] qk.dao.MessageDao:80 >>java.sql.SQLException: unable to open database file
+2017-05-09 08:12:59 [ nioEventLoopGroup-6-1:43745 ] - [ ERROR ] qk.dao.MessageDao:79 >>保存信息异常,异常信息为:
+2017-05-09 08:12:59 [ nioEventLoopGroup-6-1:43746 ] - [ ERROR ] qk.dao.MessageDao:80 >>java.sql.SQLException: unable to open database file
+2017-05-09 08:13:00 [ nioEventLoopGroup-6-1:44765 ] - [ ERROR ] qk.dao.MessageDao:79 >>保存信息异常,异常信息为:
+2017-05-09 08:13:00 [ nioEventLoopGroup-6-1:44765 ] - [ ERROR ] qk.dao.MessageDao:80 >>java.sql.SQLException: unable to open database file
+2017-05-09 08:13:01 [ nioEventLoopGroup-6-1:45777 ] - [ ERROR ] qk.dao.MessageDao:79 >>保存信息异常,异常信息为:
+2017-05-09 08:13:01 [ nioEventLoopGroup-6-1:45778 ] - [ ERROR ] qk.dao.MessageDao:80 >>java.sql.SQLException: unable to open database file
+2017-05-09 08:13:02 [ nioEventLoopGroup-6-1:46793 ] - [ ERROR ] qk.dao.MessageDao:79 >>保存信息异常,异常信息为:
+2017-05-09 08:13:02 [ nioEventLoopGroup-6-1:46794 ] - [ ERROR ] qk.dao.MessageDao:80 >>java.sql.SQLException: unable to open database file
+2017-05-09 08:13:03 [ nioEventLoopGroup-6-1:47800 ] - [ ERROR ] qk.dao.MessageDao:79 >>保存信息异常,异常信息为:
+2017-05-09 08:13:03 [ nioEventLoopGroup-6-1:47801 ] - [ ERROR ] qk.dao.MessageDao:80 >>java.sql.SQLException: unable to open database file
+2017-05-09 08:13:04 [ nioEventLoopGroup-6-1:48817 ] - [ ERROR ] qk.dao.MessageDao:79 >>保存信息异常,异常信息为:
+2017-05-09 08:13:04 [ nioEventLoopGroup-6-1:48818 ] - [ ERROR ] qk.dao.MessageDao:80 >>java.sql.SQLException: unable to open database file
+2017-05-09 08:13:05 [ nioEventLoopGroup-6-1:49828 ] - [ ERROR ] qk.dao.MessageDao:79 >>保存信息异常,异常信息为:
+2017-05-09 08:13:05 [ nioEventLoopGroup-6-1:49829 ] - [ ERROR ] qk.dao.MessageDao:80 >>java.sql.SQLException: unable to open database file
+2017-05-09 08:13:06 [ nioEventLoopGroup-6-1:50852 ] - [ ERROR ] qk.dao.MessageDao:79 >>保存信息异常,异常信息为:
+2017-05-09 08:13:06 [ nioEventLoopGroup-6-1:50853 ] - [ ERROR ] qk.dao.MessageDao:80 >>java.sql.SQLException: unable to open database file
+2017-05-09 08:13:07 [ nioEventLoopGroup-6-1:51860 ] - [ ERROR ] qk.dao.MessageDao:79 >>保存信息异常,异常信息为:
+2017-05-09 08:13:07 [ nioEventLoopGroup-6-1:51860 ] - [ ERROR ] qk.dao.MessageDao:80 >>java.sql.SQLException: unable to open database file
+2017-05-09 08:13:08 [ nioEventLoopGroup-6-1:52867 ] - [ ERROR ] qk.dao.MessageDao:79 >>保存信息异常,异常信息为:
+2017-05-09 08:13:08 [ nioEventLoopGroup-6-1:52869 ] - [ ERROR ] qk.dao.MessageDao:80 >>java.sql.SQLException: unable to open database file
+2017-05-09 08:13:09 [ nioEventLoopGroup-6-1:53868 ] - [ ERROR ] qk.dao.MessageDao:79 >>保存信息异常,异常信息为:
+2017-05-09 08:13:09 [ nioEventLoopGroup-6-1:53869 ] - [ ERROR ] qk.dao.MessageDao:80 >>java.sql.SQLException: unable to open database file
+2017-05-09 08:13:10 [ nioEventLoopGroup-6-1:54889 ] - [ ERROR ] qk.dao.MessageDao:79 >>保存信息异常,异常信息为:
+2017-05-09 08:13:10 [ nioEventLoopGroup-6-1:54890 ] - [ ERROR ] qk.dao.MessageDao:80 >>java.sql.SQLException: unable to open database file
+2017-05-09 08:13:11 [ nioEventLoopGroup-6-1:55901 ] - [ ERROR ] qk.dao.MessageDao:79 >>保存信息异常,异常信息为:
+2017-05-09 08:13:11 [ nioEventLoopGroup-6-1:55902 ] - [ ERROR ] qk.dao.MessageDao:80 >>java.sql.SQLException: unable to open database file
+2017-05-09 08:13:12 [ nioEventLoopGroup-6-1:56917 ] - [ ERROR ] qk.dao.MessageDao:79 >>保存信息异常,异常信息为:
+2017-05-09 08:13:12 [ nioEventLoopGroup-6-1:56918 ] - [ ERROR ] qk.dao.MessageDao:80 >>java.sql.SQLException: unable to open database file
+2017-05-09 08:13:13 [ nioEventLoopGroup-6-1:57924 ] - [ ERROR ] qk.dao.MessageDao:79 >>保存信息异常,异常信息为:
+2017-05-09 08:13:13 [ nioEventLoopGroup-6-1:57925 ] - [ ERROR ] qk.dao.MessageDao:80 >>java.sql.SQLException: unable to open database file
+2017-05-09 08:13:14 [ nioEventLoopGroup-6-1:58936 ] - [ ERROR ] qk.dao.MessageDao:79 >>保存信息异常,异常信息为:
+2017-05-09 08:13:14 [ nioEventLoopGroup-6-1:58937 ] - [ ERROR ] qk.dao.MessageDao:80 >>java.sql.SQLException: unable to open database file
+2017-05-09 08:13:45 [ nioEventLoopGroup-5-1:23753 ] - [ ERROR ] qk.dao.MessageDao:79 >>保存信息异常,异常信息为:
+2017-05-09 08:13:45 [ nioEventLoopGroup-5-1:23754 ] - [ ERROR ] qk.dao.MessageDao:80 >>java.sql.SQLException: unable to open database file
+2017-05-09 08:13:46 [ nioEventLoopGroup-5-1:24774 ] - [ ERROR ] qk.dao.MessageDao:79 >>保存信息异常,异常信息为:
+2017-05-09 08:13:46 [ nioEventLoopGroup-5-1:24776 ] - [ ERROR ] qk.dao.MessageDao:80 >>java.sql.SQLException: unable to open database file
+2017-05-09 08:13:47 [ nioEventLoopGroup-5-1:25770 ] - [ ERROR ] qk.dao.MessageDao:79 >>保存信息异常,异常信息为:
+2017-05-09 08:13:47 [ nioEventLoopGroup-5-1:25771 ] - [ ERROR ] qk.dao.MessageDao:80 >>java.sql.SQLException: unable to open database file
